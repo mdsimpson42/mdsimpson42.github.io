@@ -1,5 +1,3 @@
-# Mike Simpson - Professional Nerd
-
 My name is Mike, aka MDSimpson, Professional nerd, father, photographer, gamer, aspiring writer, sci-fi addict and code monkey.
 
 ## My Projects
