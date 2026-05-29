@@ -1,0 +1,47 @@
+baseurl: ""
+
+repository: mdsimpson42/mdsimpson42
+remote_theme: pages-themes/cayman@v0.2.0
+
+title: MDSimpson.co.uk
+
+collections:
+  tags:
+    output: true
+  categories:
+    output: true
+  pages:
+    output: true
+    permalink: /:path
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: /:year/:month/:day/:title.html
+  - scope:
+      path: ""
+      type: "tags"
+    values:
+      layout: "tag"
+  - scope:
+      path: ""
+      type: "categories"
+    values:
+      layout: "category"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-paginate-v2
+
+pagination:
+  enabled: true
+

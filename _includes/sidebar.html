@@ -1,0 +1,54 @@
+<div class="sidebar-card">
+  <img src="{{ site.baseurl }}/assets/img/mdsimpson.jpg" alt="Photo of Mike Simpson" class="sidebar-profile-image">
+  <p class="sidebar-card-label">Mike Simpson</p>
+  <p>Professional nerd, father, photographer, gamer, aspiring writer, sci-fi addict and code monkey.</p>
+</div>
+
+{% if page.collection == "posts" or page.url == "/blog" or page.url == "/blog/" or paginator %}
+<div class="sidebar-card">
+  <p class="sidebar-card-label">Categories</p>
+  <ul class="sidebar-link-list">
+    <li><a href="{{ site.baseurl }}/blog">Latest posts</a></li>
+    <li><a href="{{ site.baseurl }}/categories/stories">Stories</a></li>
+    <li><a href="{{ site.baseurl }}/categories/resources">Resources</a></li>
+  </ul>
+</div>
+{% endif %}
+
+{% if page.url == "/" or page.url == "/index.html" %}
+<div class="sidebar-card">
+  <p class="sidebar-card-label">Recent Blog Posts</p>
+  <ul class="sidebar-link-list">
+    <li><a href="{{ site.baseurl }}/artwork">Artwork</a></li>
+    <li><a href="{{ site.baseurl }}/photography">Photography</a></li>
+    <li><a href="{{ site.baseurl }}/games">Games</a></li>
+  </ul>
+</div>
+{% endif %}
+
+<div class="sidebar-card">
+  <p class="sidebar-card-label">Follow Me</p>
+  <div class="sidebar-social-links" aria-label="External profile links">
+    <a href="https://linktr.ee/mdsimpson" class="sidebar-social-link" target="_blank" rel="noopener noreferrer" aria-label="Linktree" title="Linktree">
+      <i class="fa-brands fa-linktree" aria-hidden="true"></i>
+    </a>
+    <a href="https://www.youtube.com/channel/UCr4ayutrXOfs5iEqdkfeixw" class="sidebar-social-link" target="_blank" rel="noopener noreferrer" aria-label="YouTube" title="YouTube">
+      <i class="fa-brands fa-youtube" aria-hidden="true"></i>
+    </a>
+    <a href="https://bsky.app/profile/mdsimpson.co.uk" class="sidebar-social-link" target="_blank" rel="noopener noreferrer" aria-label="Bluesky" title="Bluesky">
+      <i class="fa-brands fa-bluesky" aria-hidden="true"></i>
+    </a>
+    <a href="https://mastodon.social/@codemonkey_mike" class="sidebar-social-link" target="_blank" rel="noopener noreferrer" aria-label="Mastodon" title="Mastodon">
+      <i class="fa-brands fa-mastodon" aria-hidden="true"></i>
+    </a>
+    <a href="https://github.com/mdsimpson42" class="sidebar-social-link" target="_blank" rel="noopener noreferrer" aria-label="GitHub" title="GitHub">
+      <i class="fa-brands fa-github" aria-hidden="true"></i>
+    </a>
+    <a href="https://medium.com/@codemonkey_mike" class="sidebar-social-link" target="_blank" rel="noopener noreferrer" aria-label="Medium" title="Medium">
+      <i class="fa-brands fa-medium" aria-hidden="true"></i>
+    </a>
+    <a href="https://www.linkedin.com/in/mdsimpson42/" class="sidebar-social-link" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" title="LinkedIn">
+      <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+    </a>
+  </div>
+</div>

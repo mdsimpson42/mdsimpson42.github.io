@@ -1,0 +1,24 @@
+---
+layout: no_title
+---
+
+<h1><i class="fa-solid fa-tags category-title" title="Tag"></i>&nbsp; {{page.title}}</h1>
+{{ content }}
+
+<hr>
+<h2>Other Tags</h2>
+<p>View other tags below.</p>
+<div class="tags">
+  <p class="align-center">Tags:
+  {% for tag in site.tags %}
+        <a href="{{ tag.url | prepend:site.baseurl }}">{{ tag.title }}</a> {% if forloop.last != true %}|{% endif %} 
+  {% endfor %}
+  </p>
+</div>
+<hr>
+<h2>Posts</h2>
+<p>The following posts include the tag "{{page.title}}":</p>
+{% assign filtered_posts = site.posts | where: 'tags', page.short_name %}
+{% for post in filtered_posts %}
+  {% include post-preview.html %}
+{% endfor %}
