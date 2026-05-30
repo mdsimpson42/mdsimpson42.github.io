@@ -8,9 +8,11 @@
 <div class="sidebar-card">
   <p class="sidebar-card-label">Categories</p>
   <ul class="sidebar-link-list">
-    <li><a href="{{ site.baseurl }}/blog">Latest posts</a></li>
-    <li><a href="{{ site.baseurl }}/categories/stories">Stories</a></li>
-    <li><a href="{{ site.baseurl }}/categories/resources">Resources</a></li>
+    {% assign blog_categories = site.categories | where: "menu", "blog" | sort: "title" %}
+    {% for category in blog_categories %}
+      {% assign category_posts = site.posts | where: "categories", category.short_name %}
+      <li><a href="{{ site.baseurl }}/categories/{{ category.short_name }}">{{ category.title }} ({{ category_posts | size }})</a></li>
+    {% endfor %}
   </ul>
 </div>
 {% endif %}
@@ -19,9 +21,9 @@
 <div class="sidebar-card">
   <p class="sidebar-card-label">Recent Blog Posts</p>
   <ul class="sidebar-link-list">
-    <li><a href="{{ site.baseurl }}/artwork">Artwork</a></li>
-    <li><a href="{{ site.baseurl }}/photography">Photography</a></li>
-    <li><a href="{{ site.baseurl }}/games">Games</a></li>
+    {% for post in site.posts limit: 5 %}
+      <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+    {% endfor %}
   </ul>
 </div>
 {% endif %}

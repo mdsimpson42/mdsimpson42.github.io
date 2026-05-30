@@ -9,18 +9,15 @@
       <i>{{ post.date | date_to_string }}</i>
     </p>
     {% assign author_name = post.author | replace: '_', ' ' | replace: '-', ' ' %}
-    {% assign category = site.categories
-      | where_exp:"category", "category.short_name == post.categories[0]" 
-      | first %}
     <div class="author-name">
       <div>
-        <i class="fa-solid fa-user-large" title="Author"></i>&nbsp; 
-        {{ author_name }}
-      </div>
-      <span class="separator"></span>
-      <div>
         <i class="fa-solid fa-folder-open" title="Categories"></i>&nbsp;  
-        <a href="{{site.baseurl}}/categories/{{category.short_name}}">{{ category.title }}</a>
+        {% for page_category in post.categories %}
+          {% assign category = site.categories
+            | where_exp:"category", "category.short_name == page_category"
+            | first %}
+          <a href="{{site.baseurl}}/categories/{{page_category}}">{{ category.title }}</a>{% if forloop.last != true %}, {% endif %}
+        {% endfor %}
       </div>
       {% assign wordCount = post.content | number_of_words %}
       {% if wordCount >= 1000 %}
@@ -39,7 +36,7 @@
     </div>
     <div class="blog-posts post-preview-image">
       <div class="blog-image">
-        <img src="{{site.baseurl}}/assets/img/blog/{{ post.image }}" 
+        <img src="{{site.baseurl}}/assets/img/blog/{{ post.featured_image }}" 
           class="blog-preview-image"
           alt="{{ post.image_alt }}"
         >
@@ -53,7 +50,7 @@
               {{ post.excerpt }}
             {% endif %}
           </p>
-          <p class="read-more">Read more <i class="fa-solid fa-circle-right"></i></p>
+          <!-- <p class="read-more">Read more <i class="fa-solid fa-circle-right"></i></p> -->
         </div>
       </div>
     </div>

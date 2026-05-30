@@ -1,6 +1,6 @@
 ---
 short_name: anxiety
-title: Anxiety
+title: "Anxiety"
 menu: blog
 ---
 

@@ -1,6 +1,6 @@
 ---
 short_name: insomnia
-title: Insomnia
+title: "Insomnia"
 menu: blog
 ---
 

@@ -1,6 +1,6 @@
 ---
 short_name: self_care
-title: Self Care
+title: "Self Care"
 menu: blog
 ---
 

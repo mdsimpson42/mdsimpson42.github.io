@@ -1,6 +1,6 @@
 ---
 short_name: depression
-title: Depression
+title: "Depression"
 menu: blog
 ---
 

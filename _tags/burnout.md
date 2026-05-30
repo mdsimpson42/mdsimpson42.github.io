@@ -1,6 +1,6 @@
 ---
 short_name: burnout
-title: Burnout
+title: "Burnout"
 menu: blog
 ---
 
