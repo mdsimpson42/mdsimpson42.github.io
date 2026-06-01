@@ -5,7 +5,7 @@
 
 $font-colour: #222;
 $link-colour: #1e6bb8;
-$selected-colour: #159957;
+$selected-colour: #154899;
 
 * {
     font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
@@ -17,12 +17,14 @@ $selected-colour: #159957;
 h1 {
     font-size: 1.8rem !important;
     font-weight: 600 !important;
+    color: $selected-colour !important;
 }
 
 h2 {
     font-size: 1.6rem !important;
     margin-top: 1.5rem !important;
     font-weight: 500 !important;
+    color: $selected-colour !important;
 }
 
 h3 {
@@ -35,7 +37,7 @@ h4 {
     font-size: 1.2rem !important;
     margin-top: 1.3rem !important;
     font-weight: 500 !important;
-    color: #159957 !important;
+    color: $selected-colour !important;
 }
 
 a {
@@ -63,9 +65,10 @@ h3 a {
 }
 
 .current {
-    color: #159957 !important;
+    color: $selected-colour !important;
     padding-bottom: 15px !important;
-    border-bottom: 5px solid #159957;
+    border-bottom: 5px solid $selected-colour;
+    font-weight: 600 !important;
 }
 
 .page-header {
@@ -83,31 +86,35 @@ h3 a {
 
 .header-content {
     position: relative;
-    max-width: 60rem;
+    max-width: 55rem;
     margin-left: auto;
     margin-right: auto;
     height: 100%;
 }
 
 .header-title {
-    color: whitesmoke;
+    color: #154899;
     font-size: 2rem !important;
-    font-weight: 500 !important;
+    font-weight: 700 !important;
     text-shadow: 2px 2px 4px #000;
-    margin-top: 10px;
-    margin-left: 10px;
-    margin-bottom: 18px;
+    margin: 0 0 0.25rem 10px;
 }
 
 .header-subtitle {
     color: whitesmoke;
     margin-left: 10px;
+    margin-top: 0;
     font-size: 1rem !important;
     font-weight: 400 !important;
     text-shadow: 2px 2px 4px #000;
 }
 
 .header-link {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100%;
     text-decoration: none !important;
 }
 
@@ -130,7 +137,7 @@ h3 a {
     padding-top: 0.2rem;
     padding-bottom: 0.2rem;
     width: 100%;
-    max-width: 50rem;
+    max-width: 55rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -257,14 +264,18 @@ iframe {
 .post-preview {
     margin-top: 30px !important;
     margin-bottom: 0px;
-    padding: 20px;
-    background-color: rgb(216, 238, 245);
-    border-top: 1px solid grey;
-    border-bottom: 1px solid grey;
+    padding: 1.25rem;
+    border-radius: 18px;
+    background: linear-gradient(180deg, #f7fbfd 0%, #e6f3f7 100%);
+    border: 1px solid #c9e4ee;
+    box-shadow: 0 12px 30px rgba(20, 60, 80, 0.08);
+    transition: transform 160ms ease, box-shadow 160ms ease, background 160ms ease;
 }
 
 .post-preview:hover{
-    background-color: rgb(191, 219, 229);
+    background: linear-gradient(180deg, #eff8fb 0%, #dceef5 100%);
+    box-shadow: 0 14px 32px rgba(20, 60, 80, 0.12);
+    transform: translateY(-1px);
     cursor: pointer;
 }
 
@@ -279,9 +290,17 @@ iframe {
 .pagination {
     margin-top: 28px;
     display: grid;
-    grid-template-columns: 48px 1fr 48px;
+    grid-template-columns: auto 1fr auto;
     align-items: center;
     column-gap: 12px;
+}
+
+.pagination > :first-child {
+    justify-self: start;
+}
+
+.pagination > :last-child {
+    justify-self: end;
 }
 
 .pagination-status {
@@ -293,14 +312,14 @@ iframe {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 48px;
+    width: 160px;
     height: 50px;
     border-radius: 8px;
     border: 1px solid transparent;
     background-color: #d8eef5;
     color: $font-colour;
     text-decoration: none !important;
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: 700;
     line-height: 1;
     vertical-align: middle;
@@ -928,12 +947,23 @@ body.is-lightbox-open {
     cursor: pointer;
 }
 
+.footer-links .icon-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.footer-links .icon-link i {
+    padding: 0;
+    line-height: 1;
+}
+
 .footer-links a:hover {
-    color: lightsteelblue;
+    color: rgb(33, 45, 59);
 }
 
 .footer-links i {
-    padding: 10px;
+    padding: 0;
 }
   
 .menu > .menu-list > li:hover > .sub-menu {
@@ -1276,12 +1306,12 @@ button:hover {
 }
 
 .sidebar-card-label {
+    margin-top: 0.35rem !important;
     margin-bottom: 0.35rem !important;
-    text-transform: uppercase;
     letter-spacing: 0.08em;
-    font-size: 0.8rem !important;
+    font-size: 1rem !important;
     font-weight: 700 !important;
-    color: #159957 !important;
+    color: #154899 !important;
 }
 
 .sidebar-link-list {
@@ -1299,7 +1329,9 @@ button:hover {
     flex-wrap: wrap;
     justify-content: center;
     gap: 0.6rem;
-    margin-top: 0.15rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
 }
 
 .sidebar-social-link {
@@ -1335,7 +1367,7 @@ button:hover {
 
 @media (min-width: 943px) {
     .main-content {
-        grid-template-columns: minmax(12rem, 25%) minmax(0, 1fr);
+        grid-template-columns: minmax(12rem, 30%) minmax(0, 1fr);
     }
 }
 

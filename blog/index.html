@@ -27,17 +27,17 @@ pagination:
 {% if paginator.total_pages > 1 %}
 <nav class="pagination" aria-label="Blog pagination">
   {% if paginator.next_page_path %}
-    <a class="pagination-control" href="{{ paginator.next_page_path | prepend: site.baseurl }}" aria-label="Older posts" title="Older posts">&larr;</a>
+    <a class="pagination-control" href="{{ paginator.next_page_path | prepend: site.baseurl }}" aria-label="Older posts" title="Older posts">&larr; Older Posts</a>
   {% else %}
-    <span class="pagination-control is-disabled" aria-disabled="true" title="Older posts">&larr;</span>
+    <span class="pagination-control is-disabled" aria-disabled="true" title="Older posts">&larr; Older Posts</span>
   {% endif %}
 
-  <span class="pagination-status">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  <span class="pagination-status"></span>
 
   {% if paginator.previous_page_path %}
-    <a class="pagination-control" href="{{ paginator.previous_page_path | prepend: site.baseurl }}" aria-label="Newer posts" title="Newer posts">&rarr;</a>
+    <a class="pagination-control" href="{{ paginator.previous_page_path | prepend: site.baseurl }}" aria-label="Newer posts" title="Newer posts">Newer Posts &rarr;</a>
   {% else %}
-    <span class="pagination-control is-disabled" aria-disabled="true" title="Newer posts">&rarr;</span>
+    <span class="pagination-control is-disabled" aria-disabled="true" title="Newer posts">Newer Posts &rarr;</span>
   {% endif %}
 </nav>
 {% endif %}
