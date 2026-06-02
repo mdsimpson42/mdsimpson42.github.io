@@ -58,12 +58,6 @@ h3 a {
     text-align: center;
 }
 
-.mailing-list-form {
-    max-width: 600px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 .current {
     color: $selected-colour !important;
     padding-bottom: 15px !important;
@@ -86,7 +80,7 @@ h3 a {
 
 .header-content {
     position: relative;
-    max-width: 55rem;
+    max-width: 65rem;
     margin-left: auto;
     margin-right: auto;
     height: 100%;
@@ -137,7 +131,7 @@ h3 a {
     padding-top: 0.2rem;
     padding-bottom: 0.2rem;
     width: 100%;
-    max-width: 55rem;
+    max-width: 65rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -438,6 +432,7 @@ iframe {
     font-size: larger;
     margin-top: 0px !important;
     margin-bottom: 0px !important;
+    color: $selected-colour !important;
 }
 
 .post-date-wide {
@@ -880,7 +875,7 @@ body.is-lightbox-open {
     align-items: center;
     justify-content: center;
     min-height: 44px;
-    padding: 8px 32px;
+    padding: 8px 40px;
     font-size: 1rem;
     line-height: 1.2;
     margin: 0px;
@@ -1269,7 +1264,7 @@ button:hover {
     display: grid;
     gap: 2rem;
     align-items: start;
-    padding: 2rem 3rem;
+    padding: 2rem 0rem;
 }
 
 .page-sidebar {
@@ -1367,7 +1362,7 @@ button:hover {
 
 @media (min-width: 943px) {
     .main-content {
-        grid-template-columns: minmax(12rem, 30%) minmax(0, 1fr);
+        grid-template-columns: minmax(12rem, 25%) minmax(0, 1fr);
     }
 }
 
