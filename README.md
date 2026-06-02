@@ -1,18 +1,28 @@
-My name is Mike, aka MDSimpson, Professional nerd, father, photographer, gamer, aspiring writer, sci-fi addict and code monkey.
+# MDSimpson.co.uk
 
-## My Projects
+This is the repository for my [mdsimpson.co.uk](https://mdsimpson.co.uk/), my
+personal website and blog. I have ported the site from WordPress to a static site
+built with Jekyll, hosted on GitHub Pages.
 
-Here are some examples of the projects I've worked on:
+## Installation
 
-- [ConveRSE - Let's Talk About Mental Health](https://mdsimpson42.github.io/converse/): a hub for mental health information and support
-for the research software community.
-- [Task Management for Humans as Self-Care](https://github.com/carpentries-incubator/task-management): a project to introduce a range of
-task-management solutions, to help people with their life-work balance.
+The site has been developed on Windows. To run a local version for testing, you will
+eed to follow these instructions:
 
-## More
+**1 - Download the [Windows Ruby Installer](https://rubyinstaller.org/).**
 
-You can also find me:
+- Install the version with the dev kit and tick the box at the end to install MSYS2
+and the development toolchain.
 
-- [My GitHub Profile](https://github.com/mdsimpson42).
-- Personal Site: [mdsimpson.co.uk](https://mdsimpson.co.uk/).
-- All my links: [linktr.ee/mdsimpson](https://linktr.ee/mdsimpson).
+**2 - Install Jekyll using `gem install jekyll bundler`.**
+
+**3 - You may have to run `bundle install` to install any remaining dependencies.**
+
+More info can be found in the [Jekyll Documentation](https://jekyllrb.com/docs/).
+
+## Running Locally
+
+To run locally, use `bundle exec jekyll serve --livereload`, which will run a local web
+server at `http://localhost:4000`.
+
+The page will automatically reload when changes are made.
