@@ -130,6 +130,8 @@ h3 a {
     // padding: 2rem auto;
     padding-top: 0.2rem;
     padding-bottom: 0.2rem;
+    padding-left: 2.0rem;
+    padding-right: 2.0rem;
     width: 100%;
     max-width: 65rem;
     display: flex;
@@ -1262,7 +1264,7 @@ button:hover {
 
 .main-content {
     display: grid;
-    gap: 2rem;
+    gap: 1rem;
     align-items: start;
     padding: 2rem 0rem;
 }
@@ -1274,6 +1276,8 @@ button:hover {
 
 .page-main-column {
     min-width: 0;
+    padding-left: 2rem;
+    padding-right: 2rem;
 }
 
 .page-main-column > :first-child {
