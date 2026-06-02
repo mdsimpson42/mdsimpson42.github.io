@@ -1,0 +1,33 @@
+- name: Home
+  link: /
+  tooltip: Home
+  menu: home
+- name: Blog
+  link: /blog
+  tooltip: Blog posts and articles
+  menu: blog
+- name: Research
+  link: /research
+  tooltip: Research projects and publications
+  menu: research
+- name: Writing
+  link: /writing
+  tooltip: Writing and related posts
+  menu: writing
+- name: Games
+  link: /games
+  tooltip: Game development projects
+  menu: games
+- name: Photography
+  link: /photography
+  tooltip: Photography portfolio
+  menu: photography
+- name: Artwork
+  link: /artwork
+  tooltip: Digital artwork portfolio
+  menu: artwork
+- name: Contact
+  link: /contact
+  tooltip: Get in touch with me
+  menu: contact
+

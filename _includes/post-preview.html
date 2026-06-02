@@ -1,0 +1,57 @@
+<div class="post-preview" onclick="location.href='{{ post.url | prepend:site.baseurl }}';">
+    <div class="post-preview-header">
+      <h3 class="post-title">{{ post.title }}</h3>
+      <p class="post-date-wide">
+        <i>{{ post.date | date_to_string }}</i>
+      </p>
+    </div>
+    <p class="post-date-mobile">
+      <i>{{ post.date | date_to_string }}</i>
+    </p>
+    {% assign author_name = post.author | replace: '_', ' ' | replace: '-', ' ' %}
+    <div class="author-name">
+      <div>
+        <i class="fa-solid fa-folder-open" title="Categories"></i>&nbsp;  
+        {% for page_category in post.categories %}
+          {% assign category = site.categories
+            | where_exp:"category", "category.short_name == page_category"
+            | first %}
+          <a href="{{site.baseurl}}/categories/{{page_category}}">{{ category.title }}</a>{% if forloop.last != true %}, {% endif %}
+        {% endfor %}
+      </div>
+      {% assign wordCount = post.content | number_of_words %}
+      {% if wordCount >= 1000 %}
+        {% assign wordCountX = wordCount | divided_by: 1000.0 % | round | append: ',' %}
+        {% assign rest = wordCount | minus: 1000 %}
+        {% if rest < 10 %}
+          {% assign rest = rest | prepend: '00' %}
+        {% elsif rest < 100 %}
+          {% assign rest = rest | prepend: '0' %}
+        {% endif %}
+        {% assign wordCountFormatted = wordCountX | append: rest %}
+      {% else %}
+        {% assign wordCountFormatted = wordCount %}
+      {% endif %}
+      <span class="word-count"><i>{{wordCountFormatted}} words</i></span>
+    </div>
+    <div class="blog-posts post-preview-image">
+      <div class="blog-image">
+        <img src="{{site.baseurl}}/assets/img/blog/{{ post.featured_image }}" 
+          class="blog-preview-image"
+          alt="{{ post.image_alt }}"
+        >
+      </div>
+      <div class="blog-excerpt">
+        <div class="blog-excerpt-content">
+          <p>
+            {% if post.excerpt | number_of_words > 51 %}
+              {{ post.excerpt | truncatewords: 51 }}
+            {% else %}
+              {{ post.excerpt }}
+            {% endif %}
+          </p>
+          <!-- <p class="read-more">Read more <i class="fa-solid fa-circle-right"></i></p> -->
+        </div>
+      </div>
+    </div>
+  </div>

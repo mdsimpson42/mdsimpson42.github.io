@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{page.title}} - MDSimpson.co.uk</title>
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/style.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/customisations.css">
+    <link rel="shortcut icon" type="image/png" href="{{site.baseurl}}/assets/favicon.png">
+    <script src="https://kit.fontawesome.com/251a5d6fc8.js" crossorigin="anonymous"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="{{site.baseurl}}/assets/js/burger-menu.js"></script>
+    <script src="{{site.baseurl}}/assets/js/gallery-lightbox.js"></script>
+    {% feed_meta %}
+    {% seo %}
+  </head>
+  <body>
+    {% include header.html %}
+    {% include navigation.html %}
+    <main id="content" class="main-content" role="main">
+      <aside class="page-sidebar" aria-label="Site sidebar">
+        {% include sidebar.html %}
+      </aside>
+      <div class="page-main-column">
+        <h1>{{page.title}}</h1>
+        {{ content }}
+      </div>
+    </main>
+    {% include footer.html %}
+  </body>
+</html>

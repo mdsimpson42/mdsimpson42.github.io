@@ -1,0 +1,43 @@
+---
+layout: default
+title: Blog
+menu: blog
+permalink: /blog
+pagination:
+  enabled: true
+  collection: posts
+  per_page: 8
+  permalink: /page/:num/
+  title: :title
+  sort_field: date
+  sort_reverse: true
+---
+<p>
+  Welcome to the blog. This is where you can find the latest posts from the ConveRSE Community.
+  We have invited a range of people with different background and experiences to contribute to this blog,
+  so you can find a wide range of stories, tips and advice on self-care and mental health.
+</p>
+<hr>
+<h2>Latest Posts</h2>
+<p>View the latest posts below. Click on an author, category or tag to filter the results.</p>
+{% for post in paginator.posts %}
+  {% include post-preview.html %}
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<nav class="pagination" aria-label="Blog pagination">
+  {% if paginator.next_page_path %}
+    <a class="pagination-control" href="{{ paginator.next_page_path | prepend: site.baseurl }}" aria-label="Older posts" title="Older posts">&larr; Older Posts</a>
+  {% else %}
+    <span class="pagination-control is-disabled" aria-disabled="true" title="Older posts">&larr; Older Posts</span>
+  {% endif %}
+
+  <span class="pagination-status"></span>
+
+  {% if paginator.previous_page_path %}
+    <a class="pagination-control" href="{{ paginator.previous_page_path | prepend: site.baseurl }}" aria-label="Newer posts" title="Newer posts">Newer Posts &rarr;</a>
+  {% else %}
+    <span class="pagination-control is-disabled" aria-disabled="true" title="Newer posts">Newer Posts &rarr;</span>
+  {% endif %}
+</nav>
+{% endif %}
