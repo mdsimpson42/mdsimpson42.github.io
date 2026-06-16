@@ -10,14 +10,10 @@ tags:
   - family
   - father
   - fatherhood
-  - first_time_parent
-  - giving_birth
   - labour
-  - new_father
   - parenthood
   - parenting
   - pregnancy
-  - pregnant
 featured_image: IMG_20200417_155420X-1024x538-fd60f3aac1.jpg
 ---
 

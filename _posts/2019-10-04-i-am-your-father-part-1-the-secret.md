@@ -10,7 +10,6 @@ tags:
   - fatherhood
   - parenting
   - pregnancy
-  - pregnant
 ---
 
 *October 4, 2019

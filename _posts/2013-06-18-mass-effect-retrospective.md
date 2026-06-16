@@ -5,12 +5,8 @@ author: mike
 categories:
   - retrospectives
 tags:
-  - bioware
-  - console_games
   - reviews
-  - gaming
   - mass_effect
-  - pc_games
   - video_games
 ---
 

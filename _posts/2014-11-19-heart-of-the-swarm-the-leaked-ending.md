@@ -5,12 +5,7 @@ author: mike
 categories:
   - video_games
 tags:
-  - blizzard
   - game_design
-  - gamedev
-  - gaming
-  - online_gaming
-  - pc_games
   - video_games
 featured_image: SarahKerrigan_SC2_Head2-26f9ac804c.jpg
 ---

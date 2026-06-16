@@ -10,7 +10,6 @@ tags:
   - depression
   - mental_health
   - short_story
-  - story
   - writing
 ---
 

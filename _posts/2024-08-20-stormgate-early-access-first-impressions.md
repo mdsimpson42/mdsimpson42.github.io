@@ -6,13 +6,7 @@ categories:
   - game_reviews
 tags:
   - reviews
-  - gaming
-  - pc_games
-  - real_time_strategy
-  - rts
   - sci_fi
-  - stormgate
-  - strategy_games
   - video_games
 featured_image: 20240815134700_1-1024x386-b73ce6a27b.jpg
 ---

@@ -5,11 +5,7 @@ author: mike
 categories:
   - game_reviews
 tags:
-  - console_games
   - reviews
-  - pc_games
-  - portal
-  - valve
   - video_games
 ---
 

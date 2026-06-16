@@ -5,15 +5,7 @@ author: mike
 categories:
   - electric_cars
 tags:
-  - car_review
-  - cars
-  - electric_car_charging
-  - electric_car_ownership
   - electric_cars
-  - evs
-  - motoring
-  - renault
-  - renault_zoe
 featured_image: 1-B_fuPBR_2z3NU_42QGPJBA-8c733da562.jpeg
 ---
 

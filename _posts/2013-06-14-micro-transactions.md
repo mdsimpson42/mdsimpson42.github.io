@@ -5,11 +5,6 @@ author: mike
 categories:
   - video_games
 tags:
-  - f2p
-  - free_to_play
-  - gaming
-  - mmo
-  - online_gaming
   - video_games
 ---
 

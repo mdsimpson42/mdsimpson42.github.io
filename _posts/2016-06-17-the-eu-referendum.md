@@ -5,12 +5,7 @@ author: mike
 categories:
   - miscellaneous
 tags:
-  - brexit
-  - eu
-  - eu_referendum
-  - european_union
   - politics
-  - referendum
 ---
 
 Normally I try not to get involved in this sort of thing, but what I am about to say is really important to me...

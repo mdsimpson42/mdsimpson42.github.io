@@ -10,7 +10,6 @@ tags:
   - fatherhood
   - parenting
   - pregnancy
-  - pregnant
 ---
 
 *31st December 2019*

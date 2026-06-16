@@ -5,13 +5,7 @@ author: mike
 categories:
   - game_reviews
 tags:
-  - console_games
   - reviews
-  - gaming
-  - gran_turismo
-  - playstation
-  - ps3
-  - sony
 ---
 
 Now, I am aware that what I am about to say is controversial, even if it is the truth. Lets just say I don't intend to spend the next few hundred words complaining about the game just to give it 9 out of 10 as many other (terrible) reviewers have done.

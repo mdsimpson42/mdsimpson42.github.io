@@ -6,7 +6,6 @@ categories:
   - photography
 tags:
   - photography
-  - photos
 featured_image: photographylogo-4894254bc6.png
 ---
 

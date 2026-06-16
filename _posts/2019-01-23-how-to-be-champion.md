@@ -6,16 +6,11 @@ categories:
   - mental_health
   - miscellaneous
 tags:
-  - advice
   - anxiety
   - autobiography
-  - book
   - comedy
   - depression
-  - happiness
-  - how_to_be_champion
   - mental_health
-  - sarah_millican
   - self_help
 featured_image: sarah-millican-da1a8510ba.jpg
 ---

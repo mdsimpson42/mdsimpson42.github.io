@@ -9,8 +9,6 @@ tags:
   - family
   - father
   - fatherhood
-  - first_time_parent
-  - new_father
   - parenthood
   - parenting
 featured_image: blog15-ea2e8a9046.jpg

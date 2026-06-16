@@ -5,7 +5,6 @@ author: mike
 categories:
   - game_reviews
 tags:
-  - console_games
   - reviews
   - video_games
 ---

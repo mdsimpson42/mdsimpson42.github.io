@@ -6,15 +6,6 @@ categories:
   - game_reviews
 tags:
   - reviews
-  - gaming
-  - mod
-  - pc_games
-  - review
-  - steam
-  - strategy_games
-  - the_long_war
-  - games
-  - xcom
 featured_image: 88-1-1401060296-72d905d201.jpg
 ---
 

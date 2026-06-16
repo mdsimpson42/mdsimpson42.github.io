@@ -5,20 +5,7 @@ author: mike
 categories:
   - photography
 tags:
-  - london
-  - mdsimpson_photography
-  - new_york_city
-  - newcastle
-  - niagara_falls
-  - night_photography
-  - photographer
   - photography
-  - photos
-  - scrapbook
-  - slideshow
-  - video
-  - video_scrapbook
-  - youtube
 ---
 
 I've been looking recently at new ways to promote my photography online and, as an experiment, have created a 'video scrapbook' of some of my best work...

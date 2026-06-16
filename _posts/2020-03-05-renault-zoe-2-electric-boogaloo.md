@@ -5,13 +5,7 @@ author: mike
 categories:
   - electric_cars
 tags:
-  - car_review
-  - cars
   - electric_cars
-  - electric_vehicles
-  - fully_electric
-  - renault
-  - renault_zoe
 featured_image: 1-1024x265-e15b78e04d.jpg
 ---
 

@@ -6,10 +6,7 @@ categories:
   - game_reviews
   - video_games
 tags:
-  - bioware
-  - console_games
   - reviews
-  - gaming
   - mass_effect
   - video_games
 ---

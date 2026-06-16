@@ -9,8 +9,6 @@ tags:
   - family
   - father
   - fatherhood
-  - first_time_parent
-  - new_father
   - parenthood
   - parenting
 featured_image: I-Am-Your-Father-1024x576-49a2823080.jpg

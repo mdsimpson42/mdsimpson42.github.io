@@ -5,11 +5,7 @@ author: mike
 categories:
   - video_games
 tags:
-  - adult_content
-  - age_ratings
-  - gaming
   - video_games
-  - violence
 ---
 
 I've mentioned before that I have no particular problem with sex, violence and gore in video games. I wouldn't say I'm a fan of it, any more that I am a fan of violent films. But juts because I wouldn't buy the, doesn't mean I'm not going to try and stop people making/buying them...

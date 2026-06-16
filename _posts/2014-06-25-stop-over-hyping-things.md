@@ -6,13 +6,7 @@ categories:
   - miscellaneous
   - video_games
 tags:
-  - console_games
-  - console_wars
-  - e3
   - reviews
-  - gamedev
-  - gaming
-  - miscellany
   - video_games
 featured_image: images-eb0a061323.jpg
 ---

@@ -5,7 +5,6 @@ author: mike
 categories:
   - writing
 tags:
-  - advice
   - tips
   - writing
 ---

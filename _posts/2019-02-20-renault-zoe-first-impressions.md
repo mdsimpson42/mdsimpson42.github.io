@@ -5,13 +5,7 @@ author: mike
 categories:
   - electric_cars
 tags:
-  - car_review
-  - cars
   - electric_cars
-  - electric_vehicles
-  - fully_electric
-  - renault
-  - renault_zoe
 featured_image: PSFix_20190208_175550_3x-e43190be3d.jpg
 ---
 

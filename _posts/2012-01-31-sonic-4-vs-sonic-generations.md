@@ -5,9 +5,7 @@ author: mike
 categories:
   - video_games
 tags:
-  - console_games
   - reviews
-  - pc_games
   - video_games
 ---
 

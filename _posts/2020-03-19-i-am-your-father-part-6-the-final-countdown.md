@@ -9,12 +9,9 @@ tags:
   - family
   - father
   - fatherhood
-  - first_time_parent
-  - new_father
   - parenthood
   - parenting
   - pregnancy
-  - pregnant
 featured_image: IMG_20200318_162841x-1024x313-bf2b958ba7.jpg
 ---
 

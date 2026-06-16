@@ -5,16 +5,9 @@ author: mike
 categories:
   - game_reviews
 tags:
-  - bioware
-  - console_games
   - game_design
   - reviews
-  - gamedev
-  - gaming
   - mass_effect
-  - playstation
-  - ps4
-  - review
   - video_games
 ---
 

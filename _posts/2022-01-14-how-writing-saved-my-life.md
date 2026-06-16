@@ -6,7 +6,6 @@ categories:
   - mental_health
   - writing
 tags:
-  - advice
   - anxiety
   - depression
   - mental_health

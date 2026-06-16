@@ -7,14 +7,6 @@ categories:
 tags:
   - game_design
   - reviews
-  - gamedev
-  - gaming
-  - pc_games
-  - review
-  - steam
-  - games
-  - xcom
-  - xcom_chimera_squad
 featured_image: 20200907173546_1-da620db0e1.jpg
 ---
 

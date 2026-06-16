@@ -5,14 +5,7 @@ author: mike
 categories:
   - game_reviews
 tags:
-  - blizzard
   - reviews
-  - heart_of_the_swarm
-  - pc_games
-  - review
-  - starcraft
-  - starcraft_2
-  - strategy_games
   - video_games
 ---
 

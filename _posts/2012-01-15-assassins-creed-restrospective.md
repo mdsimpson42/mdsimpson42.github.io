@@ -5,7 +5,6 @@ author: mike
 categories:
   - retrospectives
 tags:
-  - console_games
   - video_games
 ---
 

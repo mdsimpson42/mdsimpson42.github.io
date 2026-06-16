@@ -5,13 +5,7 @@ author: mike
 categories:
   - retrospectives
 tags:
-  - console_games
-  - gaming
-  - restrospective
-  - retro_games
-  - sega
-  - sonic
-  - sonic_the_hedgehog
+  - retrospective
   - video_games
 ---
 

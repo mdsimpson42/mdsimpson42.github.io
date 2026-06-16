@@ -6,12 +6,7 @@ categories:
   - game_reviews
 tags:
   - reviews
-  - gaming
-  - mmo
-  - online_gaming
-  - pc_games
   - video_games
-  - world_of_warcraft
 ---
 
 What follows is part 2 of my review of Blizzard's online phenomenon 

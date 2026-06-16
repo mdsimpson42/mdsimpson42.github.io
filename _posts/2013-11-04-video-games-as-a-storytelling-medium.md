@@ -5,15 +5,8 @@ author: mike
 categories:
   - video_games
 tags:
-  - bioware
-  - gamedev
-  - gaming
-  - interactive_storytelling
   - mass_effect
-  - miscellany
-  - story
   - storytelling
-  - games
   - writing
 featured_image: HL2_2-ddab1012a7.jpg
 ---

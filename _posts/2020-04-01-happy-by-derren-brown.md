@@ -5,17 +5,11 @@ author: mike
 categories:
   - miscellaneous
 tags:
-  - advice
   - anxiety
-  - book
   - book_review
   - depression
-  - derren_brown
-  - happiness
   - mental_health
-  - philosophy
   - self_help
-  - stoicism
 featured_image: derrenbrown-f056824cae.jpg
 ---
 

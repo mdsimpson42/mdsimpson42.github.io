@@ -5,17 +5,7 @@ author: mike
 categories:
   - video_games
 tags:
-  - console_games
   - game_design
-  - gaming
-  - lego_marvel_superheroes
-  - online_games
-  - online_gaming
-  - pc_games
-  - portal_2
-  - the_darkness
-  - travellers_tales
-  - valve
   - video_games
 ---
 

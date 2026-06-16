@@ -10,7 +10,6 @@ tags:
   - fatherhood
   - parenting
   - pregnancy
-  - pregnant
 featured_image: scan0002-2-302f5ce4fc.jpg
 ---
 

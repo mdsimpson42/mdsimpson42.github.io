@@ -5,16 +5,8 @@ author: mike
 categories:
   - video_games
 tags:
-  - achievements
   - game_design
   - game_development
-  - gamedev
-  - gaming
-  - mobile_games
-  - sonic
-  - sonic_jump
-  - sonic_the_hedgehog
-  - games
 featured_image: achievement-a654507930.jpg
 ---
 

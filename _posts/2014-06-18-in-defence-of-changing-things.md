@@ -8,12 +8,7 @@ categories:
   - writing
 tags:
   - game_design
-  - gamedev
-  - gaming
-  - geeky
-  - miscellany
   - movies
-  - nerdy
   - rant
   - storytelling
   - tv

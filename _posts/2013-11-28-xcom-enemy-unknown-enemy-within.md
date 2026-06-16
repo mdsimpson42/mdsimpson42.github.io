@@ -5,16 +5,8 @@ author: mike
 categories:
   - game_reviews
 tags:
-  - console_games
   - game_design
   - reviews
-  - gamedev
-  - gaming
-  - pc_games
-  - review
-  - steam
-  - games
-  - xcom
 featured_image: XCOM-1-1024x576-f80f2fe729.jpg
 ---
 

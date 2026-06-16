@@ -7,12 +7,6 @@ categories:
 tags:
   - game_design
   - reviews
-  - gamedev
-  - gaming
-  - immortals_fenyx_rising
-  - open_world_games
-  - ubisoft
-  - games
 featured_image: Immortals-Fenyx-Rising-d0caee6df6.jpg
 ---
 

@@ -5,15 +5,8 @@ author: mike
 categories:
   - game_reviews
 tags:
-  - blizzard
   - reviews
-  - gaming
-  - mmo
-  - online_games
-  - pc_games
   - video_games
-  - warcraft
-  - world_of_warcraft
 ---
 
 Yes, ashamed as I am to admit it, I am guilty of effectively pissing away three years of my life playing Blizzard's hugely successful online role-playing game 

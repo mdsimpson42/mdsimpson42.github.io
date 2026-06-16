@@ -5,16 +5,7 @@ author: mike
 categories:
   - game_reviews
 tags:
-  - firaxis
   - reviews
-  - gaming
-  - pc_games
-  - review
-  - steam
-  - strategy_games
-  - games
-  - xcom
-  - xcom_2
 featured_image: 2016-02-10_00015a-ca686d6092.jpg
 ---
 

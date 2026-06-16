@@ -5,8 +5,6 @@ author: mike
 categories:
   - video_games
 tags:
-  - age_ratings
-  - gaming
   - video_games
 ---
 

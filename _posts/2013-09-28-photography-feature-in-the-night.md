@@ -6,7 +6,6 @@ categories:
   - photography
 tags:
   - photography
-  - photos
 ---
 
 One of the reasons that I love photography is that I am fascinated with light. I love to take pictures of interesting lighting effects, of shadows and reflections. I also love to capture things from unusual angles or perspectives and look at tricks and illusions that can be created, occasionally with Photoshop, but usually just with the lens.

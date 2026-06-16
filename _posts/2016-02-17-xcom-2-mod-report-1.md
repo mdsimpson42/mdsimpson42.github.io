@@ -5,17 +5,6 @@ author: mike
 categories:
   - video_games
 tags:
-  - gaming
-  - mod
-  - mods
-  - pc_games
-  - steam
-  - steam_workshop
-  - strategy_games
-  - games
-  - workshop
-  - xcom
-  - xcom_2
 featured_image: 2016-02-17_00006-de6a22e265.jpg
 ---
 

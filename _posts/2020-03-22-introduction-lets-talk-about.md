@@ -6,7 +6,6 @@ categories:
   - lets_talk_about
   - mental_health
 tags:
-  - advice
   - anxiety
   - depression
   - mental_health

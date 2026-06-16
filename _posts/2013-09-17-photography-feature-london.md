@@ -5,12 +5,7 @@ author: mike
 categories:
   - photography
 tags:
-  - england
-  - london
-  - photo
   - photography
-  - photos
-  - uk
 ---
 
 For this weeks Photography Feature, I thought I'd share some of my favourite pictures that I've taken in my home city: London, England.

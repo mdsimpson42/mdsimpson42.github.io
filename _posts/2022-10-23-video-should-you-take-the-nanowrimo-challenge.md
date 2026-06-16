@@ -5,11 +5,8 @@ author: mike
 categories:
   - writing
 tags:
-  - challenge
   - nanowrimo
-  - national_novel_writing_month
   - novel_writing
-  - story_writing
   - writing
 ---
 
