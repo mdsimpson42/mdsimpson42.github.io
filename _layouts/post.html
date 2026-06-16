@@ -4,9 +4,6 @@ layout: default
 
 <div class="post-details">
   <div>
-    {% assign author_name = page.author | replace: '_', ' ' | replace: '-', ' ' %}
-    <i class="fa-solid fa-user-large" title="Author"></i>&nbsp; {{ author_name }}
-    <span class="separator"> | </span>
     <i class="fa-solid fa-calendar-days date-icon" title="Date"></i>&nbsp; {{ page.date | date_to_string }}
   </div>
   <span class="separator"> | </span>
