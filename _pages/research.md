@@ -7,7 +7,7 @@ permalink: /research/
 
 I currently work as a Research Software Engineer (RSE) and am part of the RSE Team at Newcastle University.
 
-I have worked on a number of research projects with colleagues in various disciplines at Newcastle University, as well as other partners across the UK and around the world, including the NHS and Turing Institute. Check out [my profile page](https://rse.ncldata.dev/mike-simpson) on the RSE Team website for more information about my work.
+I have worked on a number of research projects with colleagues in various disciplines at Newcastle University, as well as other partners across the UK and around the world, including the NHS and Turing Institute. Check out [my profile page](https://rse.ncldata.dev/team/mike-simpson) on the RSE Team website for more information about my work.
 
 Below are details of some of my contributions to various academic and research projects.
 
