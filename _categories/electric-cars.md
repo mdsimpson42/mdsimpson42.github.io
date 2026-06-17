@@ -4,4 +4,4 @@ title: "Electric Cars"
 menu: blog
 ---
 
-Posts categorized as Electric Cars.
+Posts about electric cars, including my honest experience of owning and living with an electric car.

@@ -4,4 +4,4 @@ title: "In Defence Of..."
 menu: blog
 ---
 
-Posts categorized as In Defence Of....
+Sometimes I feel the need to defend something that I like, or that I think is misunderstood or unfairly criticised.

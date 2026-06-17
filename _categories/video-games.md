@@ -4,4 +4,4 @@ title: "Video Games"
 menu: blog
 ---
 
-Posts categorized as Video Games.
+Posts about video games, including game reviews, retrospectives, and other gaming-related content.

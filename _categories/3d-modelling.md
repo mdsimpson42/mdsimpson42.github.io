@@ -4,4 +4,4 @@ title: "3D Modelling"
 menu: blog
 ---
 
-Posts categorized as 3D Modelling.
+Posts about my experience of learning how to create scenes and 3D models in Blender.

@@ -4,4 +4,4 @@ title: "Retrospectives"
 menu: blog
 ---
 
-Posts categorized as Retrospectives.
+Posts looking back at older video games and series, reflecting on how they have aged, and how they compare to modern games.

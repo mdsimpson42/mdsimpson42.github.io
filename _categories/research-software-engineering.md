@@ -4,4 +4,5 @@ title: "Research Software Engineering (RSE)"
 menu: blog
 ---
 
-Posts categorized as Research Software Engineering (RSE).
+Posts about my time working as a Research Software Engineering (RSE), and my involvement in the wider
+RSE community.
