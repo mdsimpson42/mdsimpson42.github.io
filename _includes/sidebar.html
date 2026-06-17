@@ -11,7 +11,9 @@
   <ul class="sidebar-link-list">
     {% assign blog_categories = site.categories | where: "menu", "blog" | sort: "title" %}
     {% for category in blog_categories %}
-      {% assign category_posts = site.posts | where: "categories", category.short_name %}
+      {% assign category_posts = site.posts
+        | where: "categories", category.short_name
+        | where_exp: "post", "post.draft != true" %}
       <li><a href="{{ site.baseurl }}/categories/{{ category.short_name }}">{{ category.title }} ({{ category_posts | size }})</a></li>
     {% endfor %}
   </ul>
@@ -22,7 +24,8 @@
 <div class="sidebar-card">
   <p class="sidebar-card-label">Recent Blog Posts</p>
   <ul class="sidebar-link-list">
-    {% for post in site.posts limit: 5 %}
+    {% assign visible_posts = site.posts | where_exp: "post", "post.draft != true" %}
+    {% for post in visible_posts limit: 5 %}
       <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>

@@ -48,15 +48,16 @@ layout: default
   {{ content }}
 </div>
 
-{% for post in site.posts %}
+{% assign visible_posts = site.posts | where_exp: "post", "post.draft != true" %}
+{% for post in visible_posts %}
   {% if post.url == page.url %}
   	{% assign pOffset = forloop.index0 | minus: 1 %}
   	{% assign nOffset = pOffset | plus: 2 %}
   	{% if forloop.first == false %}
-  	  {% assign next_post = site.posts[pOffset] %}
+    {% assign next_post = visible_posts[pOffset] %}
   	{% endif %}
   	{% if forloop.last == false %}
-  	  {% assign previous_post = site.posts[nOffset] %}
+    {% assign previous_post = visible_posts[nOffset] %}
   	{% endif %}
   	{% break %}
   {% endif %}
