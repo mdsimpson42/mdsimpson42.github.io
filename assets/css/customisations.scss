@@ -849,7 +849,9 @@ body.is-lightbox-open {
 .menu-list {
     margin-top: 0px;
     padding-top: 0px;
-    width: fit-content;
+    display: flex;
+    width: 100%;
+    max-width: 65rem;
     margin-left: auto;
     margin-right: auto;
     padding-right: 0px;
@@ -868,16 +870,20 @@ body.is-lightbox-open {
 }
   
 .menu > .menu-list > li {
-    float: left;
+    float: none;
+    flex: 1 1 0;
     position: relative;
+    max-width: 150px;
+    min-width: 100px;
 }
   
 .menu > .menu-list > li > a {
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 100%;
     min-height: 44px;
-    padding: 8px 40px;
+    padding: 8px 0px;
     font-size: 1rem;
     line-height: 1.2;
     margin: 0px;

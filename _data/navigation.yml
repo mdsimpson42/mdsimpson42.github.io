@@ -30,4 +30,8 @@
   link: /contact
   tooltip: Get in touch with me
   menu: contact
+- name: About
+  link: /about
+  tooltip: About me and this site
+  menu: about
 
