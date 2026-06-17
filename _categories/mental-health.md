@@ -1,5 +1,5 @@
 ---
-short_name: mental_health
+short_name: mental-health
 title: "Mental Health"
 menu: blog
 ---

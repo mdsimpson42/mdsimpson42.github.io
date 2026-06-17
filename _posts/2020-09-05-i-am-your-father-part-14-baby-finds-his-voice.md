@@ -3,7 +3,7 @@ title: "I Am Your Father - Part 14: Baby finds his Voice"
 date: 2020-09-05 02:24:41 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - family

@@ -3,7 +3,7 @@ title: "I Am Your Father - Part 16: Baby's First Big Bath"
 date: 2020-11-15 15:30:41 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - family

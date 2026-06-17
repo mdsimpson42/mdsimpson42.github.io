@@ -1,5 +1,5 @@
 ---
-short_name: lets_talk_about
+short_name: lets-talk-about
 title: "Let's Talk About..."
 menu: blog
 ---

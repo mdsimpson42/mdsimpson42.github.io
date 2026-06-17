@@ -3,7 +3,7 @@ title: "I Am Your Father - Part 3: The Second Scan"
 date: 2019-12-31 13:25:02 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - father

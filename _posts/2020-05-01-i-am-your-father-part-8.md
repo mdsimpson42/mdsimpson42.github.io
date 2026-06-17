@@ -3,7 +3,7 @@ title: "I Am Your Father - Part 8: Season 1 Bonus Content, Bloopers and Deleted 
 date: 2020-05-01 10:20:33 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - birth

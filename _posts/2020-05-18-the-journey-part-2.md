@@ -3,7 +3,7 @@ title: "The Journey - Part 2"
 date: 2020-05-18 21:57:05 +0000
 author: mike
 categories:
-  - mental_health
+  - mental-health
   - writing
 tags:
   - anxiety

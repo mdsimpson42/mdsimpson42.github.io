@@ -3,7 +3,7 @@ title: "I Am Your Father - Part 4: 28 Weeks Later"
 date: 2020-01-22 20:49:17 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - family

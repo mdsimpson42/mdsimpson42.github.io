@@ -3,7 +3,7 @@ title: "I Am Your Father - Part 21: Baby's First (Proper) Halloween"
 date: 2021-10-30 10:00:30 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - family

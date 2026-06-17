@@ -3,7 +3,7 @@ title: "I Am Your Father - Part 9b: Delivery"
 date: 2020-06-06 14:15:32 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - birth

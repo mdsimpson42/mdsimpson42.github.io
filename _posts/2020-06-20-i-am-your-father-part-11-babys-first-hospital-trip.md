@@ -3,7 +3,7 @@ title: "I Am Your Father - Part 11: Baby's First Hospital Trip"
 date: 2020-06-20 16:00:34 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - family

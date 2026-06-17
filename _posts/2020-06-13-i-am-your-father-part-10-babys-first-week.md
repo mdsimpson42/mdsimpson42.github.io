@@ -3,7 +3,7 @@ title: "I Am Your Father - Part 10: Baby's First Week"
 date: 2020-06-13 16:00:41 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - family

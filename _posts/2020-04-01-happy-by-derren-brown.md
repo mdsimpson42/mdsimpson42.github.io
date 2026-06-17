@@ -8,7 +8,7 @@ tags:
   - anxiety
   - book_review
   - depression
-  - mental_health
+  - mental-health
   - self_help
 featured_image: derrenbrown-f056824cae.jpg
 ---

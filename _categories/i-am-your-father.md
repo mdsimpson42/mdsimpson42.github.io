@@ -1,5 +1,5 @@
 ---
-short_name: i_am_your_father
+short_name: i-am-your-father
 title: "I Am Your Father"
 menu: blog
 ---

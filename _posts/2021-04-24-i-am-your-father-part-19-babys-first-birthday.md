@@ -3,7 +3,7 @@ title: "I Am Your Father - Part 19: Baby's First Birthday"
 date: 2021-04-24 19:00:35 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - family

@@ -3,7 +3,7 @@ title: "The Journey"
 date: 2020-05-18 21:52:23 +0000
 author: mike
 categories:
-  - mental_health
+  - mental-health
   - writing
 tags:
   - anxiety

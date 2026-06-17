@@ -3,7 +3,7 @@ title: "I Am Your Father - Part 9a: Labour"
 date: 2020-06-05 21:00:18 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - birth

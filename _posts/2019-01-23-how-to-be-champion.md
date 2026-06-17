@@ -3,7 +3,7 @@ title: "How to be Champion"
 date: 2019-01-23 20:40:39 +0000
 author: mike
 categories:
-  - mental_health
+  - mental-health
   - miscellaneous
 tags:
   - anxiety

@@ -3,7 +3,7 @@ title: "I Am Your Father - Part 17: Baby's First Christmas"
 date: 2020-12-28 19:30:32 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - family
