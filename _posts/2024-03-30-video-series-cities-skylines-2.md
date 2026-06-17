@@ -2,6 +2,7 @@
 title: "Video Series: Cities Skylines 2"
 date: 2024-03-30 20:28:00 +0000
 author: mike
+featured_image: img/blog/mdsimpson.jpg
 categories:
   - game-reviews
   - video-games

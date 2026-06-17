@@ -2,6 +2,7 @@
 title: "A New Direction..."
 date: 2019-01-09 16:00:24 +0000
 author: mike
+featured_image: img/blog/mdsimpson.jpg
 categories:
   - miscellaneous
 ---

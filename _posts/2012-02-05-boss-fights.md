@@ -2,6 +2,7 @@
 title: "Boss Fights"
 date: 2012-02-05 12:46:59 +0000
 author: mike
+featured_image: img/blog/mdsimpson.jpg
 categories:
   - video-games
 tags:

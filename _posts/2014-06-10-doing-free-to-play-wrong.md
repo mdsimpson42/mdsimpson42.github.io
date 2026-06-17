@@ -2,6 +2,7 @@
 title: "Doing Free-to-Play Wrong"
 date: 2014-06-10 16:26:53 +0000
 author: mike
+featured_image: img/blog/mdsimpson.jpg
 categories:
   - video-games
 ---

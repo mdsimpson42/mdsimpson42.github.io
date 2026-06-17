@@ -1,7 +1,9 @@
 ---
+
 title: "Working from Home: Tips"
 date: 2020-03-23 09:00:54 +0000
 author: mike
+featured_image: img/blog/mdsimpson.jpg
 categories:
   - mental-health
   - miscellaneous

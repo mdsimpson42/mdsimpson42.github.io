@@ -1,7 +1,9 @@
 ---
+
 title: "The XBOX ONE Reveal"
 date: 2013-05-22 09:28:59 +0000
 author: mike
+featured_image: img/blog/mdsimpson.jpg
 categories:
   - video-games
 tags:

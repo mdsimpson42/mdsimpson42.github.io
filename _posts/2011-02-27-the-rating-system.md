@@ -2,6 +2,7 @@
 title: "Games and The Rating System"
 date: 2011-02-27 01:30:23 +0000
 author: mike
+featured_image: img/blog/mdsimpson.jpg
 categories:
   - video-games
 tags:

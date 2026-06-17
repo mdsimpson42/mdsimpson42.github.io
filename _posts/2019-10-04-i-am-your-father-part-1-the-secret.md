@@ -2,6 +2,7 @@
 title: "I Am Your Father - Part 1: The Secret"
 date: 2019-10-04 17:41:49 +0000
 author: mike
+featured_image: img/blog/mdsimpson.jpg
 categories:
   - i-am-your-father
 tags:

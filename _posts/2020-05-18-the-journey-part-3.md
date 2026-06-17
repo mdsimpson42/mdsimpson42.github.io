@@ -1,7 +1,9 @@
 ---
+
 title: "The Journey - Part 3"
 date: 2020-05-18 22:03:40 +0000
 author: mike
+featured_image: img/blog/mdsimpson.jpg
 categories:
   - mental-health
   - writing

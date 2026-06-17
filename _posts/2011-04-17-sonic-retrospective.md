@@ -2,6 +2,7 @@
 title: "Sonic Retrospective"
 date: 2011-04-17 16:54:15 +0000
 author: mike
+featured_image: img/blog/mdsimpson.jpg
 categories:
   - retrospectives
 tags:

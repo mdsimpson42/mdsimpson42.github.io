@@ -2,6 +2,7 @@
 title: "Video: Should you take the NaNoWriMo Challenge?"
 date: 2022-10-23 13:44:54 +0000
 author: mike
+featured_image: img/blog/mdsimpson.jpg
 categories:
   - writing
 tags:

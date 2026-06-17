@@ -2,6 +2,7 @@
 title: "Open-World Games"
 date: 2013-03-20 17:29:15 +0000
 author: mike
+featured_image: img/blog/mdsimpson.jpg
 categories:
   - video-games
 tags:
