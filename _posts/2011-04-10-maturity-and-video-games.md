@@ -2,7 +2,7 @@
 title: "'Maturity' and Video Games"
 date: 2011-04-10 15:21:45 +0000
 author: mike
-featured_image: img/blog/mdsimpson.jpg
+featured_image: mdsimpson.jpg
 categories:
   - video-games
 tags:

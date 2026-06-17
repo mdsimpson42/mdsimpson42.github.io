@@ -2,7 +2,7 @@
 title: "A Sense of Perspective"
 date: 2020-03-26 23:58:18 +0000
 author: mike
-featured_image: img/blog/mdsimpson.jpg
+featured_image: mdsimpson.jpg
 categories:
   - miscellaneous
 ---

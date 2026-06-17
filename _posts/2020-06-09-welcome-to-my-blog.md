@@ -2,7 +2,7 @@
 title: "Welcome to My Blog"
 date: 2020-06-09 13:04:40 +0000
 author: mike
-featured_image: img/blog/mdsimpson.jpg
+featured_image: mdsimpson.jpg
 categories:
   - miscellaneous
 ---

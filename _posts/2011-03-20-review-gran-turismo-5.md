@@ -2,7 +2,7 @@
 title: "Review: Gran Turismo 5"
 date: 2011-03-20 15:43:03 +0000
 author: mike
-featured_image: img/blog/mdsimpson.jpg
+featured_image: mdsimpson.jpg
 categories:
   - game-reviews
 tags:

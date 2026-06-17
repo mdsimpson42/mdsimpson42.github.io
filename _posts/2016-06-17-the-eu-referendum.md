@@ -3,7 +3,7 @@
 title: "The EU Referendum"
 date: 2016-06-17 13:07:46 +0000
 author: mike
-featured_image: img/blog/mdsimpson.jpg
+featured_image: mdsimpson.jpg
 categories:
   - miscellaneous
 tags:

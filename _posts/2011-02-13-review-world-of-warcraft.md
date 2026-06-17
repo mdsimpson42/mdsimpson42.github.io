@@ -2,7 +2,7 @@
 title: "Review: World of Warcraft (Part 1)"
 date: 2011-02-13 12:23:51 +0000
 author: mike
-featured_image: img/blog/mdsimpson.jpg
+featured_image: mdsimpson.jpg
 categories:
   - game-reviews
 tags:

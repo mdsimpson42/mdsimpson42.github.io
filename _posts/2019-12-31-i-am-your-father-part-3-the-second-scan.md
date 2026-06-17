@@ -2,7 +2,7 @@
 title: "I Am Your Father - Part 3: The Second Scan"
 date: 2019-12-31 13:25:02 +0000
 author: mike
-featured_image: img/blog/mdsimpson.jpg
+featured_image: mdsimpson.jpg
 categories:
   - i-am-your-father
 tags:

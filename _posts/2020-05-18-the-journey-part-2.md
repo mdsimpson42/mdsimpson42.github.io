@@ -2,7 +2,7 @@
 title: "The Journey - Part 2"
 date: 2020-05-18 21:57:05 +0000
 author: mike
-featured_image: img/blog/mdsimpson.jpg
+featured_image: mdsimpson.jpg
 categories:
   - mental-health
   - writing

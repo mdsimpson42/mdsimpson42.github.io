@@ -3,7 +3,7 @@
 title: "Mass Effect 3: The Ending & Extended Cut"
 date: 2012-04-12 11:48:49 +0000
 author: mike
-featured_image: img/blog/mdsimpson.jpg
+featured_image: mdsimpson.jpg
 categories:
   - game-reviews
   - video-games

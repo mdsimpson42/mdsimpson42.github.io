@@ -2,7 +2,7 @@
 title: "Mass Effect Retrospective"
 date: 2013-06-18 17:00:12 +0000
 author: mike
-featured_image: img/blog/mdsimpson.jpg
+featured_image: mdsimpson.jpg
 categories:
   - retrospectives
 tags:

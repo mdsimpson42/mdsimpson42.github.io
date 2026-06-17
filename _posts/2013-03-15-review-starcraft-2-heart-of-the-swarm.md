@@ -2,7 +2,7 @@
 title: "Review - Starcraft 2: Heart of the Swarm"
 date: 2013-03-15 03:04:09 +0000
 author: mike
-featured_image: img/blog/mdsimpson.jpg
+featured_image: mdsimpson.jpg
 categories:
   - game-reviews
 tags:

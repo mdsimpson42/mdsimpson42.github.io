@@ -2,7 +2,7 @@
 title: "Lives are Dead!"
 date: 2014-05-09 18:54:58 +0000
 author: mike
-featured_image: img/blog/mdsimpson.jpg
+featured_image: mdsimpson.jpg
 categories:
   - video-games
 ---
