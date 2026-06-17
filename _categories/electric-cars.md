@@ -1,5 +1,5 @@
 ---
-short_name: electric_cars
+short_name: electric-cars
 title: "Electric Cars"
 menu: blog
 ---

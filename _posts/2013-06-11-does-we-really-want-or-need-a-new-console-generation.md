@@ -3,7 +3,7 @@ title: "Do we really want or need a new console generation?"
 date: 2013-06-11 10:20:52 +0000
 author: mike
 categories:
-  - video_games
+  - video-games
 tags:
   - video_games
 ---

@@ -3,7 +3,7 @@ title: "Console vs. PC Gaming"
 date: 2011-03-13 15:34:25 +0000
 author: mike
 categories:
-  - video_games
+  - video-games
 tags:
   - video_games
 ---

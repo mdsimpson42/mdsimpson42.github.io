@@ -3,7 +3,7 @@ title: "Stormgate (Early Access) - First Impressions"
 date: 2024-08-20 10:20:07 +0000
 author: mike
 categories:
-  - game_reviews
+  - game-reviews
 tags:
   - reviews
   - sci_fi

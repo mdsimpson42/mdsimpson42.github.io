@@ -3,8 +3,8 @@ title: "Deliver Us Mars - Year of Gaming 2025"
 date: 2025-12-23 10:00:48 +0000
 author: mike
 categories:
-  - video_games
-  - year_of_gaming_2025
+  - video-games
+  - year-of-gaming-2025
 featured_image: DuM_Nov_Screenshots_02894_1920-0f58ae65ec.jpg
 ---
 

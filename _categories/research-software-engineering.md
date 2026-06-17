@@ -1,5 +1,5 @@
 ---
-short_name: research_software_engineering_rse
+short_name: research-software-engineering
 title: "Research Software Engineering (RSE)"
 menu: blog
 ---

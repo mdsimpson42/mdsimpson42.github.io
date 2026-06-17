@@ -3,8 +3,8 @@ title: "Reflections on the Year of Gaming Challenge"
 date: 2026-01-25 15:31:09 +0000
 author: mike
 categories:
-  - video_games
-  - year_of_gaming_2025
+  - video-games
+  - year-of-gaming-2025
 featured_image: yog25-d37eb3158a.jpg
 draft: true
 ---

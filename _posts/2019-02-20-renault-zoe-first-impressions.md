@@ -3,9 +3,9 @@ title: "Renault Zoe - Going Electric"
 date: 2019-02-20 11:49:00 +0000
 author: mike
 categories:
-  - electric_cars
+  - electric-cars
 tags:
-  - electric_cars
+  - electric-cars
 featured_image: PSFix_20190208_175550_3x-e43190be3d.jpg
 ---
 

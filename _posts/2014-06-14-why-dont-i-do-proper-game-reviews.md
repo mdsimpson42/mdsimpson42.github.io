@@ -3,7 +3,7 @@ title: "Why don't I do 'proper' game reviews?"
 date: 2014-06-14 16:00:14 +0000
 author: mike
 categories:
-  - video_games
+  - video-games
 ---
 
 I haven't had any questions or comments on my blog yet, but if I were to get any, I think this would be one of them: why do I rarely write game reviews in the window immediately after a game has launched? 'Real' reviewers get the games early or on launch day, power through them and write reviews quickly to get them out around the same time as the game. Well, there are a number of reasons why I don't do this...

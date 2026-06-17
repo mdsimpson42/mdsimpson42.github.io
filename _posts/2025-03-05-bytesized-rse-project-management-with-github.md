@@ -3,7 +3,7 @@ title: "ByteSized RSE: Project Management with GitHub"
 date: 2025-03-05 17:30:03 +0000
 author: mike
 categories:
-  - research_software_engineering_rse
+  - research-software-engineering
 featured_image: c4t-1dcd9dceb6.jpg
 ---
 

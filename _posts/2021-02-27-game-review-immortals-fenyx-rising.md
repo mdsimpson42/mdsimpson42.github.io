@@ -3,7 +3,7 @@ title: "Game Review: Immortals Fenyx Rising"
 date: 2021-02-27 21:00:53 +0000
 author: mike
 categories:
-  - game_reviews
+  - game-reviews
 tags:
   - game_design
   - reviews

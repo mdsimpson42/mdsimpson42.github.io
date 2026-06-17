@@ -3,7 +3,7 @@ title: "'Maturity' and Video Games"
 date: 2011-04-10 15:21:45 +0000
 author: mike
 categories:
-  - video_games
+  - video-games
 tags:
   - video_games
 ---

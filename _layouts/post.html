@@ -13,7 +13,7 @@ layout: default
       {% assign category = site.categories
       | where_exp:"category", "category.short_name == page_category" 
       | first %}
-      <a href="{{site.baseurl}}/categories/{{ category.short_name }}">{{category.title}}</a>
+      <a href="{{site.baseurl}}/categories/{{ category.short_name }}">{{category.title}}</a>{% if forloop.last != true %}, {% endif %}
     {% endfor %}
   </div>
   {% assign wordCount = page.content | number_of_words %}

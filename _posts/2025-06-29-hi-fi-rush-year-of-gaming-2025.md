@@ -3,8 +3,8 @@ title: "Hi-Fi Rush - Year of Gaming 2025"
 date: 2025-06-29 09:31:39 +0000
 author: mike
 categories:
-  - video_games
-  - year_of_gaming_2025
+  - video-games
+  - year-of-gaming-2025
 featured_image: d43c37531eebd656aba2bbf4ce2b4af7aed4507bf9bb3a7c-14614d8819.jpg
 ---
 

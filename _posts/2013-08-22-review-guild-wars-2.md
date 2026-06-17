@@ -3,7 +3,7 @@ title: "Review: Guild Wars 2"
 date: 2013-08-22 14:46:45 +0000
 author: mike
 categories:
-  - game_reviews
+  - game-reviews
 tags:
   - reviews
 featured_image: GW2-1024x536-44d28f3a1d.jpg

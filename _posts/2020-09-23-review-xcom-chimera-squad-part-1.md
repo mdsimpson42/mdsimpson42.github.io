@@ -3,7 +3,7 @@ title: "Review - XCOM: Chimera Squad (Part 1)"
 date: 2020-09-23 17:00:06 +0000
 author: mike
 categories:
-  - game_reviews
+  - game-reviews
 tags:
   - game_design
   - reviews

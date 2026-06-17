@@ -1,5 +1,5 @@
 ---
-short_name: 3d_modelling
+short_name: 3d-modelling
 title: "3D Modelling"
 menu: blog
 ---

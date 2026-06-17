@@ -3,7 +3,7 @@ title: "XCOM 2: Mod Report 1"
 date: 2016-02-17 10:40:42 +0000
 author: mike
 categories:
-  - video_games
+  - video-games
 tags:
 featured_image: 2016-02-17_00006-de6a22e265.jpg
 ---

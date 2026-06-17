@@ -3,8 +3,8 @@ title: "Batman: Arkham Origins | Review"
 date: 2014-07-02 16:00:23 +0000
 author: mike
 categories:
-  - game_reviews
-  - video_games
+  - game-reviews
+  - video-games
 featured_image: Batman-Arkham-Origins-Box-Art-55d0996f80.jpg
 ---
 

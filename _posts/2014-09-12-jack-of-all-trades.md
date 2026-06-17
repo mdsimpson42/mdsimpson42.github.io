@@ -3,7 +3,7 @@ title: "Jack of all Trades"
 date: 2014-09-12 16:00:15 +0000
 author: mike
 categories:
-  - video_games
+  - video-games
 featured_image: Cc_kane_shot-90d7fb8e68.jpg
 ---
 

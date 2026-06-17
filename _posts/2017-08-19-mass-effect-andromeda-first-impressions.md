@@ -3,7 +3,7 @@ title: "Mass Effect: Andromeda - First Impressions"
 date: 2017-08-19 16:00:49 +0000
 author: mike
 categories:
-  - game_reviews
+  - game-reviews
 tags:
   - game_design
   - reviews

@@ -3,7 +3,7 @@ title: "XCOM 2: First Impressions"
 date: 2016-02-10 18:02:55 +0000
 author: mike
 categories:
-  - game_reviews
+  - game-reviews
 tags:
   - reviews
 featured_image: 2016-02-10_00015a-ca686d6092.jpg

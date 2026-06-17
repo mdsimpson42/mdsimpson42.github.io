@@ -3,8 +3,8 @@ title: "In Defence of Next-Gen Graphics"
 date: 2014-01-21 16:35:18 +0000
 author: mike
 categories:
-  - in_defence_of
-  - video_games
+  - in-defence-of
+  - video-games
 tags:
   - game_design
   - video_games

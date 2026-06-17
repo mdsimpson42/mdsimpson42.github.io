@@ -3,7 +3,7 @@ title: "Free-to-Play Games"
 date: 2012-04-12 10:43:59 +0000
 author: mike
 categories:
-  - video_games
+  - video-games
 tags:
   - video_games
 ---

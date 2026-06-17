@@ -1,5 +1,5 @@
 ---
-short_name: in_defence_of
+short_name: in-defence-of
 title: "In Defence Of..."
 menu: blog
 ---

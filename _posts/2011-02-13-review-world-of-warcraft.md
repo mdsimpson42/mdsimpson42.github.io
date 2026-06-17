@@ -3,10 +3,10 @@ title: "Review: World of Warcraft (Part 1)"
 date: 2011-02-13 12:23:51 +0000
 author: mike
 categories:
-  - game_reviews
+  - game-reviews
 tags:
   - reviews
-  - video_games
+  - video-games
 ---
 
 Yes, ashamed as I am to admit it, I am guilty of effectively pissing away three years of my life playing Blizzard's hugely successful online role-playing game 

@@ -3,7 +3,7 @@ title: "Lives are Dead!"
 date: 2014-05-09 18:54:58 +0000
 author: mike
 categories:
-  - video_games
+  - video-games
 ---
 
 Remember lives in games? Of course you do! Remember how they stopped using them when arcades stopped being popular and we no longer had to insert coins to play games? No, neither do I, and I cannot understand why...

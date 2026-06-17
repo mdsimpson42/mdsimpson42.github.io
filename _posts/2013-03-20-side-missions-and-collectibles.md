@@ -3,7 +3,7 @@ title: "Open-World Games"
 date: 2013-03-20 17:29:15 +0000
 author: mike
 categories:
-  - video_games
+  - video-games
 tags:
   - video_games
 ---

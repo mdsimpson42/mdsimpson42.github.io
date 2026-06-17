@@ -4,7 +4,7 @@ date: 2014-06-25 16:00:01 +0000
 author: mike
 categories:
   - miscellaneous
-  - video_games
+  - video-games
 tags:
   - reviews
   - video_games

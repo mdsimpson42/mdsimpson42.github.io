@@ -3,7 +3,7 @@ title: "XCOM: Enemy Unknown & Enemy Within"
 date: 2013-11-28 12:38:24 +0000
 author: mike
 categories:
-  - game_reviews
+  - game-reviews
 tags:
   - game_design
   - reviews

@@ -3,7 +3,7 @@ title: "Heart of the Swarm: The Leaked Ending"
 date: 2014-11-19 01:35:04 +0000
 author: mike
 categories:
-  - video_games
+  - video-games
 tags:
   - game_design
   - video_games

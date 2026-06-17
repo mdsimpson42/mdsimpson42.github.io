@@ -1,5 +1,5 @@
 ---
-short_name: game_reviews
+short_name: game-reviews
 title: "Game Reviews"
 menu: blog
 ---

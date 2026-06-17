@@ -3,7 +3,7 @@ title: "Review: Portal 2"
 date: 2011-04-24 17:06:27 +0000
 author: mike
 categories:
-  - game_reviews
+  - game-reviews
 tags:
   - reviews
   - video_games

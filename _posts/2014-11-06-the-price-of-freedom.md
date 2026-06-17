@@ -3,7 +3,7 @@ title: "The Price of Freedom"
 date: 2014-11-06 19:41:10 +0000
 author: mike
 categories:
-  - video_games
+  - video-games
 featured_image: Anti-Villain_League-d9e7b14d46.jpg
 ---
 

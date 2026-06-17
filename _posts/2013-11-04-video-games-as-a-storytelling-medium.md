@@ -3,7 +3,7 @@ title: "Video Games as a Storytelling Medium"
 date: 2013-11-04 16:01:55 +0000
 author: mike
 categories:
-  - video_games
+  - video-games
 tags:
   - mass_effect
   - storytelling

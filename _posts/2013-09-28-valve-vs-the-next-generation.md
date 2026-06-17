@@ -3,7 +3,7 @@ title: "Valve vs. The Next Generation"
 date: 2013-09-28 13:03:04 +0000
 author: mike
 categories:
-  - video_games
+  - video-games
 tags:
 featured_image: _70162122_70156176-c710f105cd.jpg
 ---

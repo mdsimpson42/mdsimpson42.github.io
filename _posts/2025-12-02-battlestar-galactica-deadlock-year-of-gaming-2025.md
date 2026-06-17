@@ -3,8 +3,8 @@ title: "Battlestar Galactica: Deadlock - Year of Gaming 2025"
 date: 2025-12-02 22:02:56 +0000
 author: mike
 categories:
-  - video_games
-  - year_of_gaming_2025
+  - video-games
+  - year-of-gaming-2025
 featured_image: Clipboard_11-09-2025_01-9b0809b2de.jpg
 ---
 

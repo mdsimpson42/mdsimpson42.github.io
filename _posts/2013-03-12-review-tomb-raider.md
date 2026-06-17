@@ -3,7 +3,7 @@ title: "Review: Tomb Raider"
 date: 2013-03-12 18:33:44 +0000
 author: mike
 categories:
-  - game_reviews
+  - game-reviews
 tags:
   - reviews
   - video_games

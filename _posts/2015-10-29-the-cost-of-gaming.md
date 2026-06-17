@@ -3,7 +3,7 @@ title: "The Cost of Gaming"
 date: 2015-10-29 16:00:27 +0000
 author: mike
 categories:
-  - video_games
+  - video-games
 tags:
 ---
 

@@ -1,5 +1,5 @@
 ---
-short_name: year_of_gaming_2025
+short_name: year-of-gaming-2025
 title: "Year of Gaming 2025"
 menu: blog
 ---

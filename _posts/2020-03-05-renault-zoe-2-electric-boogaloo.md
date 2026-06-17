@@ -3,9 +3,9 @@ title: "Renault Zoe 2 - Electric Boogaloo"
 date: 2020-03-05 19:30:29 +0000
 author: mike
 categories:
-  - electric_cars
+  - electric-cars
 tags:
-  - electric_cars
+  - electric-cars
 featured_image: 1-1024x265-e15b78e04d.jpg
 ---
 

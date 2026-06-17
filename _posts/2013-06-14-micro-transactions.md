@@ -3,7 +3,7 @@ title: "MICRO-transactions - The clue is in the title, people!"
 date: 2013-06-14 08:00:29 +0000
 author: mike
 categories:
-  - video_games
+  - video-games
 tags:
   - video_games
 ---

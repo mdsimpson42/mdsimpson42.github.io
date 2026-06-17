@@ -3,9 +3,9 @@ title: "What is it actually like to own an Electric Car?"
 date: 2023-02-24 16:52:02 +0000
 author: mike
 categories:
-  - electric_cars
+  - electric-cars
 tags:
-  - electric_cars
+  - electric-cars
 featured_image: 1-B_fuPBR_2z3NU_42QGPJBA-8c733da562.jpeg
 ---
 

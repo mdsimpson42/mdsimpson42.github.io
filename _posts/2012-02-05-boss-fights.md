@@ -3,7 +3,7 @@ title: "Boss Fights"
 date: 2012-02-05 12:46:59 +0000
 author: mike
 categories:
-  - video_games
+  - video-games
 tags:
   - video_games
 ---

@@ -3,9 +3,9 @@ title: "Tales of Kenzera: Zau - Year of Gaming 2025"
 date: 2025-10-31 09:34:55 +0000
 author: mike
 categories:
-  - game_reviews
-  - video_games
-  - year_of_gaming_2025
+  - game-reviews
+  - video-games
+  - year-of-gaming-2025
 featured_image: ss_8fa87a473d9323260724f73bd318271b175e230c.1920x1080-0995f982ed.jpg
 ---
 

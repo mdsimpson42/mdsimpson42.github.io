@@ -3,8 +3,8 @@ title: "Viewfinder - Year of Gaming 2025"
 date: 2025-03-01 20:34:09 +0000
 author: mike
 categories:
-  - video_games
-  - year_of_gaming_2025
+  - video-games
+  - year-of-gaming-2025
 featured_image: viewfinder-preview-header_feature-216b0ed199.jpg
 ---
 

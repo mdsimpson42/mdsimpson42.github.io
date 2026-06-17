@@ -1,5 +1,5 @@
 ---
-short_name: video_games
+short_name: video-games
 title: "Video Games"
 menu: blog
 ---
