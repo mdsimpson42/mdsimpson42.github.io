@@ -3,18 +3,9 @@ title: "XCOM: The Long War - Review"
 date: 2016-02-08 16:58:04 +0000
 author: mike
 categories:
-  - game_reviews
+  - game-reviews
 tags:
   - reviews
-  - gaming
-  - mod
-  - pc_games
-  - review
-  - steam
-  - strategy_games
-  - the_long_war
-  - games
-  - xcom
 featured_image: 88-1-1401060296-72d905d201.jpg
 ---
 

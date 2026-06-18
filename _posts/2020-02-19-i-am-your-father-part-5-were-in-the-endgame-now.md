@@ -3,18 +3,15 @@ title: "I Am Your Father - Part 5: We're in the Endgame now"
 date: 2020-02-19 17:57:13 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - family
   - father
   - fatherhood
-  - first_time_parent
-  - new_father
   - parenthood
   - parenting
   - pregnancy
-  - pregnant
 featured_image: IMG_20200218_113503x-1024x282-fe12aed924.jpg
 ---
 

@@ -3,7 +3,7 @@ title: "Writing 'The Journey'"
 date: 2019-06-07 17:00:51 +0000
 author: mike
 categories:
-  - mental_health
+  - mental-health
   - writing
 tags:
   - mental_health

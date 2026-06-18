@@ -2,10 +2,11 @@
 title: "In Defence of... Alpha Protocol"
 date: 2014-04-28 08:50:43 +0000
 author: mike
+featured_image: mdsimpson.jpg
 categories:
-  - game_reviews
-  - in_defence_of
-  - video_games
+  - game-reviews
+  - in-defence-of
+  - video-games
 ---
 
 I want to talk about a game I've been playing recently, but which wasn't well-received at the time. This allows me to continue my recent 'In Defence of...' series and write a game review at the same time. Who ever said men can't multi-task!

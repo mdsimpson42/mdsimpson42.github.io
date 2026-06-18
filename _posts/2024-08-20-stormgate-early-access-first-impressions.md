@@ -3,16 +3,10 @@ title: "Stormgate (Early Access) - First Impressions"
 date: 2024-08-20 10:20:07 +0000
 author: mike
 categories:
-  - game_reviews
+  - game-reviews
 tags:
   - reviews
-  - gaming
-  - pc_games
-  - real_time_strategy
-  - rts
   - sci_fi
-  - stormgate
-  - strategy_games
   - video_games
 featured_image: 20240815134700_1-1024x386-b73ce6a27b.jpg
 ---

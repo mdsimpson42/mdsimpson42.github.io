@@ -3,8 +3,8 @@ title: "Star Trek: Resurgence - Year of Gaming 2025"
 date: 2025-01-31 19:00:02 +0000
 author: mike
 categories:
-  - video_games
-  - year_of_gaming_2025
+  - video-games
+  - year-of-gaming-2025
 featured_image: Star_Trek_Resurgence_HERO-IMAGE-1227d55f1d1952ae7448-07996d2001.jpg
 ---
 

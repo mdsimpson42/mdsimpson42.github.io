@@ -2,21 +2,10 @@
 title: "The Cost of Gaming"
 date: 2015-10-29 16:00:27 +0000
 author: mike
+featured_image: mdsimpson.jpg
 categories:
-  - video_games
+  - video-games
 tags:
-  - console_games
-  - gamedev
-  - gaming
-  - microsoft
-  - next_gen
-  - online_games
-  - pc_games
-  - playstation
-  - ps4
-  - sony
-  - steam
-  - games
 ---
 
 So, apparently Assassin's Creed Syndicate "isn't that bad" - which is a great improvement over recent entries in the franchise at least, but that's a rant for another time - and I have to admit that the idea of climbing around the rooftops of Victorian London has a certain appeal.

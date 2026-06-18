@@ -3,18 +3,10 @@ title: "Rewarding Bad Behaviour"
 date: 2013-11-01 21:54:37 +0000
 author: mike
 categories:
-  - video_games
+  - video-games
 tags:
-  - achievements
   - game_design
   - game_development
-  - gamedev
-  - gaming
-  - mobile_games
-  - sonic
-  - sonic_jump
-  - sonic_the_hedgehog
-  - games
 featured_image: achievement-a654507930.jpg
 ---
 

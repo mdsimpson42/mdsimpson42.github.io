@@ -3,17 +3,12 @@ title: "In Defence of... Changing Things"
 date: 2014-06-18 16:00:57 +0000
 author: mike
 categories:
-  - in_defence_of
-  - video_games
+  - in-defence-of
+  - video-games
   - writing
 tags:
   - game_design
-  - gamedev
-  - gaming
-  - geeky
-  - miscellany
   - movies
-  - nerdy
   - rant
   - storytelling
   - tv

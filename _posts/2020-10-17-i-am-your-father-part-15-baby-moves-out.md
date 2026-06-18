@@ -3,14 +3,12 @@ title: "I Am Your Father - Part 15: Baby Moves Out"
 date: 2020-10-17 14:30:22 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - family
   - father
   - fatherhood
-  - first_time_parent
-  - new_father
   - parenthood
   - parenting
 featured_image: blog15-ea2e8a9046.jpg

@@ -2,8 +2,9 @@
 title: "Doing Free-to-Play Wrong"
 date: 2014-06-10 16:26:53 +0000
 author: mike
+featured_image: mdsimpson.jpg
 categories:
-  - video_games
+  - video-games
 ---
 
 If you've read this blog before, you may be aware that I have ranted on the subject of Free-to-Play games before (including [here](http://mdsimpson.co.uk/free-to-play-games/) and [here](http://mdsimpson.co.uk/micro-transactions/)) and on how it's a great system that CAN work, but many people just aren't doing it right, to the detriment of the gamers and the studios.

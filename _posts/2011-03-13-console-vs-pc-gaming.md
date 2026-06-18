@@ -2,12 +2,10 @@
 title: "Console vs. PC Gaming"
 date: 2011-03-13 15:34:25 +0000
 author: mike
+featured_image: mdsimpson.jpg
 categories:
-  - video_games
+  - video-games
 tags:
-  - games_consoles
-  - gaming
-  - pc_games
   - video_games
 ---
 

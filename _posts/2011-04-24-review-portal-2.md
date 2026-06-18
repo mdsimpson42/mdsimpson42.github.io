@@ -2,14 +2,11 @@
 title: "Review: Portal 2"
 date: 2011-04-24 17:06:27 +0000
 author: mike
+featured_image: mdsimpson.jpg
 categories:
-  - game_reviews
+  - game-reviews
 tags:
-  - console_games
   - reviews
-  - pc_games
-  - portal
-  - valve
   - video_games
 ---
 

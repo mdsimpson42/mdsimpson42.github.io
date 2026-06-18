@@ -3,18 +3,15 @@ title: "I Am Your Father - Part 7: Well, F**k!"
 date: 2020-04-02 15:00:27 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - family
   - father
   - fatherhood
-  - first_time_parent
-  - new_father
   - parenthood
   - parenting
   - pregnancy
-  - pregnant
 featured_image: define-interesting-a99f88d49c.jpg
 ---
 

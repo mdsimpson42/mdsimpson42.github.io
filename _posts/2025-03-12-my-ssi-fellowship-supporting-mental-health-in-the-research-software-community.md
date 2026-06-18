@@ -3,8 +3,8 @@ title: "My SSI Fellowship: Supporting Mental Health in the Research Software Com
 date: 2025-03-12 10:00:48 +0000
 author: mike
 categories:
-  - mental_health
-  - research_software_engineering_rse
+  - mental-health
+  - research-software-engineering
 featured_image: BlogThumbs-1-36d5753d58.jpg
 ---
 

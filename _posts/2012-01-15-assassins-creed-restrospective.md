@@ -2,10 +2,10 @@
 title: "Assassins Creed Restrospective"
 date: 2012-01-15 16:11:42 +0000
 author: mike
+featured_image: mdsimpson.jpg
 categories:
   - retrospectives
 tags:
-  - console_games
   - video_games
 ---
 

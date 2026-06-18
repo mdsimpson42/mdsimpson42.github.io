@@ -3,21 +3,17 @@ title: "I Am Your Father - Part 9a: Labour"
 date: 2020-06-05 21:00:18 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - birth
   - family
   - father
   - fatherhood
-  - first_time_parent
-  - giving_birth
   - labour
-  - new_father
   - parenthood
   - parenting
   - pregnancy
-  - pregnant
 featured_image: IMG_20200417_155420X-1024x538-fd60f3aac1.jpg
 ---
 

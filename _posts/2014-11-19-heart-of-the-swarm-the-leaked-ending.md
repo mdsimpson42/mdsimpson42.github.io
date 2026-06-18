@@ -3,14 +3,9 @@ title: "Heart of the Swarm: The Leaked Ending"
 date: 2014-11-19 01:35:04 +0000
 author: mike
 categories:
-  - video_games
+  - video-games
 tags:
-  - blizzard
   - game_design
-  - gamedev
-  - gaming
-  - online_gaming
-  - pc_games
   - video_games
 featured_image: SarahKerrigan_SC2_Head2-26f9ac804c.jpg
 ---

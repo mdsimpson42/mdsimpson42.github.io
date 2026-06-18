@@ -2,10 +2,10 @@
 title: "Free-to-Play Games"
 date: 2012-04-12 10:43:59 +0000
 author: mike
+featured_image: mdsimpson.jpg
 categories:
-  - video_games
+  - video-games
 tags:
-  - pc_games
   - video_games
 ---
 

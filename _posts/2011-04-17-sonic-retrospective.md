@@ -2,16 +2,11 @@
 title: "Sonic Retrospective"
 date: 2011-04-17 16:54:15 +0000
 author: mike
+featured_image: mdsimpson.jpg
 categories:
   - retrospectives
 tags:
-  - console_games
-  - gaming
-  - restrospective
-  - retro_games
-  - sega
-  - sonic
-  - sonic_the_hedgehog
+  - retrospective
   - video_games
 ---
 

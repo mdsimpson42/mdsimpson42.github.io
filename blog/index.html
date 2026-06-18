@@ -20,7 +20,8 @@ pagination:
 <hr>
 <h2>Latest Posts</h2>
 <p>View the latest posts below. Click on an author, category or tag to filter the results.</p>
-{% for post in paginator.posts %}
+{% assign visible_posts = paginator.posts | where_exp: "post", "post.draft != true" %}
+{% for post in visible_posts %}
   {% include post-preview.html %}
 {% endfor %}
 

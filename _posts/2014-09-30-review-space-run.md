@@ -3,8 +3,8 @@ title: "Review: Space Run"
 date: 2014-09-30 11:46:13 +0000
 author: mike
 categories:
-  - game_reviews
-  - video_games
+  - game-reviews
+  - video-games
 featured_image: space_run-20-copy-8b7b069a27.jpg
 ---
 

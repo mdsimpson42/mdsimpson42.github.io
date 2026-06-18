@@ -3,8 +3,8 @@ title: "Shadow Tactics: Blades of the Shogun - Year of Gaming 2025"
 date: 2025-10-02 13:56:02 +0000
 author: mike
 categories:
-  - video_games
-  - year_of_gaming_2025
+  - video-games
+  - year-of-gaming-2025
 featured_image: header-1-59b04a77a6.jpg
 ---
 

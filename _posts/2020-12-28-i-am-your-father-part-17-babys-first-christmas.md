@@ -3,14 +3,12 @@ title: "I Am Your Father - Part 17: Baby's First Christmas"
 date: 2020-12-28 19:30:32 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - family
   - father
   - fatherhood
-  - first_time_parent
-  - new_father
   - parenthood
   - parenting
 featured_image: PXL_20211120_152731685-2ce0e6f9b8.jpg

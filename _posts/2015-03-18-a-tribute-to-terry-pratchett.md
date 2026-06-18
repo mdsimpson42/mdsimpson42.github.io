@@ -5,7 +5,6 @@ author: mike
 categories:
   - writing
 tags:
-  - terry_pratchett
 featured_image: tumblr_nl43i8cNxw1tdxlulo1_1280-ed9a8acc50.jpg
 ---
 

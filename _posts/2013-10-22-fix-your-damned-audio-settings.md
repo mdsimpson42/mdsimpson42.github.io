@@ -2,20 +2,11 @@
 title: "Fix your Audio Settings!"
 date: 2013-10-22 15:00:07 +0000
 author: mike
+featured_image: mdsimpson.jpg
 categories:
-  - video_games
+  - video-games
 tags:
-  - console_games
   - game_design
-  - gaming
-  - lego_marvel_superheroes
-  - online_games
-  - online_gaming
-  - pc_games
-  - portal_2
-  - the_darkness
-  - travellers_tales
-  - valve
   - video_games
 ---
 

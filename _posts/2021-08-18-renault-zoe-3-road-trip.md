@@ -3,15 +3,9 @@ title: "Renault Zoe 3 - Road Trip!"
 date: 2021-08-18 19:49:19 +0000
 author: mike
 categories:
-  - electric_cars
+  - electric-cars
 tags:
-  - car_review
-  - cars
-  - electric_cars
-  - electric_vehicles
-  - fully_electric
-  - renault
-  - renault_zoe
+  - electric-cars
 featured_image: blogX-698a08905b.jpg
 ---
 

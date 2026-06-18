@@ -2,8 +2,9 @@
 title: "Can't we all just get along?"
 date: 2013-12-23 23:26:29 +0000
 author: mike
+featured_image: mdsimpson.jpg
 categories:
-  - in_defence_of
+  - in-defence-of
   - miscellaneous
 ---
 

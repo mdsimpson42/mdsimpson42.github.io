@@ -3,10 +3,9 @@ title: "How Writing Saved My Life"
 date: 2022-01-14 20:18:44 +0000
 author: mike
 categories:
-  - mental_health
+  - mental-health
   - writing
 tags:
-  - advice
   - anxiety
   - depression
   - mental_health

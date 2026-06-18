@@ -3,10 +3,9 @@ title: "Introduction - Let's Talk About Mental Health"
 date: 2020-03-22 10:00:55 +0000
 author: mike
 categories:
-  - lets_talk_about
-  - mental_health
+  - lets-talk-about
+  - mental-health
 tags:
-  - advice
   - anxiety
   - depression
   - mental_health

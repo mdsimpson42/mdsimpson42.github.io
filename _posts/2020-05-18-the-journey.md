@@ -1,16 +1,17 @@
 ---
+
 title: "The Journey"
 date: 2020-05-18 21:52:23 +0000
 author: mike
+featured_image: mdsimpson.jpg
 categories:
-  - mental_health
+  - mental-health
   - writing
 tags:
   - anxiety
   - depression
   - mental_health
   - short_story
-  - story
   - writing
 ---
 

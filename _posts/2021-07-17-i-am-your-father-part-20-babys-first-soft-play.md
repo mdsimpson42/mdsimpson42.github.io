@@ -3,14 +3,12 @@ title: "I Am Your Father - Part 20: Baby's First Soft Play"
 date: 2021-07-17 10:00:57 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - family
   - father
   - fatherhood
-  - first_time_parent
-  - new_father
   - parenthood
   - parenting
 featured_image: PXL_20210515_135129704-020c82e18f.jpg

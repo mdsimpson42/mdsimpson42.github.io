@@ -3,8 +3,8 @@ title: "First Impressions - Grey Goo"
 date: 2015-10-22 09:20:11 +0000
 author: mike
 categories:
-  - game_reviews
-  - video_games
+  - game-reviews
+  - video-games
 featured_image: 2481268-grey_goo__screenshot_14-737ff9c7b8.jpg
 ---
 

@@ -3,17 +3,10 @@ title: "Video Games as a Storytelling Medium"
 date: 2013-11-04 16:01:55 +0000
 author: mike
 categories:
-  - video_games
+  - video-games
 tags:
-  - bioware
-  - gamedev
-  - gaming
-  - interactive_storytelling
   - mass_effect
-  - miscellany
-  - story
   - storytelling
-  - games
   - writing
 featured_image: HL2_2-ddab1012a7.jpg
 ---

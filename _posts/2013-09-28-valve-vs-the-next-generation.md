@@ -3,26 +3,8 @@ title: "Valve vs. The Next Generation"
 date: 2013-09-28 13:03:04 +0000
 author: mike
 categories:
-  - video_games
+  - video-games
 tags:
-  - console_games
-  - console_wars
-  - games_consoles
-  - gaming
-  - microsoft
-  - next_gen
-  - pc_games
-  - playstation
-  - predictions
-  - ps3
-  - ps4
-  - steam
-  - steam_machines
-  - steamos
-  - valve
-  - games
-  - xbox
-  - xbox_one
 featured_image: _70162122_70156176-c710f105cd.jpg
 ---
 

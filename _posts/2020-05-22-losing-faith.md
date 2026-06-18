@@ -3,10 +3,9 @@ title: "Let's Talk About... Losing Faith"
 date: 2020-05-22 18:25:28 +0000
 author: mike
 categories:
-  - lets_talk_about
-  - mental_health
+  - lets-talk-about
+  - mental-health
 tags:
-  - advice
   - anxiety
   - depression
   - insomnia

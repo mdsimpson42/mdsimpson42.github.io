@@ -3,14 +3,12 @@ title: "I Am Your Father - Part 13: Baby's New Routine"
 date: 2020-07-18 14:24:17 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - family
   - father
   - fatherhood
-  - first_time_parent
-  - new_father
   - parenthood
   - parenting
 featured_image: IMG_20200718_111500x-1024x538-efdad6ae30.jpg

@@ -1,20 +1,19 @@
 ---
+
 title: "I Am Your Father - Part 4: 28 Weeks Later"
 date: 2020-01-22 20:49:17 +0000
 author: mike
+featured_image: mdsimpson.jpg
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - family
   - father
   - fatherhood
-  - first_time_parent
-  - new_father
   - parenthood
   - parenting
   - pregnancy
-  - pregnant
 ---
 
 *22nd January 2020*

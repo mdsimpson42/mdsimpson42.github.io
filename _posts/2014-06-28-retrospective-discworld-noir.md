@@ -4,7 +4,7 @@ date: 2014-06-28 10:00:47 +0000
 author: mike
 categories:
   - retrospectives
-  - video_games
+  - video-games
 featured_image: Discworld_Noir_PC_cover_art-b7c7fd3581.jpg
 ---
 

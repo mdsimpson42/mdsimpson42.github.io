@@ -3,14 +3,12 @@ title: "I Am Your Father - Part 18: Baby's First Steps"
 date: 2021-02-20 12:30:45 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - family
   - father
   - fatherhood
-  - first_time_parent
-  - new_father
   - parenthood
   - parenting
 featured_image: IMG_20201225_130727X-aa55e18137.jpg

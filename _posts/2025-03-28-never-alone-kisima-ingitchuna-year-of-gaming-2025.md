@@ -3,8 +3,8 @@ title: "Never Alone (Kisima Ingitchuna) - Year of Gaming 2025"
 date: 2025-03-28 23:21:38 +0000
 author: mike
 categories:
-  - video_games
-  - year_of_gaming_2025
+  - video-games
+  - year-of-gaming-2025
 featured_image: Never_Alone_Kisima_Ingitchuna-Main-Indie_Game-f8ed481703.png
 ---
 

@@ -2,11 +2,10 @@
 title: "Games and The Rating System"
 date: 2011-02-27 01:30:23 +0000
 author: mike
+featured_image: mdsimpson.jpg
 categories:
-  - video_games
+  - video-games
 tags:
-  - age_ratings
-  - gaming
   - video_games
 ---
 

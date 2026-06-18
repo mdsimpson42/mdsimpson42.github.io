@@ -2,15 +2,12 @@
 title: "Mass Effect Retrospective"
 date: 2013-06-18 17:00:12 +0000
 author: mike
+featured_image: mdsimpson.jpg
 categories:
   - retrospectives
 tags:
-  - bioware
-  - console_games
   - reviews
-  - gaming
   - mass_effect
-  - pc_games
   - video_games
 ---
 

@@ -5,7 +5,7 @@ layout: no_title
 <h1><i class="fa-solid fa-folder-open category-title" title="Category"></i>&nbsp; {{page.title}}</h1>
 {{ content }}
 
-<hr>
+<!-- <hr>
 <h2>Other Categories</h2>
 <p>View other categories below.</p>
 <div class="cards small">
@@ -14,11 +14,13 @@ layout: no_title
         <h3>{{ category.title }}</h3>
     </div></a>
 {% endfor %}
-</div>
+</div> -->
 <hr>
 <h2>Posts</h2>
 <p>The following posts are in the "{{page.title}}" category:</p>
-{% assign filtered_posts = site.posts | where: 'categories', page.short_name %}
+{% assign filtered_posts = site.posts
+  | where: 'categories', page.short_name
+  | where_exp: "post", "post.draft != true" %}
 {% for post in filtered_posts %}
   {% include post-preview.html %}
 {% endfor %}

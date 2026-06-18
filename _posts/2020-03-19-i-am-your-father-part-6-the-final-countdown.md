@@ -3,18 +3,15 @@ title: "I Am Your Father - Part 6: The Final Countdown"
 date: 2020-03-19 17:00:46 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - family
   - father
   - fatherhood
-  - first_time_parent
-  - new_father
   - parenthood
   - parenting
   - pregnancy
-  - pregnant
 featured_image: IMG_20200318_162841x-1024x313-bf2b958ba7.jpg
 ---
 

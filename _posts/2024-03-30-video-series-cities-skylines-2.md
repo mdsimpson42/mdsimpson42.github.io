@@ -2,9 +2,10 @@
 title: "Video Series: Cities Skylines 2"
 date: 2024-03-30 20:28:00 +0000
 author: mike
+featured_image: mdsimpson.jpg
 categories:
-  - game_reviews
-  - video_games
+  - game-reviews
+  - video-games
 ---
 
 As someone who has clocked over 800 hours in the first Cities Skylines, I was naturally quite excited for the release of Cities Skylines 2. And, like most people, I was left thoroughly underwhelmed by the game we were given.

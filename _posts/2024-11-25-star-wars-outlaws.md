@@ -3,8 +3,8 @@ title: "Review - Star Wars: Outlaws"
 date: 2024-11-25 20:21:27 +0000
 author: mike
 categories:
-  - game_reviews
-  - video_games
+  - game-reviews
+  - video-games
 featured_image: 4322386-sw1-1024x576-e5e9fb8543.jpg
 ---
 

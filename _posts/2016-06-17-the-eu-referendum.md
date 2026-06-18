@@ -1,16 +1,13 @@
 ---
+
 title: "The EU Referendum"
 date: 2016-06-17 13:07:46 +0000
 author: mike
+featured_image: mdsimpson.jpg
 categories:
   - miscellaneous
 tags:
-  - brexit
-  - eu
-  - eu_referendum
-  - european_union
   - politics
-  - referendum
 ---
 
 Normally I try not to get involved in this sort of thing, but what I am about to say is really important to me...

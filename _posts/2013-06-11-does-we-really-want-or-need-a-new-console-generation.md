@@ -2,20 +2,11 @@
 title: "Do we really want or need a new console generation?"
 date: 2013-06-11 10:20:52 +0000
 author: mike
+featured_image: mdsimpson.jpg
 categories:
-  - video_games
+  - video-games
 tags:
-  - console_wars
-  - e3
-  - games_consoles
-  - gaming
-  - microsoft
-  - next_gen
-  - ps4
-  - sony
   - video_games
-  - xbox
-  - xbox_one
 ---
 
 This week marks E3 2013, one of the year's biggest gaming conferences, which included more information about what we can expect to see from the industry in the next year-or-so. With all of this going on, I thought I would sound off about some of these announcements and ask quite an important question: do we really want or need a new console generation?

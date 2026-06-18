@@ -3,10 +3,9 @@ title: "Let's Talk About... Sleep and Insomnia"
 date: 2020-04-04 09:30:24 +0000
 author: mike
 categories:
-  - lets_talk_about
-  - mental_health
+  - lets-talk-about
+  - mental-health
 tags:
-  - advice
   - anxiety
   - depression
   - insomnia

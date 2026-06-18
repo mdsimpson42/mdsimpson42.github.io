@@ -3,14 +3,13 @@ title: "I Am Your Father - Part 2: The Scan"
 date: 2019-10-25 18:34:46 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - father
   - fatherhood
   - parenting
   - pregnancy
-  - pregnant
 featured_image: scan0002-2-302f5ce4fc.jpg
 ---
 

@@ -2,14 +2,12 @@
 title: "Video: Should you take the NaNoWriMo Challenge?"
 date: 2022-10-23 13:44:54 +0000
 author: mike
+featured_image: mdsimpson.jpg
 categories:
   - writing
 tags:
-  - challenge
   - nanowrimo
-  - national_novel_writing_month
   - novel_writing
-  - story_writing
   - writing
 ---
 

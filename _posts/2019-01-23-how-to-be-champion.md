@@ -3,19 +3,14 @@ title: "How to be Champion"
 date: 2019-01-23 20:40:39 +0000
 author: mike
 categories:
-  - mental_health
+  - mental-health
   - miscellaneous
 tags:
-  - advice
   - anxiety
   - autobiography
-  - book
   - comedy
   - depression
-  - happiness
-  - how_to_be_champion
   - mental_health
-  - sarah_millican
   - self_help
 featured_image: sarah-millican-da1a8510ba.jpg
 ---

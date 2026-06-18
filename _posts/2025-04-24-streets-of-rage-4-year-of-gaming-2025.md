@@ -3,8 +3,8 @@ title: "Streets of Rage 4 - Year of Gaming 2025"
 date: 2025-04-24 20:59:40 +0000
 author: mike
 categories:
-  - video_games
-  - year_of_gaming_2025
+  - video-games
+  - year-of-gaming-2025
 featured_image: H2x1_NSwitchDS_StreetsOfRage4-4cccecec4d.jpg
 ---
 

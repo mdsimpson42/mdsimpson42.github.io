@@ -2,16 +2,12 @@
 title: "Review: World of Warcraft (Part 2)"
 date: 2011-02-20 12:58:12 +0000
 author: mike
+featured_image: mdsimpson.jpg
 categories:
-  - game_reviews
+  - game-reviews
 tags:
   - reviews
-  - gaming
-  - mmo
-  - online_gaming
-  - pc_games
-  - video_games
-  - world_of_warcraft
+  - video-games
 ---
 
 What follows is part 2 of my review of Blizzard's online phenomenon 

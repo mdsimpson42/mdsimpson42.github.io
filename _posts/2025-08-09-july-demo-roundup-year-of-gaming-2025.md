@@ -3,8 +3,8 @@ title: "July Demo Roundup - Year of Gaming 2025"
 date: 2025-08-09 20:23:37 +0000
 author: mike
 categories:
-  - video_games
-  - year_of_gaming_2025
+  - video-games
+  - year-of-gaming-2025
 featured_image: demos-2f29536e5d.jpg
 ---
 

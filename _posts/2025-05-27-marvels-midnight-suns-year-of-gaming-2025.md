@@ -3,8 +3,8 @@ title: "Marvel's Midnight Suns - Year of Gaming 2025"
 date: 2025-05-27 12:01:49 +0000
 author: mike
 categories:
-  - video_games
-  - year_of_gaming_2025
+  - video-games
+  - year-of-gaming-2025
 featured_image: LNbHEfP0e1ugSlfmfYGHFi3a-e1748034953978-7bc586600e.jpg
 ---
 

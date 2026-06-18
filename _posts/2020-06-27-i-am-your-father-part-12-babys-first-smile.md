@@ -3,14 +3,12 @@ title: "I Am Your Father - Part 12: Baby's First Smile"
 date: 2020-06-27 13:00:08 +0000
 author: mike
 categories:
-  - i_am_your_father
+  - i-am-your-father
 tags:
   - baby
   - family
   - father
   - fatherhood
-  - first_time_parent
-  - new_father
   - parenthood
   - parenting
 featured_image: IMG_20200606_103455-0cd09a3776.jpg
