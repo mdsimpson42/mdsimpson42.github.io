@@ -13,13 +13,15 @@ pagination:
   sort_reverse: true
 ---
 <p>
-  Welcome to the blog. This is where you can find the latest posts from the ConveRSE Community.
-  We have invited a range of people with different background and experiences to contribute to this blog,
-  so you can find a wide range of stories, tips and advice on self-care and mental health.
+  Hello and welcome to my blog. Here you will find musings on various topics from
+  video games to mental health to fatherhood.
+</p>
+<p>
+  <em>These thoughts are my own and not all content is 100% safe for work!</em>
 </p>
 <hr>
 <h2>Latest Posts</h2>
-<p>View the latest posts below. Click on an author, category or tag to filter the results.</p>
+<p>View the latest posts below. Click on a category or tag to filter the results.</p>
 {% assign visible_posts = paginator.posts | where_exp: "post", "post.draft != true" %}
 {% for post in visible_posts %}
   {% include post-preview.html %}
