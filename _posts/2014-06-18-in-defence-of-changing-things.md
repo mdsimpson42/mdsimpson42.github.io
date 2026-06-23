@@ -22,9 +22,9 @@ Given my interests and line of work (i.e. the fact that I am a massive nerd), yo
 
 But, what you might be surprised to learn is that I am not one of these people. Far from it, in fact...
 
-### Different Media
+## Different Media
 
-[caption id="attachment_7222" align="alignright" width="240"]![](/assets/img/blog/Philostone-692x1024-a25a4cbfcd.jpg) Harry Potter and the Philosopher's Stone (c) Warner Bros.[/caption]
+[Harry Potter and the Philosopher's Stone (c) Warner Bros.](/assets/img/blog/Philostone-692x1024-a25a4cbfcd.jpg) [/caption]
 
 You see, the thing is, books, TV, films and video games are all very different media. They employ different methods and tools to tell their stories and these techniques rarely transfer well from one medium to another.
 
@@ -34,17 +34,17 @@ There is also a question of length. If you turn the average book, word for word,
 
 The simple fact is that things have to be done differently when you move from one medium to another. Movies have to be padded out with extra bits and extended action scenes to turn them into a good video game, and not every scene, character or plot line from a book will make it into a the movie.
 
-### Don't get me wrong...
+## Don't get me wrong
 
 Changing stuff isn't automatically a good thing, by any means. There are some changes in the *Les Misérables* movie that I didn't like, because they didn't seem to add anything, ruined the rhyming or musical nature of the movie and I just couldn't understand why they were made. Additionally, it sometimes seems like the changes made to *Game of Thrones* are purely designed to scandalise, and to get free publicity by getting everyone to talk about the show. But some changes are inevitable and it is even possible that you end up telling the story (or at least certain aspects of it) in a better way via another medium. For every good *Harry Potter* movie, there is an *Eragon* and... well, I can't even think of a good video-game-to-movie adaptation, which only goes to show how difficult it must be!
 
-### Success Stories
+## Success Stories
 
 Some of the biggest cross-medium success stories in recent years are the result of fairly major changes to the canon. Just look at the *Marvel* movies, which, though inspired by the comics, are considered to be in their own version of the universe and are therefore free to adapt the canon as they please to tell their own stories. Or the *Arkham* series of video games, which are set in their own version of the Batman universe and aren't tied to specific comic book or movie storylines.
 
 ### Adapting
 
-[caption id="attachment_7223" align="alignright" width="259"]![](/assets/img/blog/postal-da84ef3ca0.jpg) Going Postal (c) Terry Pratchett/Mob Films[/caption]
+[Going Postal (c) Terry Pratchett/Mob Films](/assets/img/blog/postal-da84ef3ca0.jpg)
 
 Terry Pratchett commented on this when his books were adapted into TV movies, saying that the director and writers were often being TOO respectful of the original source material. Here is a man who was clearly very much aware of how storytelling in a book and in a mini-series differ, and SHOULD differ, and who even had his own ideas about how it should be done. "I love that scene too, but if I was writing it for TV, I would have done it like this instead..."
 

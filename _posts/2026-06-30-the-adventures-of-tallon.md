@@ -45,7 +45,7 @@ For more specifics... Well, if you haven't played the game, maybe don't click on
 
 [spoiler title="Show spoilers"]
 
-Death of Lae'zel
+## Death of Lae'zel
 
 Early on in the game, while I was exploring the ancient ruins (and before I had recruited Withers), I took a long rest. During the night, Lae'zel snuck up on me and tried to kill me. I then tried to read her mind, looking for a way to wriggle out of the situation... and rolled a natural 1! Then I tried to persuade her not to kill me, and failed the persuasion roll (bearing in mind charisma was one of my highest stats!).
 
@@ -55,7 +55,7 @@ As a result, when we got to the Githyanki creche in the mountain pass, I didn't 
 
 So, when I do play through the game a second time, there will be a new storyline and area to explore!
 
-Necromancy of Thay
+## Necromancy of Thay
 
 As I said, I had no interest in magic or in using the mindlayer tadpoles to grow more powerful. So, when I found the Necromancy of Thay book, I inspected it and noticed that it was vulnerable to radiant damage. I took it back to my camp, put it on the floor next to the campfire and used Shadowheart's Guiding Bolt on it. The book turned to ash amidst holy flames, and shadowy creatures emerged.
 
@@ -63,22 +63,22 @@ Fortunately, as it was in the middle of camp, ALL of my allies came rushing into
 
 Volo would later leave a note in the camp - BESIDE HIS CORPSE! - to say that he had left the party and would meet up again with us in Baldur's Gate!
 
-Drunken Assault
+## Drunken Assault
 
 My companions went charging off to assault Moonrise Towers, but my crew was injured and had used up all their spells. But I didn't have enough supplies for a long rest. So, I went back to the Last Light and raided the wine cellar. I got the achievement for taking a long rest using only alcohol, and we went striding confidently - if a little unsteadily - into the end of Act II.
 
-Into Darkness
+## Into Darkness
 
 I found a chest, deep underground, near the edge of an abyss. Shadowheart's perception check revealed that it was a trap. I tried to disarm the trap and rolled a natural 1. The chest exploded. I resisted the damage and knockback from the explosion. Shadowheart was knocked backwards and fell to her death.
 
 That wasn't a major story beat, it was just hilarious!
 
-Failed Romance
+## Failed Romance
 
 I'd already started picking off the goblin leaders, and I didn't get her engine fixed before Dammon left the gro
 
 [/spoiler]
 
-Final Thoughts
+## Final Thoughts
 
 So yeah, I might try full Honour Mode at some point, but I had a lot of fun on my first playthrough by embracing the chaos of the dice rolls and not trying to get a perfect score.

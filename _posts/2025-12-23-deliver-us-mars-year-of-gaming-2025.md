@@ -1,5 +1,5 @@
 ---
-title: "Deliver Us Mars - Year of Gaming 2025"
+title: Deliver Us Mars - Year of Gaming 2025
 date: 2025-12-23 10:00:48 +0000
 author: mike
 categories:

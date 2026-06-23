@@ -1,5 +1,5 @@
 ---
-title: "Reflections on the Year of Gaming Challenge"
+title: Reflections on the Year of Gaming Challenge
 date: 2026-01-25 15:31:09 +0000
 author: mike
 categories:
