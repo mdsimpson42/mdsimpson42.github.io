@@ -2,7 +2,9 @@
 title: "Fix your Audio Settings!"
 date: 2013-10-22 15:00:07 +0000
 author: mike
-featured_image: mdsimpson.jpg
+image:
+  path: /assets/img/blog/mdsimpson.jpg
+  alt: "Fix your Audio Settings!"
 categories:
   - video-games
 tags:

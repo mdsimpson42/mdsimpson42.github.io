@@ -9,7 +9,9 @@ tags:
   - anxiety
   - depression
   - mental_health
-featured_image: mental-health-upload-9c5d03b8e6.jpg
+image:
+  path: /assets/img/blog/mental-health-upload-9c5d03b8e6.jpg
+  alt: "Introduction - Let's Talk About Mental Health"
 ---
 
 For most of the last decade, I have been struggling with a range of mental health issues, including depression, anxiety and insomnia. I suffered on and off for a *very* long time before finally getting the help I needed and managing to turn my life around.

@@ -5,7 +5,9 @@ author: mike
 categories:
   - video-games
   - year-of-gaming-2025
-featured_image: DuM_Nov_Screenshots_02894_1920-0f58ae65ec.jpg
+image:
+  path: /assets/img/blog/DuM_Nov_Screenshots_02894_1920-0f58ae65ec.jpg
+  alt: "Deliver Us Mars - Year of Gaming 2025"
 ---
 
 And so we reach month 12 and game 12(ish) of my 2025 Year of Gaming challenge. This month, I decided to play another game that's been sitting in my library for a while; something a little different from what I've played recently.

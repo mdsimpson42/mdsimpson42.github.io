@@ -5,7 +5,9 @@ author: mike
 categories:
   - video-games
   - year-of-gaming-2025
-featured_image: demos-2f29536e5d.jpg
+image:
+  path: /assets/img/blog/demos-2f29536e5d.jpg
+  alt: "July Demo Roundup - Year of Gaming 2025"
 ---
 
 This month, I've done something a little different... I didn't really get into the game that I was trying out, so I took some time to try out a few demos instead.

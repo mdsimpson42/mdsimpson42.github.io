@@ -2,7 +2,9 @@
 title: "Free-to-Play Games"
 date: 2012-04-12 10:43:59 +0000
 author: mike
-featured_image: mdsimpson.jpg
+image:
+  path: /assets/img/blog/mdsimpson.jpg
+  alt: "Free-to-Play Games"
 categories:
   - video-games
 tags:

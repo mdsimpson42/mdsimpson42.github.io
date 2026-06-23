@@ -2,7 +2,9 @@
 title: "Worms Retrospective"
 date: 2013-07-19 19:36:21 +0000
 author: mike
-featured_image: mdsimpson.jpg
+image:
+  path: /assets/img/blog/mdsimpson.jpg
+  alt: "Worms Retrospective"
 categories:
   - retrospectives
 tags:

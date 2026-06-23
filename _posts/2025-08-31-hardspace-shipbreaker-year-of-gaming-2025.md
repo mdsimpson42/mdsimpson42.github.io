@@ -5,7 +5,9 @@ author: mike
 categories:
   - video-games
   - year-of-gaming-2025
-featured_image: capsule_616x353-5fa35be7d5.jpg
+image:
+  path: /assets/img/blog/capsule_616x353-5fa35be7d5.jpg
+  alt: "Hardspace Shipbreaker - Year of Gaming 2025"
 ---
 
 This month, I decided to try another game that pushes me out of my comfort zone. Hardspace Shipbreaker is a game that I was curious about, but wasn't sure I would enjoy. Then, I had the chance to get it for free, so I decided to give it a try.

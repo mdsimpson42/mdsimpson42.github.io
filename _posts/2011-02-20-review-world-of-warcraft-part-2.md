@@ -2,7 +2,9 @@
 title: "Review: World of Warcraft (Part 2)"
 date: 2011-02-20 12:58:12 +0000
 author: mike
-featured_image: mdsimpson.jpg
+image:
+  path: /assets/img/blog/mdsimpson.jpg
+  alt: "Review: World of Warcraft (Part 2)"
 categories:
   - game-reviews
 tags:

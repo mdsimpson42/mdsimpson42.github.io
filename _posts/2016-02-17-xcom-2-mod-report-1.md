@@ -5,7 +5,9 @@ author: mike
 categories:
   - video-games
 tags:
-featured_image: 2016-02-17_00006-de6a22e265.jpg
+image:
+  path: /assets/img/blog/2016-02-17_00006-de6a22e265.jpg
+  alt: "XCOM 2: Mod Report 1"
 ---
 
 XCOM 2 has support for a range of community mods via the Steam Workshop. I plan to try out a few of these mods over the coming months and produce these "Mod Reports", where I will discuss the good, the bad and the downright insane!

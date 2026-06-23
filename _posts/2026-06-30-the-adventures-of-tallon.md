@@ -5,7 +5,9 @@ author: mike
 categories:
   - video-games
   - year-of-gaming-2025
-featured_image: yog25-d37eb3158a.jpg
+image:
+  path: /assets/img/blog/yog25-d37eb3158a.jpg
+  alt: "Reflections on the Year of Gaming Challenge"
 draft: true
 ---
 

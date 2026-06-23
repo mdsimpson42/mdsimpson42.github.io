@@ -2,7 +2,9 @@
 title: "Sonic Retrospective"
 date: 2011-04-17 16:54:15 +0000
 author: mike
-featured_image: mdsimpson.jpg
+image:
+  path: /assets/img/blog/mdsimpson.jpg
+  alt: "Sonic Retrospective"
 categories:
   - retrospectives
 tags:

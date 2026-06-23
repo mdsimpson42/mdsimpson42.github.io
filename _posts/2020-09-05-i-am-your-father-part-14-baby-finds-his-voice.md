@@ -11,7 +11,9 @@ tags:
   - fatherhood
   - parenthood
   - parenting
-featured_image: IMG_20200906_142956X-1024x538-29233a1270.jpg
+image:
+  path: /assets/img/blog/IMG_20200906_142956X-1024x538-29233a1270.jpg
+  alt: "I Am Your Father - Part 14: Baby finds his Voice"
 ---
 
 *Originally written: 15th August 2020*

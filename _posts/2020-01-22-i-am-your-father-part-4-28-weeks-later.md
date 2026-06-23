@@ -3,7 +3,9 @@
 title: "I Am Your Father - Part 4: 28 Weeks Later"
 date: 2020-01-22 20:49:17 +0000
 author: mike
-featured_image: mdsimpson.jpg
+image:
+  path: /assets/img/blog/mdsimpson.jpg
+  alt: "I Am Your Father - Part 4: 28 Weeks Later"
 categories:
   - i-am-your-father
 tags:

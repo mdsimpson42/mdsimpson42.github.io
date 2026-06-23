@@ -11,7 +11,9 @@ tags:
   - fatherhood
   - parenthood
   - parenting
-featured_image: PXL_20210515_135129704-020c82e18f.jpg
+image:
+  path: /assets/img/blog/PXL_20210515_135129704-020c82e18f.jpg
+  alt: "I Am Your Father - Part 20: Baby's First Soft Play"
 ---
 
 17th July 2020(Age: 1 year, 3 months)

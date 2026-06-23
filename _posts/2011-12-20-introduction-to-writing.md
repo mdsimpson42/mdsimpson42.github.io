@@ -2,7 +2,9 @@
 title: "Writing - Introduction"
 date: 2011-12-20 15:23:10 +0000
 author: mike
-featured_image: mdsimpson.jpg
+image:
+  path: /assets/img/blog/mdsimpson.jpg
+  alt: "Writing - Introduction"
 categories:
   - writing
 tags:

@@ -11,7 +11,9 @@ tags:
   - fatherhood
   - parenthood
   - parenting
-featured_image: blog16-a2b9b6f93e.jpg
+image:
+  path: /assets/img/blog/blog16-a2b9b6f93e.jpg
+  alt: "I Am Your Father - Part 16: Baby's First Big Bath"
 ---
 
 *15th November 2020*

@@ -4,7 +4,9 @@ date: 2025-03-05 17:30:03 +0000
 author: mike
 categories:
   - research-software-engineering
-featured_image: c4t-1dcd9dceb6.jpg
+image:
+  path: /assets/img/blog/c4t-1dcd9dceb6.jpg
+  alt: "ByteSized RSE: Project Management with GitHub"
 ---
 
 I recently appeared on an episode of Peter Scmidt's excellent *Code4Thought* podcast, where I was part of a conversation around GitHub tools to help manage a large research software project.

@@ -2,7 +2,9 @@
 title: "Doing Free-to-Play Wrong"
 date: 2014-06-10 16:26:53 +0000
 author: mike
-featured_image: mdsimpson.jpg
+image:
+  path: /assets/img/blog/mdsimpson.jpg
+  alt: "Doing Free-to-Play Wrong"
 categories:
   - video-games
 ---

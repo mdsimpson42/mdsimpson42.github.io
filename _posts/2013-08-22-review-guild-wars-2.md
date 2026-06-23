@@ -6,7 +6,9 @@ categories:
   - game-reviews
 tags:
   - reviews
-featured_image: GW2-1024x536-44d28f3a1d.jpg
+image:
+  path: /assets/img/blog/GW2-1024x536-44d28f3a1d.jpg
+  alt: "Review: Guild Wars 2"
 ---
 
 Blizzard's MMO giant World of Warcraft is now 8 years old and it is finally starting to lose its players, yet it is still the most successful online game out there. A few contenders have come along, but whether they were not as well-made or well-written or just lacked whatever it is that makes WoW great, none of them has been able to take WoW's crown.

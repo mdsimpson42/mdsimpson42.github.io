@@ -4,7 +4,9 @@ date: 2014-11-06 19:41:10 +0000
 author: mike
 categories:
   - video-games
-featured_image: Anti-Villain_League-d9e7b14d46.jpg
+image:
+  path: /assets/img/blog/Anti-Villain_League-d9e7b14d46.jpg
+  alt: "The Price of Freedom"
 ---
 
 I occasionally delve in to the world of Free-to-Play games (and have ranted on the subject before), but here's a question: how much are you prepared to spend on a 'free' game?

@@ -4,7 +4,9 @@ date: 2015-03-09 11:26:45 +0000
 author: mike
 categories:
   - miscellaneous
-featured_image: IMG_20150308_170200-19ce1c3a3a.jpg
+image:
+  path: /assets/img/blog/IMG_20150308_170200-19ce1c3a3a.jpg
+  alt: "Peanut Butter Cupcakes (for Comic Relief)"
 ---
 
 This post is way off topic for me, but I have always been a big supporter of [Comic Relief](http://www.comicrelief.com/) and I wanted to share my latest culinary creation, since baking for this great cause seems to be the big thing this year...

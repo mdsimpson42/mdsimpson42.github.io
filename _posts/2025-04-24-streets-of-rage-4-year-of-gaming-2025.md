@@ -5,7 +5,9 @@ author: mike
 categories:
   - video-games
   - year-of-gaming-2025
-featured_image: H2x1_NSwitchDS_StreetsOfRage4-4cccecec4d.jpg
+image:
+  path: /assets/img/blog/H2x1_NSwitchDS_StreetsOfRage4-4cccecec4d.jpg
+  alt: "Streets of Rage 4 - Year of Gaming 2025"
 ---
 
 It's April, and it's time for a blast from the past. This month, I've been playing *Streets of Rage 4*, a sequel to a trilogy of classic beat-'em-up games released in 2020 - 26 years after the series' last outing!

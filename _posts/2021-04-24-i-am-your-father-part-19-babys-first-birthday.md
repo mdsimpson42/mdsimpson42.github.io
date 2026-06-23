@@ -11,7 +11,9 @@ tags:
   - fatherhood
   - parenthood
   - parenting
-featured_image: IMG_3521-1024x536-60853f02a9.jpg
+image:
+  path: /assets/img/blog/IMG_3521-1024x536-60853f02a9.jpg
+  alt: "I Am Your Father - Part 19: Baby's First Birthday"
 ---
 
 *24th April 2020*

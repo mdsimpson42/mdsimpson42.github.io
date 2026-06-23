@@ -12,7 +12,9 @@ tags:
   - parenthood
   - parenting
   - pregnancy
-featured_image: define-interesting-a99f88d49c.jpg
+image:
+  path: /assets/img/blog/define-interesting-a99f88d49c.jpg
+  alt: "I Am Your Father - Part 7: Well, F**k!"
 ---
 
 *2nd April 2020*

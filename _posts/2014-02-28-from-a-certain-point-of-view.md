@@ -2,7 +2,9 @@
 title: "From a certain point of view..."
 date: 2014-02-28 15:17:14 +0000
 author: mike
-featured_image: mdsimpson.jpg
+image:
+  path: /assets/img/blog/mdsimpson.jpg
+  alt: "From a certain point of view..."
 categories:
   - video-games
 ---

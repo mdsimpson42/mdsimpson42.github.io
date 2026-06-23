@@ -6,7 +6,9 @@ categories:
   - electric-cars
 tags:
   - electric-cars
-featured_image: PSFix_20190208_175550_3x-e43190be3d.jpg
+image:
+  path: /assets/img/blog/PSFix_20190208_175550_3x-e43190be3d.jpg
+  alt: "Renault Zoe - Going Electric"
 ---
 
 One of my recent projects involved working alongside engineers and researchers from the energy sector, which has fueled my interest in green energy and lead me to - among other things - the Fully Charged show and other similar channels on YouTube. Through all this, I became interested in electric cars and I got the impression that the technology had advanced far enough that the time was right to give it a go.

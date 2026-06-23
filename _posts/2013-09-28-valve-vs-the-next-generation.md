@@ -5,7 +5,9 @@ author: mike
 categories:
   - video-games
 tags:
-featured_image: _70162122_70156176-c710f105cd.jpg
+image:
+  path: /assets/img/blog/_70162122_70156176-c710f105cd.jpg
+  alt: "Valve vs. The Next Generation"
 ---
 
 This week saw Valve (the developers behind games like the Half-life series and the Steam network) announce their new set of technologies that aim to bring the Steam gaming experience into the living room. Whether their intention was to simply expand their empire or to throw the gauntlet into the "Next Generation" of the console war, for me they've pretty much already won against the PS4 and the Xbox One. All without any fancy launch events and without announcing any new games or pointless motion-control gimmicks! Here's why...

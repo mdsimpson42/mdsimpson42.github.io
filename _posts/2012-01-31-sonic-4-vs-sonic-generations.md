@@ -1,7 +1,9 @@
 ---
 title: "Sonic 4 vs Sonic Generations"
 date: 2012-01-31 15:09:08 +0000
-featured_image: mdsimpson.jpg
+image:
+  path: /assets/img/blog/mdsimpson.jpg
+  alt: "Sonic 4 vs Sonic Generations"
 author: mike
 categories:
   - video-games

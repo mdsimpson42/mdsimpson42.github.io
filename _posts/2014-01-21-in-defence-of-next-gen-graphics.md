@@ -2,7 +2,9 @@
 title: "In Defence of Next-Gen Graphics"
 date: 2014-01-21 16:35:18 +0000
 author: mike
-featured_image: mdsimpson.jpg
+image:
+  path: /assets/img/blog/mdsimpson.jpg
+  alt: "In Defence of Next-Gen Graphics"
 categories:
   - in-defence-of
   - video-games

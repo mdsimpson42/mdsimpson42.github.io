@@ -10,7 +10,9 @@ tags:
   - depression
   - mental-health
   - self_help
-featured_image: derrenbrown-f056824cae.jpg
+image:
+  path: /assets/img/blog/derrenbrown-f056824cae.jpg
+  alt: "'Happy' by Derren Brown"
 ---
 
 A while back, I reviewed Sarah Millican's brilliant book "[How To Be Champion](http://mdsimpson.co.uk/2019/01/how-to-be-champion/)", which was part autobiography, part joke collection and part self-help book. On a similar theme, I'd like to discuss another book I've been reading recently; "Happy" by mentalist, illusionist and warlock Derren Brown. Or, to give it it's full title: ["Happy: Why More Or Less Everything is Absolutely Fine"](https://www.amazon.co.uk/gp/product/B01HE7TG7Y/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01HE7TG7Y&linkCode=as2&tag=mdsimpson-21&linkId=22e4dc8c9e56f55d9fcb45e2c7c4657d).

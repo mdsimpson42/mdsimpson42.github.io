@@ -5,7 +5,9 @@ author: mike
 categories:
   - game-reviews
   - video-games
-featured_image: 2481268-grey_goo__screenshot_14-737ff9c7b8.jpg
+image:
+  path: /assets/img/blog/2481268-grey_goo__screenshot_14-737ff9c7b8.jpg
+  alt: "First Impressions - Grey Goo"
 ---
 
 I was intrigued when I first heard about Grey Goo. A strategy game that recreates the classic Real-time Strategy (RTS) formula from classic games like Starcraft (one of my favourite games of all time)? Sounds great, I thought, but I decided to wait and see what happened with it. Then, the reviews came out, with many calling it "the best RTS game made by anyone other than Blizzard in the last decade".

@@ -5,7 +5,9 @@ author: mike
 categories:
   - game-reviews
   - video-games
-featured_image: 4322386-sw1-1024x576-e5e9fb8543.jpg
+image:
+  path: /assets/img/blog/4322386-sw1-1024x576-e5e9fb8543.jpg
+  alt: "Review - Star Wars: Outlaws"
 ---
 
 The Ubisoft Game. Now with a Star Wars skin!

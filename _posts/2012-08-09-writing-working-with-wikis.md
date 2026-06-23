@@ -2,7 +2,9 @@
 title: "Writing: Working with Wikis"
 date: 2012-08-09 15:52:24 +0000
 author: mike
-featured_image: mdsimpson.jpg
+image:
+  path: /assets/img/blog/mdsimpson.jpg
+  alt: "Writing: Working with Wikis"
 categories:
   - writing
 tags:

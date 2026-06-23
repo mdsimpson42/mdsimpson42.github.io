@@ -2,7 +2,9 @@
 title: "On the topic of game reviews..."
 date: 2014-03-08 15:25:22 +0000
 author: mike
-featured_image: mdsimpson.jpg
+image:
+  path: /assets/img/blog/mdsimpson.jpg
+  alt: "On the topic of game reviews..."
 categories:
   - video-games
 ---

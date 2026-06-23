@@ -4,7 +4,9 @@ date: 2024-10-17 18:17:19 +0000
 author: mike
 categories:
   - rants
-featured_image: image-fd38a14f2f.png
+image:
+  path: /assets/img/blog/image-fd38a14f2f.png
+  alt: "Netflix and NO CHILL!"
 ---
 
 My subscription will be expiring soon.

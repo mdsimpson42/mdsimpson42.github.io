@@ -12,7 +12,9 @@ tags:
   - parenthood
   - parenting
   - pregnancy
-featured_image: IMG_20200218_113503x-1024x282-fe12aed924.jpg
+image:
+  path: /assets/img/blog/IMG_20200218_113503x-1024x282-fe12aed924.jpg
+  alt: "I Am Your Father - Part 5: We're in the Endgame now"
 ---
 
 *19th February 2020*

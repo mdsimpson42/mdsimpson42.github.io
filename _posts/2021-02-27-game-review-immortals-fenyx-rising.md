@@ -7,7 +7,9 @@ categories:
 tags:
   - game_design
   - reviews
-featured_image: Immortals-Fenyx-Rising-d0caee6df6.jpg
+image:
+  path: /assets/img/blog/Immortals-Fenyx-Rising-d0caee6df6.jpg
+  alt: "Game Review: Immortals Fenyx Rising"
 ---
 
 And no, I just looked it up, apparently, there isn't supposed to be a colon in there. Another reason why this is a strong contender for the worst video game title of all time!

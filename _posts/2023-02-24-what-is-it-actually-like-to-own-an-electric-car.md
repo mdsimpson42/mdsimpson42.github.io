@@ -6,7 +6,9 @@ categories:
   - electric-cars
 tags:
   - electric-cars
-featured_image: 1-B_fuPBR_2z3NU_42QGPJBA-8c733da562.jpeg
+image:
+  path: /assets/img/blog/1-B_fuPBR_2z3NU_42QGPJBA-8c733da562.jpeg
+  alt: "What is it actually like to own an Electric Car?"
 ---
 
 My wife and I have had our Renault Zoe - our first electric car - for nearly four years now, and we love it. But I’m also the first to admit that electric cars are not for everyone, at least not yet. They aren’t exactly cheap, and there are many other barriers to ownership for a lot of people. However, there is no doubt that they are the future of personal transport and I think it’s important to understand how they differ from their petrol-powered predecessors.

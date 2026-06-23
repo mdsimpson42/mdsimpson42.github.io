@@ -5,7 +5,9 @@ author: mike
 categories:
   - retrospectives
   - video-games
-featured_image: Discworld_Noir_PC_cover_art-b7c7fd3581.jpg
+image:
+  path: /assets/img/blog/Discworld_Noir_PC_cover_art-b7c7fd3581.jpg
+  alt: "Retrospective: Discworld Noir"
 ---
 
 Anyone who follows me on a semi-regular basis might have noticed that I've been on something of a *Discworld* binge recently. I'm a massive fan of *Terry Pratchett*'s universe and have been through all of the audiobooks in the series in the last year-or-so (which is why there are so many Pratchett quotes on my [Tumblr](https://twitter.com/codemonkey_mike) and [Twitter](https://twitter.com/codemonkey_mike) feeds).

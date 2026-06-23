@@ -10,7 +10,9 @@ tags:
   - depression
   - mental_health
   - writing
-featured_image: Presentation2-1024x427-0378d6f23e.jpg
+image:
+  path: /assets/img/blog/Presentation2-1024x427-0378d6f23e.jpg
+  alt: "How Writing Saved My Life"
 ---
 
 I’ve always been a big reader and have often dreamed about becoming a writer, but I never imagined that writing would one day save my life. 

@@ -5,7 +5,9 @@ author: mike
 categories:
   - game-reviews
   - video-games
-featured_image: Batman-Arkham-Origins-Box-Art-55d0996f80.jpg
+image:
+  path: /assets/img/blog/Batman-Arkham-Origins-Box-Art-55d0996f80.jpg
+  alt: "Batman: Arkham Origins | Review"
 ---
 
 Well, I finally got round to playing *Batman: Arkham Origins*. I loved *Arkham Asylum* and *Arkham City* was pretty good to, but I've been putting off playing this one because a) it is a prequel, b) it's been developed by a different studio and c) didn't feature the original voice cast that helped bring the earlier games to life. It looked to me like a cheap filler game to cash in on the series' success.

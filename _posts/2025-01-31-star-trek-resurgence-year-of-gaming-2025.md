@@ -5,7 +5,9 @@ author: mike
 categories:
   - video-games
   - year-of-gaming-2025
-featured_image: Star_Trek_Resurgence_HERO-IMAGE-1227d55f1d1952ae7448-07996d2001.jpg
+image:
+  path: /assets/img/blog/Star_Trek_Resurgence_HERO-IMAGE-1227d55f1d1952ae7448-07996d2001.jpg
+  alt: "Star Trek: Resurgence - Year of Gaming 2025"
 ---
 
 The first game I've been playing for my [Year of Gaming](https://mdsimpson.co.uk/2025/01/year-of-gaming-2025/) challenge is *Star Trek: Resurgence*, an adventure game developed by former Telltale Games employees. On paper, this game seems tailor-made for someone like me (i.e. someone who loves single-player, story-driven games and is also a massive nerd!).

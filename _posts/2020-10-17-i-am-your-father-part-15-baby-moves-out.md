@@ -11,7 +11,9 @@ tags:
   - fatherhood
   - parenthood
   - parenting
-featured_image: blog15-ea2e8a9046.jpg
+image:
+  path: /assets/img/blog/blog15-ea2e8a9046.jpg
+  alt: "I Am Your Father - Part 15: Baby Moves Out"
 ---
 
 *12th October 2020*

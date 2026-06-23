@@ -5,7 +5,9 @@ author: mike
 categories:
   - mental-health
   - research-software-engineering
-featured_image: BlogThumbs-1-36d5753d58.jpg
+image:
+  path: /assets/img/blog/BlogThumbs-1-36d5753d58.jpg
+  alt: "My SSI Fellowship: Supporting Mental Health in the Research Software Community"
 ---
 
 In December, I was delighted to be named a 2025 Fellow of the Software Sustainability Institute (SSI). For my fellowship, I will be continuing the discussion around mental health in the research software community.

@@ -6,7 +6,9 @@ categories:
   - electric-cars
 tags:
   - electric-cars
-featured_image: 1-1024x265-e15b78e04d.jpg
+image:
+  path: /assets/img/blog/1-1024x265-e15b78e04d.jpg
+  alt: "Renault Zoe 2 - Electric Boogaloo"
 ---
 
 In February 2019, we bought (second-hand) our first electric car; a 2015 Renault Zoe. I wrote [a post about it](http://mdsimpson.co.uk/2019/02/renault-zoe-first-impressions/) shortly after we picked it up and now, one year on, it's time for an update.
