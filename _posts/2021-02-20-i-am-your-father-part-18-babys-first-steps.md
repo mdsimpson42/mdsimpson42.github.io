@@ -11,7 +11,9 @@ tags:
   - fatherhood
   - parenthood
   - parenting
-featured_image: IMG_20201225_130727X-aa55e18137.jpg
+image:
+  path: /assets/img/blog/IMG_20201225_130727X-aa55e18137.jpg
+  alt: "I Am Your Father - Part 18: Baby's First Steps"
 ---
 
 *15th February 2020*

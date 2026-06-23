@@ -4,7 +4,9 @@ date: 2023-05-20 18:54:00 +0000
 author: mike
 categories:
   - miscellaneous
-featured_image: ab67616d0000b27391eee92ba7620a88de647ade-41ff1b7ef2.jpg
+image:
+  path: /assets/img/blog/ab67616d0000b27391eee92ba7620a88de647ade-41ff1b7ef2.jpg
+  alt: "Who are Live Action Remakes for?"
 ---
 
 I won't be going to watch the remake of *The Little Mermaid*, but not for the reason you might think.

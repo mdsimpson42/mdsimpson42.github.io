@@ -6,7 +6,9 @@ categories:
   - electric-cars
 tags:
   - electric-cars
-featured_image: blogX-698a08905b.jpg
+image:
+  path: /assets/img/blog/blogX-698a08905b.jpg
+  alt: "Renault Zoe 3 - Road Trip!"
 ---
 
 I've talked previously about my [first impressions](https://mdsimpson.co.uk/2019/02/renault-zoe-first-impressions/) of our all-electric 2015 Renault Zoe, as well as [our experience of living with it for the first few months](https://mdsimpson.co.uk/2020/03/renault-zoe-2-electric-boogaloo/). Now it's time to talk about the main 'elephant in the room' when it comes to electric cars; what is it like on longer journeys?

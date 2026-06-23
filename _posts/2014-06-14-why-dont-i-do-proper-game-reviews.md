@@ -2,7 +2,9 @@
 title: "Why don't I do 'proper' game reviews?"
 date: 2014-06-14 16:00:14 +0000
 author: mike
-featured_image: mdsimpson.jpg
+image:
+  path: /assets/img/blog/mdsimpson.jpg
+  alt: "Why don't I do 'proper' game reviews?"
 categories:
   - video-games
 ---

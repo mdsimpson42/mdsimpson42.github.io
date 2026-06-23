@@ -8,7 +8,9 @@ tags:
   - mass_effect
   - storytelling
   - writing
-featured_image: HL2_2-ddab1012a7.jpg
+image:
+  path: /assets/img/blog/mdsimpson.jpg
+  alt: "Video Games as a Storytelling Medium"
 ---
 
 I wanted to take a break from my usual ranting to talk about something quite close to my heart. As part of the argument that games are (or at least can be) art, I'd like to look at something that I find particularly interesting: storytelling. In particular, I want to try and explain why video games have the potential to be the greatest storytelling medium of them all...

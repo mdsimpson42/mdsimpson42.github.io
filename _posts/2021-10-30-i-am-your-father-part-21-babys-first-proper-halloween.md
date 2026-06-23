@@ -11,7 +11,9 @@ tags:
   - fatherhood
   - parenthood
   - parenting
-featured_image: PXL_20211025_075142289-1024x576-5daa9b8ba3.jpg
+image:
+  path: /assets/img/blog/PXL_20211025_075142289-1024x576-5daa9b8ba3.jpg
+  alt: "I Am Your Father - Part 21: Baby's First (Proper) Halloween"
 ---
 
 *31st October 2021*

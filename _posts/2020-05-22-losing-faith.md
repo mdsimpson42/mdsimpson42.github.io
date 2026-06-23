@@ -12,7 +12,9 @@ tags:
   - mental_health
   - self_care
   - wellbeing
-featured_image: losing-faith-upload-0f81b43986.jpg
+image:
+  path: /assets/img/blog/losing-faith-upload-0f81b43986.jpg
+  alt: "Let's Talk About... Losing Faith"
 ---
 
 I struggled with many things when I was suffering from depression and anxiety, including issues surrounding my career, my relationships, my social life... It's too much to talk about all at once, so I want to break it down and focus on one thing at a time. The following is based on notes that I made during therapy and is the story of not only what happened but *how *I came to terms with it.

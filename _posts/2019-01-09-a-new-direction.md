@@ -2,7 +2,9 @@
 title: "A New Direction..."
 date: 2019-01-09 16:00:24 +0000
 author: mike
-featured_image: mdsimpson.jpg
+image:
+  path: /assets/img/blog/mdsimpson.jpg
+  alt: "A New Direction..."
 categories:
   - miscellaneous
 ---

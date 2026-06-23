@@ -2,7 +2,9 @@
 title: "Mass Effect: Andromeda - First Impressions"
 date: 2017-08-19 16:00:49 +0000
 author: mike
-featured_image: mdsimpson.jpg
+image:
+  path: /assets/img/blog/mdsimpson.jpg
+  alt: "Mass Effect: Andromeda - First Impressions"
 categories:
   - game-reviews
 tags:

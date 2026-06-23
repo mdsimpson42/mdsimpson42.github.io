@@ -5,7 +5,9 @@ author: mike
 categories:
   - game-reviews
   - video-games
-featured_image: space_run-20-copy-8b7b069a27.jpg
+image:
+  path: /assets/img/blog/space_run-20-copy-8b7b069a27.jpg
+  alt: "Review: Space Run"
 ---
 
 I don't have any real interest in the new consoles or any of the big titles at the minute, so I've decided to take a few more punts on smaller-scale/indie games instead. Hopefully, this will expose me to more genuine creativity and new ideas and, who knows, I may discover a few little gems along the way. It also means that I'm not just throwing my opinions out into the over-populated sea of reviews of triple-A titles...

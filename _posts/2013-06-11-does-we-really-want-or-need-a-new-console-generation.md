@@ -2,7 +2,9 @@
 title: "Do we really want or need a new console generation?"
 date: 2013-06-11 10:20:52 +0000
 author: mike
-featured_image: mdsimpson.jpg
+image:
+  path: /assets/img/blog/mdsimpson.jpg
+  alt: "Do we really want or need a new console generation?"
 categories:
   - video-games
 tags:

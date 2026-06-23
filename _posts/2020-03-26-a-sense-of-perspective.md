@@ -2,7 +2,9 @@
 title: "A Sense of Perspective"
 date: 2020-03-26 23:58:18 +0000
 author: mike
-featured_image: mdsimpson.jpg
+image:
+  path: /assets/img/blog/mdsimpson.jpg
+  alt: "A Sense of Perspective"
 categories:
   - miscellaneous
 ---

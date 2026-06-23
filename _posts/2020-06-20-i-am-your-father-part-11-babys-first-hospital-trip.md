@@ -11,7 +11,9 @@ tags:
   - fatherhood
   - parenthood
   - parenting
-featured_image: baby-blog-02-5ce33e9672.jpg
+image:
+  path: /assets/img/blog/baby-blog-02-5ce33e9672.jpg
+  alt: "I Am Your Father - Part 11: Baby's First Hospital Trip"
 ---
 
 *Originally written: 6th May 2020*

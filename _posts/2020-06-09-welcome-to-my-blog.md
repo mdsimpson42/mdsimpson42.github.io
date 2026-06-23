@@ -2,7 +2,9 @@
 title: "Welcome to My Blog"
 date: 2020-06-09 13:04:40 +0000
 author: mike
-featured_image: mdsimpson.jpg
+image:
+  path: /assets/img/blog/mdsimpson.jpg
+  alt: "Welcome to My Blog"
 categories:
   - miscellaneous
 ---

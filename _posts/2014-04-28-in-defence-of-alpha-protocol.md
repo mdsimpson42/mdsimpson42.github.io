@@ -2,7 +2,9 @@
 title: "In Defence of... Alpha Protocol"
 date: 2014-04-28 08:50:43 +0000
 author: mike
-featured_image: mdsimpson.jpg
+image:
+  path: /assets/img/blog/mdsimpson.jpg
+  alt: "In Defence of... Alpha Protocol"
 categories:
   - game-reviews
   - in-defence-of

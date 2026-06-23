@@ -8,7 +8,9 @@ categories:
 tags:
   - reviews
   - video_games
-featured_image: images-eb0a061323.jpg
+image:
+  path: /assets/img/blog/images-eb0a061323.jpg
+  alt: "Stop Over-hyping Things!"
 ---
 
 So, a few weeks ago, Watch_Dogs launched to a universal chorus of 'Meh!'. I haven't played the game myself, but the general consensus seems to be that 'it didn't live up to the hype'. But, as [Yahtzee](http://www.escapistmagazine.com/videos/view/zero-punctuation) said in his review, how could it?

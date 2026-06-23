@@ -13,7 +13,9 @@ tags:
   - storytelling
   - tv
   - writing
-featured_image: Philostone-692x1024-a25a4cbfcd.jpg
+image:
+  path: /assets/img/blog/Philostone-692x1024-a25a4cbfcd.jpg
+  alt: "In Defence of... Changing Things"
 ---
 
 Given my interests and line of work (i.e. the fact that I am a massive nerd), you probably won't be surprised to know that a large number of my friends were the sort of people took great delight in pointing out (and complaining about) every little detail that was changed from the books to make the *Harry Potter* movies. Many of these are the same people who are now among the armies of angry monkeys kicking off after EVERY SINGLE EPISODE of *Game Of Thrones*.

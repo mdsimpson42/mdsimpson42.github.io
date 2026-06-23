@@ -11,7 +11,9 @@ tags:
   - fatherhood
   - parenthood
   - parenting
-featured_image: IMG_20200718_111500x-1024x538-efdad6ae30.jpg
+image:
+  path: /assets/img/blog/IMG_20200718_111500x-1024x538-efdad6ae30.jpg
+  alt: "I Am Your Father - Part 13: Baby's New Routine"
 ---
 
 *Originally written: 8th June 2020*

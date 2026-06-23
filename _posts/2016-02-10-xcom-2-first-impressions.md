@@ -6,7 +6,9 @@ categories:
   - game-reviews
 tags:
   - reviews
-featured_image: 2016-02-10_00015a-ca686d6092.jpg
+image:
+  path: /assets/img/blog/2016-02-10_00015a-ca686d6092.jpg
+  alt: "XCOM 2: First Impressions"
 ---
 
 I can't remember being as excited for a video game as I've been about XCOM 2, the sequel to Firaxis' XCOM: Enemy Unknown (one of my favourite games of all time). I've been soaking up all the preview videos and developer livestreams and now I've finally got my hands on the game.

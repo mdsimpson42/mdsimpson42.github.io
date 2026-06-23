@@ -6,7 +6,9 @@ categories:
   - game-reviews
   - video-games
   - year-of-gaming-2025
-featured_image: ss_8fa87a473d9323260724f73bd318271b175e230c.1920x1080-0995f982ed.jpg
+image:
+  path: /assets/img/blog/ss_8fa87a473d9323260724f73bd318271b175e230c.1920x1080-0995f982ed.jpg
+  alt: "Tales of Kenzera: Zau - Year of Gaming 2025"
 ---
 
 Autumn is well and truly here, and for my October game, it's time to check out one of the more recent purchases in my Steam backlog.

@@ -5,7 +5,9 @@ author: mike
 categories:
   - writing
 tags:
-featured_image: tumblr_nl43i8cNxw1tdxlulo1_1280-ed9a8acc50.jpg
+image:
+  path: /assets/img/blog/tumblr_nl43i8cNxw1tdxlulo1_1280-ed9a8acc50.jpg
+  alt: "A tribute to Terry Pratchett"
 ---
 
 I don't normally go in for this sort of thing. It seems like a lot of celebrities have passed away recently, including many who I admired or respected. Normally, however, I just think "that's a bit sad" and try to move on, since I feel that anything I say will somehow sound hollow or insincere, or will just be the same thing that a million other people are saying.

@@ -10,7 +10,9 @@ tags:
   - fatherhood
   - parenting
   - pregnancy
-featured_image: scan0002-2-302f5ce4fc.jpg
+image:
+  path: /assets/img/blog/scan0002-2-302f5ce4fc.jpg
+  alt: "I Am Your Father - Part 2: The Scan"
 ---
 
 *25th October 2019*

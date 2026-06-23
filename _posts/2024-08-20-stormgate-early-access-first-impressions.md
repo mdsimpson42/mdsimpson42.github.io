@@ -8,7 +8,9 @@ tags:
   - reviews
   - sci_fi
   - video_games
-featured_image: 20240815134700_1-1024x386-b73ce6a27b.jpg
+image:
+  path: /assets/img/blog/20240815134700_1-1024x386-b73ce6a27b.jpg
+  alt: "Stormgate (Early Access) - First Impressions"
 ---
 
 So, it seems a group of developers at Blizzard got sick of beating the 20-year-old dead horse of World of Warcraft and went off to form a new studio. Their goal; to make strategy games - you know, the thing that Blizzard used to be known for! They're gonna build their own Starcraft. With blackjack. And hookers!

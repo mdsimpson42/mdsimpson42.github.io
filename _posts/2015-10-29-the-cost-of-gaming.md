@@ -2,7 +2,9 @@
 title: "The Cost of Gaming"
 date: 2015-10-29 16:00:27 +0000
 author: mike
-featured_image: mdsimpson.jpg
+image:
+  path: /assets/img/blog/mdsimpson.jpg
+  alt: "The Cost of Gaming"
 categories:
   - video-games
 tags:

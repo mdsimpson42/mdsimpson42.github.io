@@ -5,7 +5,9 @@ author: mike
 categories:
   - video-games
   - year-of-gaming-2025
-featured_image: header-1-59b04a77a6.jpg
+image:
+  path: /assets/img/blog/header-1-59b04a77a6.jpg
+  alt: "Shadow Tactics: Blades of the Shogun - Year of Gaming 2025"
 ---
 
 And so we reach September and the 9th (sort of!) game in my Year of Gaming Challenge for 2025. This month, I've been playing a game that's been in my backlog for a very long time: Shadow Tactics: Blades of the Shogun.

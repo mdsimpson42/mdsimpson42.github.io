@@ -7,7 +7,9 @@ categories:
 tags:
   - game_design
   - reviews
-featured_image: 20200907173546_1-da620db0e1.jpg
+image:
+  path: /assets/img/blog/20200907173546_1-da620db0e1.jpg
+  alt: "Review - XCOM: Chimera Squad (Part 1)"
 ---
 
 I haven't done a game review in a while, mainly because I don't play games close to their release dates any more. They're just too expensive and I've had too many disappointments in the past. However, I not only bought *XCOM: Chimera Squad* soon after it was released, but I also feel qualified to comment on it, given my history with the series.

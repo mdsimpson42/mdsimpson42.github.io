@@ -14,7 +14,9 @@ tags:
   - parenthood
   - parenting
   - pregnancy
-featured_image: IMG_20200419_043321x-1024x538-ebbd387041.jpg
+image:
+  path: /assets/img/blog/IMG_20200419_043321x-1024x538-ebbd387041.jpg
+  alt: "I Am Your Father - Part 9b: Delivery"
 ---
 
 *19th April 2020*
