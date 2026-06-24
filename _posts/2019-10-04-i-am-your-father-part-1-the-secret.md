@@ -58,9 +58,9 @@ Each time I do one of these posts, I will try to link to something amusing or us
 
 The link I want to share in this post is this hilarious advice for new fathers; *‘[50 Things Every Guy Should Know About Pregnancy and Parenthood](https://www.parents.com/parenting/dads/101/50-things-every-guy-should-know-about-pregnancy-and-parenthood/)’.* This is advice from two dads, which includes such gems as:
 
- - From the very moment she announces her pregnancy, she'll be the center of attention — not you. Get used to it.
+\1From the very moment she announces her pregnancy, she'll be the center of attention — not you. Get used to it.
 
- - When the baby comes, they'll both be the center of attention — not you. Aren't you glad you had nine months to practice going unnoticed?
+\1When the baby comes, they'll both be the center of attention — not you. Aren't you glad you had nine months to practice going unnoticed?
 
 This isn’t particularly news for me, I feel like I’ve been in training for this all my life! But there is some good info and funny comments in that post (if you can get past all the Americanisms!), so it’s well worth a read.
 

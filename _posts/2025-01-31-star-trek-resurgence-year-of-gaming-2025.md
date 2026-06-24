@@ -14,7 +14,7 @@ The first game I've been playing for my [Year of Gaming](https://mdsimpson.co.uk
 
 So, how does the Telltale formula work in the Final Frontier? And does this new company have what it takes to compete with their former studio? Let's find out!
 
-*Reminder: For the Year of Gaming Challenge, I have to play a brand new game (one of the many games I bought in Steam sales and never got around to playing), give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/category/i-am-your-father/) with a lot going on right now, it will be hard to fit it in!)*
+*Reminder: For the Year of Gaming Challenge, I have to play a brand new game (one of the many games I bought in Steam sales and never got around to playing), give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/categories/i-am-your-father/) with a lot going on right now, it will be hard to fit it in!)*
 
 ## Star Trek: Resurgence
 

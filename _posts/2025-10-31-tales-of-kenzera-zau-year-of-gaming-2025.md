@@ -15,13 +15,13 @@ Autumn is well and truly here, and for my October game, it's time to check out o
 
 Normally, I try to be a bit coy with these introductions, but I'm going to spoil the whole review by saying this month's game might be the best one I've played for the Year of Gaming Challenge so far!
 
-*Reminder: For the [Year of Gaming Challenge](https://mdsimpson.co.uk/category/video-games/year-of-gaming-2025/), I have to play one of the many games I've bought in Steam sales and never got around to playing. I must give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/category/i-am-your-father/) with a lot going on right now, it will be hard to fit in!)*
+*Reminder: For the [Year of Gaming Challenge](https://mdsimpson.co.uk/categories/year-of-gaming-2025/), I have to play one of the many games I've bought in Steam sales and never got around to playing. I must give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/categories/i-am-your-father/) with a lot going on right now, it will be hard to fit in!)*
 
 I can't remember when I first saw Tales of Kenzera, but it immediately caught my eye. It had a striking art style and a sort of fluid motion that looked like it would be fun to play. Plus, as I said in my review of [Never Alone](https://mdsimpson.co.uk/2025/03/never-alone-kisima-ingitchuna-year-of-gaming-2025/) back in March, I love learning about other cultures, and gaming has proven to be a surprisingly good way to do that.
 
 So, all of those promising signs bumped the game to the top of my To Do list, and this month, I finally got to see if it lived up to that promise.
 
-# Tales of Kenzera: Zau
+## Tales of Kenzera: Zau
 
 I would describe Tales of Kenzera: Zau as a 2.5D action platformer with Metroidvania influences, following the adventures of a young shaman who must explore the world and battle corrupted spirits. The game was released in 2024, developed by Surgent Studios and published by EA Originals.
 
@@ -51,14 +51,14 @@ The result is an aesthetic that feels unique, the general gameplay and combat ar
 
 ## Stats
 
- - I got the game on Steam in late 2024 for £7.19, a roughly 60% discount on the current full price of £17.99.
+- I got the game on Steam in late 2024 for £7.19, a roughly 60% discount on the current full price of £17.99.
 
- - I played it for just under 12 hours and have completed it, earning all achievements.
+- I played it for just under 12 hours and have completed it, earning all achievements.
 
-# Final Thoughts
+## Final Thoughts
 
 Some would view a game that you can beat in a handful of play sessions as a bad thing. For me, it was perfect. An actually fun game with a satisfying story that I can 100% within the confines of my lifestyle is fantastic! It's gorgeous and well-written and isn't an endless grind. I also can't overstate how refreshing it is to play a "fantasy" game (i.e. a game with magic and mythical creatures) that isn't set in yet another facsimile of Middle-earth!
 
 Yes, I've seen all there is to see, but it's a game that will stick with me, and it's definitely one of the highlights of the YoG Challenge so far!
 
-Find out what I thought of the other games I've played for the [Year of Gaming](https://mdsimpson.co.uk/category/video-games/year-of-gaming-2025/) challenge, or check out my other gaming-related [rants and reviews](https://mdsimpson.co.uk/category/video-games/).
+Find out what I thought of the other games I've played for the [Year of Gaming](https://mdsimpson.co.uk/categories/year-of-gaming-2025/) challenge, or check out my other gaming-related [rants and reviews](https://mdsimpson.co.uk/categories/video-games/).

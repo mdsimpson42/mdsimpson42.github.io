@@ -33,6 +33,6 @@ He goes into a lot more detail in the book, obviously, including (frankly) a lit
 
 ### Final Thoughts
 
-Not everyone will like or agree with what Derren is saying here, but a lot of it resonated with me. It was stuff that I had already been thinking about as part of [my writing on the subject of mental health](http://mdsimpson.co.uk/category/mental-health/), but I didn't have the knowledge of philosophy or psychology to explain a lot of it before I read this book.
+Not everyone will like or agree with what Derren is saying here, but a lot of it resonated with me. It was stuff that I had already been thinking about as part of [my writing on the subject of mental health](http://mdsimpson.co.uk/categories/mental-health/), but I didn't have the knowledge of philosophy or psychology to explain a lot of it before I read this book.
 
 Despite the heavy philosophy, it's humorous, honest and informative, and well worth a read if you are interested in living a happier and less anxious life.

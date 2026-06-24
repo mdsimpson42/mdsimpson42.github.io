@@ -18,7 +18,7 @@ image:
   alt: "Let's Talk About... Sleep and Insomnia"
 ---
 
-So, this is the first entry in what I'm calling ["Let's Talk About..."](https://mdsimpson.co.uk/category/mental-health/lets-talk-about/), which is based on my personal battle with mental health problems, my notes from therapy and my own research/experience of trying to live a happier life.
+So, this is the first entry in what I'm calling ["Let's Talk About..."](https://mdsimpson.co.uk/categories/mental-health/lets-talk-about/), which is based on my personal battle with mental health problems, my notes from therapy and my own research/experience of trying to live a happier life.
 
 One of the aims for this series is to present some practical advice on a range of mental-health-related subjects and today, I wanted to look at what was, for me, one of the most challenging things to manage; sleep and insomnia.
 
@@ -34,21 +34,21 @@ I used to be a champion sleeper. I could sleep for days, wherever and whenever I
 
 Here, in no particular order, are some common tips to help get off to the land of nod, some given from my GP, therapist or from other trusted sources.
 
- - No food after 9 pm - eating affects your circadian rhythms and digesting food can keep you awake.
+\1No food after 9 pm - eating affects your circadian rhythms and digesting food can keep you awake.
 
- - No caffeine after 5 pm - pretty self-explanatory!
+\1No caffeine after 5 pm - pretty self-explanatory!
 
- - No exercise in the late evening - adrenaline is the enemy of sleep.
+\1No exercise in the late evening - adrenaline is the enemy of sleep.
 
- - Limit screen time - if you can't, then use an app like Twilight or F.lux to reduce blue light exposure, as this also affects your circadian rhythms.
+\1Limit screen time - if you can't, then use an app like Twilight or F.lux to reduce blue light exposure, as this also affects your circadian rhythms.
 
- - A warm, milky drink (hot chocolate or decaf tea) - seems to help more often than not.
+\1A warm, milky drink (hot chocolate or decaf tea) - seems to help more often than not.
 
- - Don't lie there indefinitely - if you can't get to sleep within, say, an hour, get up and do something else for a while, then go back and try again (but avoid the activities mentioned above).
+\1Don't lie there indefinitely - if you can't get to sleep within, say, an hour, get up and do something else for a while, then go back and try again (but avoid the activities mentioned above).
 
- - Avoid alcohol - drink less or don't drink too close to bedtime. You might fall asleep easier, but you're more likely to have disturbed sleep.
+\1Avoid alcohol - drink less or don't drink too close to bedtime. You might fall asleep easier, but you're more likely to have disturbed sleep.
 
- - "And, of course, the all-time number one!" (Semi-obscure, Red Dwarf reference!) - There is, of course, something that you can do, alone or with a partner, that will help you to feel sleepy. It might help if you are struggling to... ahem... get off, but, like alcohol, this won't guarantee an undisturbed night's sleep and it's probably not something that you want to become dependant on!
+\1"And, of course, the all-time number one!" (Semi-obscure, Red Dwarf reference!) - There is, of course, something that you can do, alone or with a partner, that will help you to feel sleepy. It might help if you are struggling to... ahem... get off, but, like alcohol, this won't guarantee an undisturbed night's sleep and it's probably not something that you want to become dependant on!
 
 For more, including why this stuff works, check out 'Recommended Reading' below.
 
@@ -90,6 +90,6 @@ A good book on the subject is ['Night School' by Richard Wiseman](https://www.am
 
 So, that's a summary of my advice on sleep and insomnia which, in my experience, was a significant part of my struggle with mental health. If you can get a good night's sleep, you'll be in a better mood and in better shape to face the day, so it's definitely a good place to start.
 
-*For more, check out the rest of the [Let's Talk... series](https://mdsimpson.co.uk/category/mental-health/lets-talk-about/) or my other posts on [Mental Health](http://mdsimpson.co.uk/category/mental-health/).*
+*For more, check out the rest of the [Let's Talk... series](https://mdsimpson.co.uk/categories/mental-health/lets-talk-about/) or my other posts on [Mental Health](http://mdsimpson.co.uk/categories/mental-health/).*
 
 **As always, if you need more information or support, I can recommend [Mind, the mental health charity](https://www.mind.org.uk/) and the NHS campaign [Every Mind Matters](https://www.nhs.uk/oneyou/every-mind-matters/), or talk to your GP.**

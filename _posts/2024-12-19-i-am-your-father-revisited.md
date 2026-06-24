@@ -16,7 +16,7 @@ image:
   alt: "I Am Your Father - Revisited"
 ---
 
-A quick update on the '[I Am Your Father](https://mdsimpson.co.uk/category/i-am-your-father/)' blog - the story of how I became a father in lockdown - and some of my future plans...
+A quick update on the '[I Am Your Father](https://mdsimpson.co.uk/categories/i-am-your-father/)' blog - the story of how I became a father in lockdown - and some of my future plans...
 
 *Reminder: This blog is the work of a sleep-deprived, first-time parent, trying to talk frankly and honestly about his experience. I make no apologies for the language used.*
 
@@ -26,7 +26,7 @@ So, why am I writing this? That is a good question. One thing that has happened 
 
 As part of trying to process all that, I found myself revisiting the blog and the notes that I made at the time. And while yes, I struggled, and yes, I burned out, and yes, I had an anxiety attack, I think I can safely say that I handled everything remarkably well in the circumstances. Revisiting the blog has been an interesting experience that has helped me gain a new perspective.
 
-*Incidentally, if you're interested, I've done some spellchecking and tidying up the posts, but they remain almost entirely unchanged. The blog began when we broke the news to our family with [Part One - The Secret](https://mdsimpson.co.uk/2019/10/i-am-your-father-part-1-the-secret/), and goes all the way through to [Part 21 - Baby's First (Proper) Halloween](https://mdsimpson.co.uk/2021/10/i-am-your-father-part-21-babys-first-proper-halloween/), by which point we had kept him alive for 18 months! You can read the whole series by checking out [the 'I Am Your Father' category](https://mdsimpson.co.uk/category/i-am-your-father/).*
+*Incidentally, if you're interested, I've done some spellchecking and tidying up the posts, but they remain almost entirely unchanged. The blog began when we broke the news to our family with [Part One - The Secret](https://mdsimpson.co.uk/2019/10/i-am-your-father-part-1-the-secret/), and goes all the way through to [Part 21 - Baby's First (Proper) Halloween](https://mdsimpson.co.uk/2021/10/i-am-your-father-part-21-babys-first-proper-halloween/), by which point we had kept him alive for 18 months! You can read the whole series by checking out [the 'I Am Your Father' category](https://mdsimpson.co.uk/categories/i-am-your-father/).*
 
 While I was doing this, I was inspired to continue with another project, which has just taken another step closer to completion...
 

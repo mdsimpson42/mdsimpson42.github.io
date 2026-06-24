@@ -14,7 +14,7 @@ The next game from my Steam backlog that I decided to try was *Viewfinder*, a fi
 
 This is another game that seems right up my street on paper, but does it live up to the hype? Let's dive in!
 
-*Reminder: For the [Year of Gaming Challenge](https://mdsimpson.co.uk/category/video-games/year-of-gaming-2025/), I have to play a game I've never played before (one of the many games I bought in Steam sales and never got around to playing), give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/category/i-am-your-father/) with a lot going on right now, it will be hard to fit it in!)*
+*Reminder: For the [Year of Gaming Challenge](https://mdsimpson.co.uk/categories/year-of-gaming-2025/), I have to play a game I've never played before (one of the many games I bought in Steam sales and never got around to playing), give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/categories/i-am-your-father/) with a lot going on right now, it will be hard to fit it in!)*
 
 ## Viewfinder
 
@@ -58,11 +58,11 @@ But those are nitpicks in an otherwise excellent experience. A lot of it was not
 
 (I may not have time to finish a game within the month, so I will always let you know how far through a game I got, and whether I'm willing to continue playing).
 
- - The game was bought for me from my Steam wishlist as a gift. It costs £19.99 (currently discounted to £9.99).
+- The game was bought for me from my Steam wishlist as a gift. It costs £19.99 (currently discounted to £9.99).
 
- - I finished it in 5.5 hours, completing all the main and optional levels, but didn't find all the secret items.
+- I finished it in 5.5 hours, completing all the main and optional levels, but didn't find all the secret items.
 
- - I probably won't replay it or go looking for the secrets I missed; I feel like I've seen all there is to see.
+- I probably won't replay it or go looking for the secrets I missed; I feel like I've seen all there is to see.
 
 ## Final thoughts
 

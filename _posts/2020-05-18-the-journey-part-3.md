@@ -114,6 +114,6 @@ THE END
 *
 For more about how and why I wrote the story, [click here](http://mdsimpson.co.uk/2019/06/writing-the-journey/). *
 
-*For more posts on mental health, click [here](https://mdsimpson.co.uk/category/mental-health/) or, check out my [Muggle's Guide to Dementor Defence](https://mdsimpson.co.uk/category/a-muggles-guide-to-dementor-defence/).*
+*For more posts on mental health, click [here](https://mdsimpson.co.uk/categories/mental-health/) or, check out my [Muggle's Guide to Dementor Defence](https://mdsimpson.co.uk/categories/a-muggles-guide-to-dementor-defence/).*
 
 **As always, if you need more information or support I can recommend [Mind, the mental health charity](https://www.mind.org.uk/) and the NHS campaign [Every Mind Matters](https://www.nhs.uk/oneyou/every-mind-matters/), or talk to your GP.**

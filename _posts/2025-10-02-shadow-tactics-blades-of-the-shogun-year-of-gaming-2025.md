@@ -12,13 +12,13 @@ image:
 
 And so we reach September and the 9th (sort of!) game in my Year of Gaming Challenge for 2025. This month, I've been playing a game that's been in my backlog for a very long time: Shadow Tactics: Blades of the Shogun.
 
-*Reminder: For the [Year of Gaming Challenge](https://mdsimpson.co.uk/category/video-games/year-of-gaming-2025/), I have to play one of the many games I've bought in Steam sales and never got around to playing. I must give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/category/i-am-your-father/) with a lot going on right now, it will be hard to fit in!)*
+*Reminder: For the [Year of Gaming Challenge](https://mdsimpson.co.uk/categories/year-of-gaming-2025/), I have to play one of the many games I've bought in Steam sales and never got around to playing. I must give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/categories/i-am-your-father/) with a lot going on right now, it will be hard to fit in!)*
 
 I saw Shadow Tactics in my Steam library when I was looking for my September game. It's a nearly 10-year-old game that I apparently bought for myself in 2021. This is an example of exactly the thing I started this challenge for: a game that appeals to me, that I've wanted to play for ages and bought in a Steam sale before promptly forgetting about it.
 
 So, I finally got to play it. Was it worth the wait?
 
-# Shadow Tactics: Blades of the Shogun
+## Shadow Tactics: Blades of the Shogun
 
 Shadow Tactics is a real-time tactics and stealth game, where you view the game from a top-down perspective and must control a number of characters as they sneak and kill their way around enemy bases. It was developed by Mimimi Games and originally released in December 2016.
 
@@ -52,12 +52,12 @@ The game has a gorgeous, painterly art style. The writing and voice acting are g
 
 ## Stats
 
- - I got the game on Steam in 2021 for £3.49, a 90% discount on the current full price of £34.99
+- I got the game on Steam in 2021 for £3.49, a 90% discount on the current full price of £34.99
 
- - I played it for a little over 7 hours and have beaten the first 5 levels, earning 5 out of 45 badges.
+- I played it for a little over 7 hours and have beaten the first 5 levels, earning 5 out of 45 badges.
 
- - I may play more, but I'm not sure I have the patience to play it in large chunks. I also don't feel particularly motivated to replay the previous levels to unlock the additional badges.
+- I may play more, but I'm not sure I have the patience to play it in large chunks. I also don't feel particularly motivated to replay the previous levels to unlock the additional badges.
 
-# Final Thoughts
+## Final Thoughts
 
 Shadow Tactics felt like a safer bet than some of the other games I've recently played in this series. Stealth/tactics is a lot more my style. And I found the story, writing and general craft of the game to be excellent. However, I found the actual gameplay to be a little frustrating. It seems to rely on save-scumming over skill and planning, and I just don't think I have the patience to keep making plans, failing, reloading and trying again. If you are someone who enjoys that sort of challenge and has the patience to keep trying, then I would definitely recommend giving it a try. I just don't think it's for me!

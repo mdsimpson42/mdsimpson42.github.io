@@ -14,7 +14,7 @@ This month, I decided to try another game that pushes me out of my comfort zone.
 
 Was I right to be cautious?
 
-*Reminder: For the [Year of Gaming Challenge](https://mdsimpson.co.uk/category/video-games/year-of-gaming-2025/), I have to play one of the many games I've bought in Steam sales and never got around to playing. I have to give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/category/i-am-your-father/) with a lot going on right now, it will be hard to fit it in!)*
+*Reminder: For the [Year of Gaming Challenge](https://mdsimpson.co.uk/categories/year-of-gaming-2025/), I have to play one of the many games I've bought in Steam sales and never got around to playing. I have to give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/categories/i-am-your-father/) with a lot going on right now, it will be hard to fit it in!)*
 
 I was intrigued by Hardspace Shipbreaker when it launched. The idea of a realistic sci-fi game set in outer space naturally appealed to me. But when I watched the trailer and saw the reviews, I was torn. It looked like a well-made game with an interesting premise, but I wasn't sure if I would actually enjoy the gameplay. It's not the type of game I usually play, and (as we discovered [last month](https://mdsimpson.co.uk/2025/08/july-demo-roundup-year-of-gaming-2025/)), there's usually a reason why!
 
@@ -64,11 +64,11 @@ So, my recommendation would be to pay attention to your XP bar and return to the
 
 ## Stats
 
- - I got the game free on the Epic Store (via Prime Gaming). It is currently available at the full price of £29.99.
+- I got the game free on the Epic Store (via Prime Gaming). It is currently available at the full price of £29.99.
 
- - I played it for 10 hours (including the hour I played before restarting) and reached Rank 9.
+- I played it for 10 hours (including the hour I played before restarting) and reached Rank 9.
 
- - I can't see myself playing it regularly, but I may dip in and out from time to time.
+- I can't see myself playing it regularly, but I may dip in and out from time to time.
 
 ## Final Thoughts
 

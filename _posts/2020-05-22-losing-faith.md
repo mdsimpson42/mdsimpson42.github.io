@@ -21,7 +21,7 @@ I struggled with many things when I was suffering from depression and anxiety, i
 
 Long before the events that triggered my mental health issues, I lost my faith. I didn't really miss it at the time, but when I was depressed, I felt like I had lost a part of myself. It took some time - and a lot of soul-searching - to realise what the problem actually was.
 
-*The ["Let's Talk About..."](https://mdsimpson.co.uk/category/mental-health/lets-talk-about/) series is based on my experience with mental health issues. Posts like this are more personal than, for example, [my recent post about sleep and insomnia](https://mdsimpson.co.uk/2020/04/sleep-a-muggles-guide/), but I hope to include some helpful advice as well as share my story.*
+*The ["Let's Talk About..."](https://mdsimpson.co.uk/categories/mental-health/lets-talk-about/) series is based on my experience with mental health issues. Posts like this are more personal than, for example, [my recent post about sleep and insomnia](https://mdsimpson.co.uk/2020/04/sleep-a-muggles-guide/), but I hope to include some helpful advice as well as share my story.*
 
 ![](/assets/img/blog/losing-faith-upload-0f81b43986.jpg)
 
@@ -59,6 +59,6 @@ So, that's how I came to terms with the loss of my faith. It took a long time, b
 
 This particular solution might not work for everyone, but I'd recommend giving it a try if you find yourself in a similar situation. The important thing is to persevere and to keep experimenting until, hopefully, you'll find a solution that works for you.
 
-*For more, check out the rest of the [Let's Talk... series](https://mdsimpson.co.uk/category/mental-health/lets-talk-about/) or my other posts on [Mental Health](http://mdsimpson.co.uk/category/mental-health/).*
+*For more, check out the rest of the [Let's Talk... series](https://mdsimpson.co.uk/categories/mental-health/lets-talk-about/) or my other posts on [Mental Health](http://mdsimpson.co.uk/categories/mental-health/).*
 
 **As always, if you need more information or support, I can recommend [Mind, the mental health charity](https://www.mind.org.uk/) and the NHS campaign [Every Mind Matters](https://www.nhs.uk/oneyou/every-mind-matters/), or talk to your GP.**

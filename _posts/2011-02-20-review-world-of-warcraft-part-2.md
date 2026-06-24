@@ -12,13 +12,11 @@ tags:
   - video-games
 ---
 
-What follows is part 2 of my review of Blizzard's online phenomenon 
-*World of Warcraft*
- [continued from 
-[here](http://mdsimpson.co.uk/blog/?p=19)
-]. This week I look at some of the things that I wasn't so keen on, and the stuff that ultimately drove me to leave the game.
+What follows is part 2 of my review of Blizzard's online phenomenon
+*World of Warcraft* [continued from [Part 1](/2011/02/review-world-of-warcraft/)].
+This week I look at some of the things that I wasn't so keen on, and the stuff that ultimately drove me to leave the game.
 
-### The Alliance vs The Horde
+## The Alliance vs The Horde
 
 One of the things I like about *WoW* is that you don't play as the 'goodies' or the 'baddies' (as you might in, say, *Star Wars: The Old Republic*). Instead you have the *Alliance* and the *Horde*, both of whom have their good and bad traits, and who are not in full, open war, instead usually find themselves fighting a common enemy. While this is great and probably one of the reasons *WoW* is such a big success, I have some problems with it. As a veteran of the Warcraft series, I had no particular desire to fight the horde. I avoid PvP, though it has to be said this had more to do with the other players. I've even helped a few horde souls who I came across who were in trouble.
 
@@ -30,11 +28,11 @@ Perhaps my biggest problem with the game is with the 'end-game' content. I playe
 
 Basically it is only for those greasy, pallid people with no life and so I will never experience the end of Arthas' storyline. I just can't be bothered with the constant, repetitive grind just to get to this point. And because of this, I am punished by not being able to finish the story. This is a shame, because it was actually starting to enjoy it.
 
-### The Downloader!
+### The Downloader
 
 The game is regularly being updated with patches, bug fixes and balance changes. While this is good for keeping the game evolving and improving, it does mean that you will spend an awful lot of time with the Blizzard Downloader. This is probably the worst piece of software that Blizzard have ever produced. It is slow and it hogs all of your system resources (and my machine was fairly powerful). On several occasions I found got the patches via torrent, rather than waiting for this bloody thing! This is a particular pain when you first install the game it has to download a long series of large updates. Don't expect to just shove the disk in and start decapitating Murlocs with any haste!
 
-[This has recently, alegedly, been improved spectacularly, but it was a huge frustration!]
+[This has recently, allegedly, been improved spectacularly, but it was a huge frustration!]
 
 ### Conclusion
 

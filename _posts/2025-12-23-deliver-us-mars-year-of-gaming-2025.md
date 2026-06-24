@@ -12,13 +12,13 @@ image:
 
 And so we reach month 12 and game 12(ish) of my 2025 Year of Gaming challenge. This month, I decided to play another game that's been sitting in my library for a while; something a little different from what I've played recently.
 
-*Reminder: For the [Year of Gaming Challenge](https://mdsimpson.co.uk/category/video-games/year-of-gaming-2025/), I have to play one of the many games I've bought in Steam sales and never got around to playing. I must give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/category/i-am-your-father/) with a lot going on right now, it will be hard to fit in!)*
+*Reminder: For the [Year of Gaming Challenge](https://mdsimpson.co.uk/categories/year-of-gaming-2025/), I have to play one of the many games I've bought in Steam sales and never got around to playing. I must give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/i-am-your-father/) with a lot going on right now, it will be hard to fit in!)*
 
 The previous entry in the series, Deliver Us The Moon, has been on my wishlist for a while. It seems like the sort of thing that should be right up my street: an atmospheric, sci-fi, single-player story. So, I snapped up the sequel when it was available for free on the Epic Store and decided to give it a try.
 
 *Disclaimer: I haven't played the previous game, so I cannot comment on how the two experiences compare or whether the stories are connected.*
 
-# Deliver Us Mars
+## Deliver Us Mars
 
 This game is an action-adventure game by KeokeN Interactive, released in February 2023. And it's yet another example of the fact that "action-adventure" tells you absolutely nothing!
 
@@ -60,11 +60,11 @@ None of this was game-breaking, just a little immersion-breaking. And breaking i
 
 ## Stats
 
- - I got the game for free on the Epic Store. Its full price is £24.99, and I'd recommend it at that price, though it is currently on sale for £6.24 (75% off).
+\1I got the game for free on the Epic Store. Its full price is £24.99, and I'd recommend it at that price, though it is currently on sale for £6.24 (75% off).
 
- - I played it for just over 9 hours and have completed the story.
+\1I played it for just over 9 hours and have completed the story.
 
- - There were a few collectables and logs that I didn't find, but I currently don't feel motivated to replay it to find them.
+\1There were a few collectables and logs that I didn't find, but I currently don't feel motivated to replay it to find them.
 
 ## Final Thoughts
 

@@ -16,7 +16,7 @@ image:
 
 For most of the last decade, I have been struggling with a range of mental health issues, including depression, anxiety and insomnia. I suffered on and off for a *very* long time before finally getting the help I needed and managing to turn my life around.
 
-While I was in therapy, I made a lot of notes, and now I'm trying to turn those notes into something useful. ["Let's Talk About..."](https://mdsimpson.co.uk/category/mental-health/lets-talk-about/) will be a series of blog posts that will help me process and organise my thoughts, but I also hope that some of this will be helpful to others who are going through similar things.
+While I was in therapy, I made a lot of notes, and now I'm trying to turn those notes into something useful. ["Let's Talk About..."](https://mdsimpson.co.uk/categories/mental-health/lets-talk-about/) will be a series of blog posts that will help me process and organise my thoughts, but I also hope that some of this will be helpful to others who are going through similar things.
 
 First, I wanted to explain how this all came about.
 
@@ -46,6 +46,6 @@ As I said, I can only write about my own experience, and most of it probably won
 
 So, that's the origin of this series. It was something I wrote for myself to get me through therapy, which I hope can now be used to help others.
 
-*For more, check out the rest of the [Let's Talk... series](https://mdsimpson.co.uk/category/mental-health/lets-talk-about/) or my other posts on [Mental Health](http://mdsimpson.co.uk/category/mental-health/).*
+*For more, check out the rest of the [Let's Talk... series](https://mdsimpson.co.uk/categories/mental-health/lets-talk-about/) or my other posts on [Mental Health](http://mdsimpson.co.uk/categories/mental-health/).*
 
 **As always, if you need more information or support, I can recommend [Mind, the mental health charity](https://www.mind.org.uk/) and the NHS campaign [Every Mind Matters](https://www.nhs.uk/oneyou/every-mind-matters/), or talk to your GP.**

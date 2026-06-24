@@ -57,7 +57,7 @@ I'm glad to see that the rights to the game have reverted to the original develo
 
 ## Reflections
 
-Arguably, I didn't complete the challenge. You could say that I didn't give* The Ascent* a fair chance, and that reviewing three demos instead was a cop out. But I did play a whole load of new games, which was ultimately the point, and I published a blog post every month, so I'm counting it as a win!
+Arguably, I didn't complete the challenge. You could say that I didn't give *The Ascent* a fair chance, and that reviewing three demos instead was a cop out. But I did play a whole load of new games, which was ultimately the point, and I published a blog post every month, so I'm counting it as a win!
 
 I also learned something from this. I didn't just play games from my backlog, but I pushed myself to play games and genres that I wouldn't normally play. And the main lesson is... somewhat anticlimactically... that there's a reason that I don't normally play these sorts of games! But that's OK. I've learned a bit more about myself, and maybe I'll think about it a bit more carefully before I bulk buy a load of heavily discounted games in future sales. Everyone is different, after all! Not every game engaged or absorbed me, but I would say that around half of them did, which isn't bad going!
 
@@ -69,4 +69,4 @@ I've still got more than a dozen games installed and on my to-do list. But I've 
 
 (Or, more realistically, I will probably start Baldur's Gate 3, and that'll swallow up all my free time instead!)
 
-So that's it from the challenge for now. It was fun, and I might do it again when things aren't so busy! Check out my other [Game Reviews](https://mdsimpson.co.uk/category/video-games/game-reviews/) and [Gaming-related rants](https://mdsimpson.co.uk/category/video-games/). Thanks for reading. Take care of yourselves!
+So that's it from the challenge for now. It was fun, and I might do it again when things aren't so busy! Check out my other [Game Reviews](https://mdsimpson.co.uk/categories/video-games/game-reviews/) and [Gaming-related rants](https://mdsimpson.co.uk/categories/video-games/). Thanks for reading. Take care of yourselves!
