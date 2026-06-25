@@ -22,22 +22,22 @@ Well, this year, I finally decided that it was time to get around to it. I prett
 
 The games I played were:
 
-- January - [Star Trek: Resurgence](https://mdsimpson.co.uk/2025/01/star-trek-resurgence-year-of-gaming-2025/)
-- February - [Viewfinder](https://mdsimpson.co.uk/2025/03/viewfinder-year-of-gaming-2025/)
-- March - [Never Alone (Kisima Ingitchuna)](https://mdsimpson.co.uk/2025/03/never-alone-kisima-ingitchuna-year-of-gaming-2025/)
-- April - [Streets of Rage 4](https://mdsimpson.co.uk/2025/04/streets-of-rage-4-year-of-gaming-2025/)
-- May - [Marvel's Midnight Suns](https://mdsimpson.co.uk/2025/05/marvels-midnight-suns-year-of-gaming-2025/)
-- June - [Hi-fi Rush](https://mdsimpson.co.uk/2025/06/hi-fi-rush-year-of-gaming-2025/)
-- July - [Demo Roundup](https://mdsimpson.co.uk/2025/08/july-demo-roundup-year-of-gaming-2025/)*
-- August - [Hardspace Shipbreaker](https://mdsimpson.co.uk/2025/08/hardspace-shipbreaker-year-of-gaming-2025/)
-- September - [Shadow Tactics: Blades of the Shogun](https://mdsimpson.co.uk/2025/10/shadow-tactics-blades-of-the-shogun-year-of-gaming-2025/)
-- October - [Tales of Kenzera: Zau](https://mdsimpson.co.uk/2025/10/tales-of-kenzera-zau-year-of-gaming-2025/)
-- November - [Battlestar Galactica: Deadlock](https://mdsimpson.co.uk/2025/12/battlestar-galactica-deadlock-year-of-gaming-2025/)
-- December - [Deliver Us Mars](https://mdsimpson.co.uk/2025/12/deliver-us-mars-year-of-gaming-2025/)
+- January - [Star Trek: Resurgence](/2025/01/star-trek-resurgence-year-of-gaming-2025/)
+- February - [Viewfinder](/2025/03/viewfinder-year-of-gaming-2025/)
+- March - [Never Alone (Kisima Ingitchuna)](/2025/03/never-alone-kisima-ingitchuna-year-of-gaming-2025/)
+- April - [Streets of Rage 4](/2025/04/streets-of-rage-4-year-of-gaming-2025/)
+- May - [Marvel's Midnight Suns](/2025/05/marvels-midnight-suns-year-of-gaming-2025/)
+- June - [Hi-fi Rush](/2025/06/hi-fi-rush-year-of-gaming-2025/)
+- July - [Demo Roundup](/2025/08/july-demo-roundup-year-of-gaming-2025/)*
+- August - [Hardspace Shipbreaker](/2025/08/hardspace-shipbreaker-year-of-gaming-2025/)
+- September - [Shadow Tactics: Blades of the Shogun](/2025/10/shadow-tactics-blades-of-the-shogun-year-of-gaming-2025/)
+- October - [Tales of Kenzera: Zau](/2025/10/tales-of-kenzera-zau-year-of-gaming-2025/)
+- November - [Battlestar Galactica: Deadlock](/2025/12/battlestar-galactica-deadlock-year-of-gaming-2025/)
+- December - [Deliver Us Mars](/2025/12/deliver-us-mars-year-of-gaming-2025/)
 
 \* - I couldn't get into the game I was supposed to be playing that month, but I got to play some fun demos instead.
 
-I also did a second [demo roundup](https://mdsimpson.co.uk/2025/10/next-fest-2025/) during Steam's Next Fest in October.
+I also did a second [demo roundup](/2025/10/next-fest-2025/) during Steam's Next Fest in October.
 
 ## Follow Up
 
@@ -69,4 +69,4 @@ I've still got more than a dozen games installed and on my to-do list. But I've 
 
 (Or, more realistically, I will probably start Baldur's Gate 3, and that'll swallow up all my free time instead!)
 
-So that's it from the challenge for now. It was fun, and I might do it again when things aren't so busy! Check out my other [Game Reviews](https://mdsimpson.co.uk/categories/video-games/game-reviews/) and [Gaming-related rants](https://mdsimpson.co.uk/categories/video-games/). Thanks for reading. Take care of yourselves!
+So that's it from the challenge for now. It was fun, and I might do it again when things aren't so busy! Check out my other [Game Reviews](/categories/video-games/game-reviews/) and [Gaming-related rants](/categories/video-games/). Thanks for reading. Take care of yourselves!

@@ -14,7 +14,7 @@ I don't have any real interest in the new consoles or any of the big titles at t
 
 Anyway, I recently spotted an intriguing game called *'Space Run'* in the Weekend Deals page on Steam. It seemed like an interesting premise and so I decided to check it out...
 
-### Space Run
+## Space Run
 
 Space Run is made by [Passtech Games](http://store.steampowered.com/search/?developer=Passtech%20Games&snr=1_5_9__408) and published by [Focus Home Interactive](http://store.steampowered.com/search/?publisher=Focus%20Home%20Interactive) and is currently available on [Steam](http://store.steampowered.com/app/275670/) for £10.99.
 
@@ -22,7 +22,7 @@ The game takes inspiration from Tower Defence games but puts a new spin on the i
 
 Then you click 'go' and, once your ship is in flight, you begin placing towers, shields and generators. Most weapons have a limited angle of attack, though some can be repositioned during flight. Warning markers give you about 30 seconds warning of approaching enemies and hazards, telling you where they are going to be coming from and giving you a chance to prepare to defend yourself. On top of all that, you are graded not only on whether all of your cargo survived the trip but on how fast you deliver it, meaning that you have to balance defending yourself with installing new thrusters to get you to your destination quicker.
 
-![](/assets/img/blog/space_run-20-copy-8b7b069a27.jpg)
+![Space Run](/assets/img/blog/space_run-20-copy-8b7b069a27.jpg)
 
 The game is split into five different companies, each offering six different 'delivery contracts' (missions) and there are two pirate bosses that you will encounter during each set of contracts. As you progress, you use your delivery pay to unlock better weapons, but these are usually larger and require more power, forcing you to think more carefully about their placement.
 

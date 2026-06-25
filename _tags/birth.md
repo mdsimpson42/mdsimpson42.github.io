@@ -1,6 +1,6 @@
 ---
 short_name: birth
-title: "birth"
+title: "Birth"
 menu: blog
 ---
 

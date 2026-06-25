@@ -1,6 +1,6 @@
 ---
 short_name: comedy
-title: "comedy"
+title: "Comedy"
 menu: blog
 ---
 

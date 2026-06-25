@@ -14,7 +14,7 @@ It's April, and it's time for a blast from the past. This month, I've been playi
 
 So, was it worth the wait?
 
-*Reminder: For the [Year of Gaming Challenge](https://mdsimpson.co.uk/categories/year-of-gaming-2025/), I have to play a game I’ve never played before (one of the many games I've bought in Steam sales and never got around to playing), give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/categories/i-am-your-father/) with a lot going on right now, it will be hard to fit it in!)*
+*Reminder: For the [Year of Gaming Challenge](/categories/year-of-gaming-2025/), I have to play a game I’ve never played before (one of the many games I've bought in Steam sales and never got around to playing), give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](/categories/i-am-your-father/) with a lot going on right now, it will be hard to fit it in!)*
 
 The original Streets of Rage games were released on the Sega Mega Drive between 1991 and 1994. I have fond memories of playing them with friends when I was at school (and probably too young to be playing them - but hey, it was the 90s!). They were side-scrolling beat-'em-ups, and probably among the most famous examples of the formula from the height of its power. But a lot has happened in the last 26 years; has Streets of Rage been able to keep up?
 
@@ -22,7 +22,7 @@ The original Streets of Rage games were released on the Sega Mega Drive between 
 
 The game was developed by Lizardcube, Guard Crush Games, and Dotemu and released in 2020. It features classic Streets of Rage gameplay but with an updated art style. It can be played with up to 4 players, locally or online, but this review focuses on the single-player modes.
 
-[caption id="attachment_7770" align="aligncenter" width="1280"]![The Streets of Rage 4 logo, surrounded by the characters from the game](/assets/img/blog/H2x1_NSwitchDS_StreetsOfRage4-4cccecec4d.jpg) The Streets of Rage 4 logo, surrounded by the characters from the game[/caption]
+![The Streets of Rage 4 logo, surrounded by the characters from the game](/assets/img/blog/H2x1_NSwitchDS_StreetsOfRage4-4cccecec4d.jpg)
 
 ## Story
 
@@ -68,5 +68,5 @@ Streets of Rage 4 is a gorgeous-looking, great-sounding game that evokes the spi
 
 I enjoyed it, but anyone playing it without the benefit of rose-tinted nostalgia glasses may find it a bit dated and clunky compared to its modern peers.
 
-For more, check out my other [Year of Gaming 2025 reviews](https://mdsimpson.co.uk/categories/year-of-gaming-2025/),
-as well as my [other Game-related posts](https://mdsimpson.co.uk/categories/video-games/).
+For more, check out my other [Year of Gaming 2025 reviews](/categories/year-of-gaming-2025/),
+as well as my [other Game-related posts](/categories/video-games/).

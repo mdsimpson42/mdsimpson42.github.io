@@ -1,6 +1,6 @@
 ---
 short_name: sleep
-title: "sleep"
+title: "Sleep"
 menu: blog
 ---
 

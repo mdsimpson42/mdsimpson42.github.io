@@ -29,7 +29,7 @@ Let’s rewind. The year is 2011, and in the space of ten days, I got dumped, ma
 
 I spent the next few months on my parent’s sofa, watching rubbish TV and trying (unsuccessfully) to avoid thinking about everything I’d lost. I was never suicidal, and never self-harmed, but I struggled to motivate myself to do… well, anything. I was always tired, but could never sleep. It was a vicious cycle that I just couldn’t break. My friends and family tried to comfort me, but nothing could lift my mood or distract me from the swirling vortex of negative thoughts and emotions. Because I’d lost so much in such a short space of time, it was impossible to process it all. I just kept going round and round in circles, never actually resolving anything.
 
-Eventually, my mum persuaded me to get off my backside and start trying to get on with my life. A former colleague contacted me with an amazing opportunity and, though I was reluctant to return to the city where everything had fallen apart, I took the leap. I found a flat, started work and... well, at least I wasn’t moping around on the sofa all day! 
+Eventually, my mum persuaded me to get off my backside and start trying to get on with my life. A former colleague contacted me with an amazing opportunity and, though I was reluctant to return to the city where everything had fallen apart, I took the leap. I found a flat, started work and... well, at least I wasn’t moping around on the sofa all day!
 
 ## Getting Help
 
@@ -55,10 +55,10 @@ With that realisation, I could finally break free from all the poisonous thought
 
 Of course, my story doesn’t end with a “happily ever after”. Real life doesn’t work like that. In 2020, a brand new, beautiful baby arrived in our lives, but so did Covid. Being a new parent in lockdown with limited support while trying to hold down a job… as you can imagine, it was a difficult time. But I made it through, thanks in no small part to the tools that Jo helped me to develop.
 
-*You can read about my experience of becoming a father in lockdown in [this blog series](https://mdsimpson.co.uk/i-am-your-father).*
+*You can read about my experience of becoming a father in lockdown in [this blog series](/i-am-your-father).*
 
 ## Final Thoughts
 
-So, maybe writing didn’t “save my life”, but I wouldn’t be where I am today if I hadn’t learned to break down and process my toxic thoughts and emotions. I was sceptical, to begin with, and the first few things I tried didn’t work for me, but I persevered and, eventually, I learned not just how to manage my condition, but how to actually be happy again. 
+So, maybe writing didn’t “save my life”, but I wouldn’t be where I am today if I hadn’t learned to break down and process my toxic thoughts and emotions. I was sceptical, to begin with, and the first few things I tried didn’t work for me, but I persevered and, eventually, I learned not just how to manage my condition, but how to actually be happy again.
 
 Jo may be gone, but she helped me discover my own ways to look after myself and pick myself up when times get hard. And, for that, I will always be grateful.

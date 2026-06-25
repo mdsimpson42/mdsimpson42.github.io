@@ -1,6 +1,6 @@
 ---
 short_name: family
-title: "family"
+title: "Family"
 menu: blog
 ---
 

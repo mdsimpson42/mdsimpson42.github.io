@@ -15,7 +15,7 @@ I was really excited to watch Netflix's latest original series, *Kaos*, which lo
 
 And, before I got a chance to watch it - and after being out for less than six weeks! - Netflix announced that there would be no Season 2.
 
-![](/assets/img/blog/image-fd38a14f2f.png)
+![A photo of Jeff Goldblum in Kaos](/assets/img/blog/image-fd38a14f2f.png)
 
 ## Absolute Chaos
 

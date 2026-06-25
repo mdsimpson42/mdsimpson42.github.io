@@ -38,7 +38,7 @@ I hope that by doing this, I will inspire others to be more open about their men
 
 ## Why am I doing this?
 
-I've often spoken on this blog about my experiences with mental health, not least in the blog series [I Am Your Father](https://mdsimpson.co.uk/categories/i-am-your-father/), where I chronicle my experiences of becoming a new parent during lockdown. During this time, I experienced a range of mental health issues, including burnout and an anxiety attack.
+I've often spoken on this blog about my experiences with mental health, not least in the blog series [I Am Your Father](/categories/i-am-your-father/), where I chronicle my experiences of becoming a new parent during lockdown. During this time, I experienced a range of mental health issues, including burnout and an anxiety attack.
 
 Despite this, I think I handled the situation remarkably well, and that is a key point I want to make. Admitting to mental health problems is often seen as a sign of weakness. But I'm not weak. I'm actually incredibly resilient, BECAUSE of my previous experiences with mental health problems. And it's better to admit that you're struggling BEFORE things become overwhelming and there's nothing anyone can do about it.
 

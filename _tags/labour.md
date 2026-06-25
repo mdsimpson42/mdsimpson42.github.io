@@ -1,7 +1,7 @@
 ---
 short_name: labour
-title: "labour"
+title: "Labour"
 menu: blog
 ---
 
-Posts tagged with labour.
+Posts tagged with labour (as in giving birth).

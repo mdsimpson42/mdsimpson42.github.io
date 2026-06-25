@@ -11,7 +11,6 @@ categories:
   - video-games
 tags:
   - reviews
-  - mass_effect
   - video_games
 ---
 

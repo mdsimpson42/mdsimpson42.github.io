@@ -6,7 +6,6 @@ categories:
   - i-am-your-father
 tags:
   - baby
-  - father
   - fatherhood
   - parenting
   - pregnancy
@@ -24,7 +23,7 @@ Quick update: we are now in week 15 of the pregnancy. The baby is currently the 
 
 Anyway, as I said, the main news from the last couple of weeks is the scan
 
-#### The Scan
+## The Scan
 
 So, the scan happens at around 12 weeks. The main purpose is to do a series of checks to make sure the baby is healthy.
 
@@ -36,7 +35,7 @@ The second thing you don't realise is that the baby is actually alive (duh!) and
 
 Once they've done what they need to do, they print out the pictures for you to take home. I've included one of ours below. I am perfectly aware that it is not particularly remarkable or different to any other baby scan you will have seen, but that is OUR baby!
 
-![](/assets/img/blog/scan0002-2-302f5ce4fc.jpg)
+![Baby Scan Photo](/assets/img/blog/scan0002-2-302f5ce4fc.jpg)
 
 The good news is that it is human, it's alive and there's nothing obviously wrong with it, which is the best news you can hope for at this point. One of the things that they do is check for fluid in the baby's spine, as well as take some blood tests, so they can screen for things like genetic problems and a list of other conditions that I'd never heard of (and don't want to Google for the sake of my own sanity!).
 
@@ -44,27 +43,26 @@ It was at this point that m'wife got a little emotional, not just at seeing the 
 
 It's probably worth noting that you have to buy the photos (in our case, from a machine in the lobby) *before* the scan. Three pictures cost £10, which may seem like quite a lot for a grainy, blurry picture on a flimsy piece of paper, but I don't think that stops most people from getting one! We wanted three because... well, I'm getting to that!
 
-#### Breaking the News
+## Breaking the News
 
 We knew that the scan was happening weeks ahead of time, and it was booked for the week after our holiday to Tenerife (I'll come back to that in a moment!). So we had arranged for both sets of (soon-to-be-grand-)parents to visit us the weekend after the scan.
 
 We bought postcards, which we gave to the mums, saying "we thought it would be quicker if we delivered these in person", and the baby pictures were taped on the back. Everyone was very excited and emotional, as you can imagine. Once the parents knew, it wasn't long before the news spread to the rest of our friends and family, and the response has been overwhelmingly positive, which has been amazing.
 
-#### Pregnant on Holiday
+## Pregnant on Holiday
 
 Back to the holiday. We read up on all of the dos and don'ts, so, obviously, m'wife was drinking mocktails, wasn't allowed in any hot tubs and had to avoid certain foods, but for the most part, it wasn't too restrictive and didn't have much impact on the holiday. Flying is fine, and we were even told that it should be safe to go up the volcano, as long as we weren't too high up for too long.
 
 The upshot of all this was that my wife was a cheap date for a week, even if there was some grumbling about "daiquiris without rum just not being the same"!
 
-#### Other Pregnancy Updates
+## Other Pregnancy Updates
 
 The only other thing to report is about the dreaded 'morning sickness'. Weirdly, my wife has been queasy quite a lot, but mostly in the evenings ("'*morning* sickness' my arse!"). Obviously, this will vary from mother to mother, and your experience will almost certainly differ!
 
 She noticed that one thing that was making her feel sick was the vitamins that she was taking. We had switched to the slightly cheaper, off-brand ones, and she had been ignoring the advice not to take them on an empty stomach. Apparently, the more expensive ones don't have this problem. Normally, I might have rolled my eyes at it, but the other main job of the husband throughout all this is just to say "yes, dear" (even if you roll your eyes internally).
 
-#### Final Thoughts
+## Final Thoughts
 
 So, that was our experience with the scan and breaking the news. Since then, it has gone back to not really feeling real for either of us, but I'm sure that will change over the coming weeks.
 
-*
-You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](https://mdsimpson.co.uk/i-am-your-father).*
+*You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](/i-am-your-father).*

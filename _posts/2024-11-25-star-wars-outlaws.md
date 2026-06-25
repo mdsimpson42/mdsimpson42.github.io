@@ -22,7 +22,7 @@ Oh well, never mind!
 
 Kay Vess is a lovable rogue with a heart of gold and an adorable furry sidekick - because there are only a handful of character archetypes scattered throughout the thousands of single-biome worlds in the Star Wars galaxy. She is drawn into the underworld after a heist gone wrong - because there are only a handful of origin stories too.
 
-![](/assets/img/blog/4322386-sw1-1024x576-e5e9fb8543.jpg)
+![Star Wars: Outlaws](/assets/img/blog/4322386-sw1-1024x576-e5e9fb8543.jpg)
 
 With a bounty on her head, she must... urm... something! Presumably, earn enough to pay off the bounty or kill the man who put the death mark on her... Something, something, lovable gang of misfits... something, something, inevitable betrayal... something, something, family drama... Darth Vader will probably show up at some point! I wouldn't know. I didn't finish it! (Hey, I'm not a professional games journalist! What I am is a father, who doesn't have time to spend on games that don't absorb me!).
 
@@ -54,7 +54,7 @@ There's also annoying adventure game logic. I was exploring a pirate base after 
 
 I might have been able to forgive some of that if the game wasn't so janky!
 
-You walk up to a character to start a conversation, and *every single time*, Kay and/or the other person slowly turns round and shuffles awkwardly into position, leaving a long.... long... long, long, long pause before the talking starts. It feels unnatural and unpolished, and having characters moving around like high-school drama students who've forgotten their cues doesn't help. Why not do what they've been doing in video games for ages and fade to black? Or do a camera cut to hide the characters being teleported into place? In fact, I know the answer. It's to make the game more "cinematic". But if you're going to do the whole *God of War (2018) *one-camera-shot thing, you have to commit to it and do a much better job than this.
+You walk up to a character to start a conversation, and *every single time*, Kay and/or the other person slowly turns round and shuffles awkwardly into position, leaving a long.... long... long, long, long pause before the talking starts. It feels unnatural and unpolished, and having characters moving around like high-school drama students who've forgotten their cues doesn't help. Why not do what they've been doing in video games for ages and fade to black? Or do a camera cut to hide the characters being teleported into place? In fact, I know the answer. It's to make the game more "cinematic". But if you're going to do the whole *God of War (2018)* one-camera-shot thing, you have to commit to it and do a much better job than this.
 
 And it doesn't end there. Half a dozen times, I've tried to slice a terminal or pick a lock, only to run around in circles to get into just the right place for the interaction prompt to appear. On one occasion, Kay got stuck spinning on the spot, and I had to reload my save. I've seen rats scurrying around a meter above the ground. I got the option to lean on a bar and "listen" to a conversation... in an empty room! I skipped the non-existent dialogue between invisible people and somehow acquired a password I needed for part of a side mission.
 
@@ -62,7 +62,7 @@ There's just so much jank, which only adds to the feeling that stuff is happenin
 
 ## Final Thoughts
 
-We were promised that *Star Wars: Outlaws *wouldn't just be "another Ubisoft game", but it's janky, bloated, oddly paced, and it completely failed to absorb me... you can finish the joke yourself! I tried to go in with an open mind and to give it a few hours to get used to it and give it a fair chance, but it just didn't absorb me.
+We were promised that *Star Wars: Outlaws* wouldn't just be "another Ubisoft game", but it's janky, bloated, oddly paced, and it completely failed to absorb me... you can finish the joke yourself! I tried to go in with an open mind and to give it a few hours to get used to it and give it a fair chance, but it just didn't absorb me.
 
 *Update: Apparently, they've appointed a new creative director and promised to overhaul the combat and stealth gameplay. But it's too late. It's a single-player, story-based game, and it had its chance. They should have play-tested it and polished it before they released it!*
 

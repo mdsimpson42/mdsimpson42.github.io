@@ -23,7 +23,7 @@ The year is 2019. My wife and I had bought a house, and the prospect of starting
 
 As I said, we’ve now had the car for four years, and in this article, I’m going to discuss what I think are the most important things I’ve learned about EV ownership in that time.
 
-*I’ve done first impressions, a one-year update and a long-distance road-trip review of the car previously on this blog; *[check them out](https://mdsimpson.co.uk/categories/electric-cars/)* if you’re interested.*
+*I’ve done first impressions, a one-year update and a long-distance road-trip review of the car previously on this blog; *[check them out](/categories/electric-cars/)* if you’re interested.*
 
 ## What are they like to drive?
 

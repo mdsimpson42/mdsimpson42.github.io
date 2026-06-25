@@ -1,6 +1,6 @@
 ---
 short_name: artificial_intelligence
-title: "artificial intelligence"
+title: "Artificial Intelligence"
 menu: blog
 ---
 

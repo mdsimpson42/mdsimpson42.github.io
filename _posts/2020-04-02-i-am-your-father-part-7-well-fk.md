@@ -7,9 +7,7 @@ categories:
 tags:
   - baby
   - family
-  - father
   - fatherhood
-  - parenthood
   - parenting
   - pregnancy
 image:
@@ -22,7 +20,7 @@ image:
 
 Ok, so it turns out [that wasn't my last pregnancy post](http://mdsimpson.co.uk/2020/03/i-am-your-father-part-6-the-final-countdown/) after all! We are now one week from the due date, and things have become... 'interesting'.
 
-![](/assets/img/blog/define-interesting-a99f88d49c.jpg)
+![Define Interesting. Oh god, oh god, we're all going to die?](/assets/img/blog/define-interesting-a99f88d49c.jpg)
 
 It's now 15 days since I was told to start self-isolating, for m'wife's sake, and nearly three weeks since her maternity leave started (which was arguably quite good timing, though I'm not sure m'wife would agree!).
 
@@ -64,5 +62,4 @@ We can only hope that all goes well and, hopefully, by the next update, he will 
 
 And hey, at least neither of us will be bored by then!!
 
-*
-You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](https://mdsimpson.co.uk/i-am-your-father).*
+*You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](/i-am-your-father).*

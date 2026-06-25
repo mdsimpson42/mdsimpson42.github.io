@@ -1,6 +1,6 @@
 ---
 short_name: short_story
-title: "short story"
+title: "Short Story"
 menu: blog
 ---
 

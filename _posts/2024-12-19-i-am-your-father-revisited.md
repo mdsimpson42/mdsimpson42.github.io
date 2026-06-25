@@ -7,16 +7,14 @@ categories:
 tags:
   - baby
   - family
-  - father
   - fatherhood
-  - parenthood
   - parenting
 image:
   path: /assets/img/blog/I-Am-Your-Father-1024x576-49a2823080.jpg
   alt: "I Am Your Father - Revisited"
 ---
 
-A quick update on the '[I Am Your Father](https://mdsimpson.co.uk/categories/i-am-your-father/)' blog - the story of how I became a father in lockdown - and some of my future plans...
+A quick update on the '[I Am Your Father](/categories/i-am-your-father/)' blog - the story of how I became a father in lockdown - and some of my future plans...
 
 *Reminder: This blog is the work of a sleep-deprived, first-time parent, trying to talk frankly and honestly about his experience. I make no apologies for the language used.*
 
@@ -26,11 +24,11 @@ So, why am I writing this? That is a good question. One thing that has happened 
 
 As part of trying to process all that, I found myself revisiting the blog and the notes that I made at the time. And while yes, I struggled, and yes, I burned out, and yes, I had an anxiety attack, I think I can safely say that I handled everything remarkably well in the circumstances. Revisiting the blog has been an interesting experience that has helped me gain a new perspective.
 
-*Incidentally, if you're interested, I've done some spellchecking and tidying up the posts, but they remain almost entirely unchanged. The blog began when we broke the news to our family with [Part One - The Secret](https://mdsimpson.co.uk/2019/10/i-am-your-father-part-1-the-secret/), and goes all the way through to [Part 21 - Baby's First (Proper) Halloween](https://mdsimpson.co.uk/2021/10/i-am-your-father-part-21-babys-first-proper-halloween/), by which point we had kept him alive for 18 months! You can read the whole series by checking out [the 'I Am Your Father' category](https://mdsimpson.co.uk/categories/i-am-your-father/).*
+*Incidentally, if you're interested, I've done some spellchecking and tidying up the posts, but they remain almost entirely unchanged. The blog began when we broke the news to our family with [Part One - The Secret](/2019/10/i-am-your-father-part-1-the-secret/), and goes all the way through to [Part 21 - Baby's First (Proper) Halloween](/2021/10/i-am-your-father-part-21-babys-first-proper-halloween/), by which point we had kept him alive for 18 months! You can read the whole series by checking out [the 'I Am Your Father' category](/categories/i-am-your-father/).*
 
 While I was doing this, I was inspired to continue with another project, which has just taken another step closer to completion...
 
-# Baby Blog - The Novel
+## Baby Blog - The Novel
 
 I've decided that I'm going to turn the blog into a book. It's actually an idea I've been working on for a while, but I only recently completed my first full draft. (Yes, I know it's basically four years late, but I've had a bit on!)
 
@@ -42,13 +40,13 @@ As with the blog, I intend the book to be a frank, honest and light-hearted rete
 
 Even if none of that applies to you, I hope that this will be an entertaining read that will give you an idea of what it is like to become a father. It is intended to be the kind of book that I wish I'd read before this all happened.
 
-# SSI Fellowship
+## SSI Fellowship
 
 Incidentally, this ties in neatly with some other news, which is that I have been awarded a Fellowship by the [Software Sustainability Institute](https://www.software.ac.uk/) (SSI). My fellowship will involve me telling my story and creating a hub for resources and information to support mental health in the research software community. You can read more about it on [my page on the SSI Website](https://www.software.ac.uk/fellowship-programme/mike-simpson). Again, these resources will be aimed specifically at people working in research software, but I hope that some of them will be useful to anyone who finds them.
 
 I'll be posting more updates here, on the SSI website and on [my various social media feeds](https://linktr.ee/mdsimpson), so [follow me](https://linktr.ee/mdsimpson) if you're interested in updates about the Fellowship or the Baby Blog Book.
 
-# Final Thoughts
+## Final Thoughts
 
 Nothing might come of this. Even if I can get the damn thing finished, it may never get published. But I'm hoping that by announcing it, I keep the momentum going.
 

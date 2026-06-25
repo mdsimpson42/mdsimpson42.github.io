@@ -5,7 +5,6 @@ author: mike
 categories:
   - video-games
 tags:
-  - mass_effect
   - storytelling
   - writing
 image:
@@ -27,7 +26,7 @@ Hopefully, you can already see that movies and books are two different types of 
 
 Gaming is a different medium again, and we are still learning how to use it to best effect. Some games like the *Elder Scrolls* series create a sprawling, open-world where the player can explore the setting in any order and at their own pace, but these games tend to lack the depth and focus of a more linear story. Other developers, such as David Cage, tend to tell more focused, linear narratives, but they lack the breadth and replayability of the more open games.
 
-[caption id="attachment_1284" align="alignleft" width="800"]![Half Life 2 (c) Valve](/assets/img/blog/HL2_2-ddab1012a7.jpg) Half Life 2 (c) Valve[/caption]
+![Half Life 2 (c) Valve](/assets/img/blog/HL2_2-ddab1012a7.jpg)
 
 It's a hard balance to achieve. Personally, I like games like *Half-Life 2* or *Starcraft* that manage to marry gameplay and storyline together. I feel that games like *Oblivion* or *Fallout 3* are too unfocused and I find myself losing interest, while games like *Heavy Rain* are too linear and seem to be forsaking the key interactive element that is what separates video games from other forms of entertainment. I suppose I could enjoy such linearity if the storyline wasn't so convoluted, obtuse and not particularly well-written, but I'm straying into ranting territory again and getting off-topic!
 

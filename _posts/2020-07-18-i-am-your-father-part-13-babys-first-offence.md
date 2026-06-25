@@ -7,9 +7,7 @@ categories:
 tags:
   - baby
   - family
-  - father
   - fatherhood
-  - parenthood
   - parenting
 image:
   path: /assets/img/blog/IMG_20200718_111500x-1024x538-efdad6ae30.jpg
@@ -65,7 +63,7 @@ He will often settle in "the sling", even if I just walk around the living room 
 
 ### #4 - White Noise App
 
-Secondly, download a white noise app. As I explained [when I talked about Olly the Owl](https://mdsimpson.co.uk/2020/06/i-am-your-father-part-12-babys-first-smile/), white noise apparently soothes babies, and it certainly seems to work with m'boy. There are a number of apps, and we tried and stuck with the first one we found, which is rather unimaginatively titled "white noise baby sleep sounds".
+Secondly, download a white noise app. As I explained [when I talked about Olly the Owl](/2020/06/i-am-your-father-part-12-babys-first-smile/), white noise apparently soothes babies, and it certainly seems to work with m'boy. There are a number of apps, and we tried and stuck with the first one we found, which is rather unimaginatively titled "white noise baby sleep sounds".
 
 If he's in the pram or in the sling, I tuck the phone in near his head with "brown noise" playing and most of the time it seems to help him get off to sleep (and stay there). It doesn't always work, i.e. if he's particularly hungry or needs a change, but even if it only works sometimes, it's totally worth it!
 
@@ -73,5 +71,4 @@ If he's in the pram or in the sling, I tuck the phone in near his head with "bro
 
 It has been a tough few weeks, but hopefully, we've turned a corner. Breaking lockdown (albeit only slightly) has taken the pressure off both of us and allowed some semblance of happiness back into our lives. Fingers crossed that this will be a turning point for us!
 
-*
-You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](https://mdsimpson.co.uk/i-am-your-father).*
+*You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](/i-am-your-father).*

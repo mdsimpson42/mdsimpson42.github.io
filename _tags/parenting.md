@@ -1,6 +1,6 @@
 ---
 short_name: parenting
-title: "parenting"
+title: "Parenting"
 menu: blog
 ---
 

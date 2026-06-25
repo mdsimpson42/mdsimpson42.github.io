@@ -18,7 +18,7 @@ Last year saw the release of XCOM: Enemy Unknown, a sequel to a popular gaming f
 
 I have to confess that I never played any of the earlier *XCOM* games, but it's an interesting premise. Aliens are attacking the Earth and the *XCOM* Project is set up to try and stop them. As the *XCOM* commander, the player has to manage a secret underground base and battle the alien invaders all around the world. You are assisted by a handful of surprisingly fleshed-out characters who work for you, give you advice and, occasionally, even question whether your actions are truly for the greater good of mankind.
 
-[caption id="attachment_7209" align="aligncenter" width="712"]![](/assets/img/blog/XCOM-1-1024x576-f80f2fe729.jpg) A soldier prepares to take a shot against one of the invaders (Tactical Gameplay)[/caption]
+![A soldier prepares to take a shot against one of the invaders (Tactical Gameplay)](/assets/img/blog/XCOM-1-1024x576-f80f2fe729.jpg)
 
 ### Binary Gameplay
 
@@ -38,7 +38,7 @@ Dice-rolls also feature in the combat, but you are told the probability that a s
 
 You WILL lose people. This is a simple fact of the game, and if you are someone who always has to 100% a game, this might not be the game for you. Only one member of your first squad survives the tutorial. You will lose soldiers on the battlefield, you will not be able to rescue every civilian and the alien technology will advance whether you are prepared for it or not.
 
-[caption id="attachment_7210" align="aligncenter" width="712"]![](/assets/img/blog/XCOM-2-1024x576-4d82cfef36.jpg) The base management screen, showing some of the rooms you can build in your underground HQ.[/caption]
+![The base management screen, showing some of the rooms you can build in your underground HQ.](/assets/img/blog/XCOM-2-1024x576-4d82cfef36.jpg)
 
 There are also moments in the game where you are told about three sets of abductions, but only have the resources to respond to one and have to make a tactical choice. Sure, it's incredibly frustrating to lose one of your fully trained and equipped Colonels and, yes, there are the occasional cheap deaths, such as enemies shooting through walls and getting critical hits. However, for the most part, death is inevitable and it can usually be accepted as 'bad luck' or the result of a poor tactical move.
 

@@ -12,7 +12,7 @@ image:
 
 This month, I've done something a little different... I didn't really get into the game that I was trying out, so I took some time to try out a few demos instead.
 
-*Reminder: For the [Year of Gaming Challenge](https://mdsimpson.co.uk/categories/year-of-gaming-2025/), I'm supposed to play one of the many games I’ve bought in Steam sales and never got around to playing, give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/categories/i-am-your-father/) with a lot going on right now, it will be hard to fit it in!)*
+*Reminder: For the [Year of Gaming Challenge](/categories/year-of-gaming-2025/), I'm supposed to play one of the many games I’ve bought in Steam sales and never got around to playing, give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](/categories/i-am-your-father/) with a lot going on right now, it will be hard to fit it in!)*
 
 ## The Ascent
 
@@ -54,7 +54,7 @@ It seems to be drawing inspiration from the likes of Invincible and The Boys. It
 
 The actual gameplay is set on a map of the city. Calls will come in about different problems, from cats getting stuck in trees to an armed heist at an art gallery. You have to decide which of your z-list heroes to send, based on their availability and skills. There's also a weird hacking minigame you have to play from time to time, which I was less keen on (though it did employ key combos, which allowed me to use the skills I've developed by calling down stratagems in Helldivers 2!).
 
-It features some obvious rip-offs of Marvel characters, in particular. One has a magic sword and can open portals (which would have been less conspicuous had I not played [Marvel's Midnight Suns](https://mdsimpson.co.uk/2025/05/marvels-midnight-suns-year-of-gaming-2025/)a few months ago!). The main protagonist is also called Robert and has the alter-ego "Mecha man". Up all night coming up with that one, were you devs?
+It features some obvious rip-offs of Marvel characters, in particular. One has a magic sword and can open portals (which would have been less conspicuous had I not played [Marvel's Midnight Suns](/2025/05/marvels-midnight-suns-year-of-gaming-2025/)a few months ago!). The main protagonist is also called Robert and has the alter-ego "Mecha man". Up all night coming up with that one, were you devs?
 
 - I played for around 30 minutes before I hit the end of the demo.
 

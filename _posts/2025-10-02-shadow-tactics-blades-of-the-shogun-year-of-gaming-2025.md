@@ -12,7 +12,7 @@ image:
 
 And so we reach September and the 9th (sort of!) game in my Year of Gaming Challenge for 2025. This month, I've been playing a game that's been in my backlog for a very long time: Shadow Tactics: Blades of the Shogun.
 
-*Reminder: For the [Year of Gaming Challenge](https://mdsimpson.co.uk/categories/year-of-gaming-2025/), I have to play one of the many games I've bought in Steam sales and never got around to playing. I must give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/categories/i-am-your-father/) with a lot going on right now, it will be hard to fit in!)*
+*Reminder: For the [Year of Gaming Challenge](/categories/year-of-gaming-2025/), I have to play one of the many games I've bought in Steam sales and never got around to playing. I must give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](/categories/i-am-your-father/) with a lot going on right now, it will be hard to fit in!)*
 
 I saw Shadow Tactics in my Steam library when I was looking for my September game. It's a nearly 10-year-old game that I apparently bought for myself in 2021. This is an example of exactly the thing I started this challenge for: a game that appeals to me, that I've wanted to play for ages and bought in a Steam sale before promptly forgetting about it.
 
