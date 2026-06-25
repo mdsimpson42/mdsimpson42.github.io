@@ -32,8 +32,8 @@ layout: default
   <span class="post-word-count"><i>{{ wordCountFormatted }} words</i></span>
 </div>
 
+{% if page.tags and page.tags.size > 0 %}
 <p class="post-tags">
-  {% if page.tags.size > 0 %}
     <i class="fa-solid fa-tags" title="Tags"></i>&nbsp;
     {% for page_tag in page.tags %}
         {% assign tag = site.tags
@@ -41,8 +41,8 @@ layout: default
         | first %}
       <a href="{{site.baseurl}}/tags/{{ page_tag }}">{{ tag.title }}</a>{% if forloop.last != true %},{% endif %}
     {% endfor %}
-  {% endif %}
 </p>
+{% endif %}
 
 <div class="blog-content">
   {{ content }}
