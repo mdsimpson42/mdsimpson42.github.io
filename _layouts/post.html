@@ -42,6 +42,8 @@ layout: default
       <a href="{{site.baseurl}}/tags/{{ page_tag }}">{{ tag.title }}</a>{% if forloop.last != true %},{% endif %}
     {% endfor %}
 </p>
+{% else %}
+<p class="post-tags"></p>
 {% endif %}
 
 <div class="blog-content">
