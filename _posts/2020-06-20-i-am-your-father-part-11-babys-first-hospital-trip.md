@@ -7,9 +7,7 @@ categories:
 tags:
   - baby
   - family
-  - father
   - fatherhood
-  - parenthood
   - parenting
 image:
   path: /assets/img/blog/baby-blog-02-5ce33e9672.jpg
@@ -31,7 +29,7 @@ We're still finding our feet. We're a long way from any sort of routine, but we'
 
 We have, understandably, been handling m'boy like he's made of glass, but he doesn't actually seem that fragile to me. This is probably because he's a big baby at nearly 10lb. Apparently, he was bigger than both of the other babies on the recovery ward combined. I can only imagine how much more terrifying the last few weeks would have been if he was that small!
 
-[caption id="attachment_7017" align="aligncenter" width="1080"]![](/assets/img/blog/baby-blog-02-5ce33e9672.jpg) How I spend most of my time, as a human mattress (left) and why do his clothes have pockets but most women's clothes don't? (right)[/caption]
+![How I spend most of my time, as a human mattress (left) and why do his clothes have pockets but most women's clothes don't? (right)](/assets/img/blog/baby-blog-02-5ce33e9672.jpg)
 
 ### Midwife Discharge and the Health Visitor
 
@@ -71,5 +69,4 @@ Hopefully, that will be one of the more difficult weeks in m'boy's young life, b
 
 It will be 'interesting' to see what happens when I have to go back to work at the end of next week!
 
-*
-You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](https://mdsimpson.co.uk/i-am-your-father).*
+*You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](/i-am-your-father).*

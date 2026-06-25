@@ -17,11 +17,13 @@ tags:
   - writing
 ---
 
-*Last year, I wrote a short story for a competition by [Mind](https://www.mind.org.uk/), the mental health charity. The story, 'The Journey', was shortlisted but didn't win any of the top prizes. Given that I wrote the story specifically for the competition, I didn't really know what else to do with it, so as it's currently Mental Health Awareness Week 2020, I thought I'd share it here. I've tweaked it only slightly and even had a go at illustrating some of it.*
+Last year, I wrote a short story for a competition by [Mind](https://www.mind.org.uk/), the mental health charity. The story, 'The Journey', was shortlisted but didn't win any of the top prizes. Given that I wrote the story specifically for the competition, I didn't really know what else to do with it, so as it's currently Mental Health Awareness Week 2020, I thought I'd share it here. I've tweaked it only slightly and even had a go at illustrating some of it.
 
-*T**he story begins below. F**or more about how and why I wrote the story, [click here](http://mdsimpson.co.uk/2019/06/writing-the-journey/).*
+*The story begins below. Learn more about how and why I wrote the story in [this blog post](/2019/06/writing-the-journey/).*
 
-[https://mdsimpson.co.uk/wp-content/uploads/logo_name-4.jpg](https://mdsimpson.co.uk/wp-content/uploads/logo_name-4.jpg)
+---
+
+![The Journey - Logo](/assets/img/blog/journey-logo.jpg)
 
 David strolled wearily along the path by the river. This had always been his favourite part of the city, but recently it seemed to have lost some of its brilliance. He was beginning to notice layers of grime and cracks in the stonework that he was sure had not been there before.
 
@@ -31,11 +33,11 @@ Soon, David reached a bridge. As he made his way across, it started to shake. He
 
 He saw the harpy perched on the cliff ahead of him. As the ground fell from beneath him, he leapt and reached out his hand towards her. But, with a sinking feeling that had nothing to do with gravity, he realised that she was not going to help him. She sat and watched, her expression blank and emotionless, as he plummeted into the chasm below.
 
-[https://mdsimpson.co.uk/wp-content/uploads/journey_bridge-25.jpg](https://mdsimpson.co.uk/wp-content/uploads/journey_bridge-25.jpg)
+![The Journey - Bridge](/assets/img/blog/journey-bridge.jpg)
 
 He hit the icy water and was swept away. He struggled but could make no progress against the current. His body went numb and, overcome by fatigue, he lost consciousness and was carried away by the churning waters.
 
-- - - - -
+---
 
 He woke up on warm sand. His mouth was dry and his head throbbed painfully. He struggled to his feet, fighting against aching muscles, and surveyed his surroundings. A vast desert stretched as far as the eye could see in every direction. In the distance, he saw the familiar shape of the city, but it was so far away. He knew he had to get back, but it seemed like an insurmountable task.
 
@@ -63,7 +65,7 @@ Sometime later, as David walked around the edge of an enormous crater, he was ov
 
 "Isn't it obvious?" the figure said. "You've been cast aside, abandoned." Ghostly dioramas formed out of the sand; David sitting in a cubicle, staring at a computer screen and looking thoroughly miserable. His co-workers and his short, fat, balding boss, all forcing smiles as they posed for the group photo that they had taken on his first day...
 
-[https://mdsimpson.co.uk/wp-content/uploads/journey_demon-28.jpg](https://mdsimpson.co.uk/wp-content/uploads/journey_demon-28.jpg)
+![The Journey - Demon](/assets/img/blog/journey-demon.jpg)
 
 "After all your hard work, they just cut you loose," hissed the creature. "Like you were nothing!" A wave of anger swept through David's body and as it did, the sand beneath him shifted and he slid down into the crater.
 
@@ -95,6 +97,6 @@ That was David's lowest point and for a long moment, he considered giving in to 
 
 The demon's laughter echoed in David's ears as he walked away, but now he had a plan.
 
-- - - - - - - - - -
+---
 
-***> > > > > > The story continues [here](https://mdsimpson.co.uk/2020/05/the-journey-part-2/).***
+***> > > The story continues [in Part 2](/2020/05/the-journey-part-2/).***

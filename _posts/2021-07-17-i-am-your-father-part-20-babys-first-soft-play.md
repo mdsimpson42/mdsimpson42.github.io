@@ -7,18 +7,17 @@ categories:
 tags:
   - baby
   - family
-  - father
   - fatherhood
-  - parenthood
   - parenting
 image:
   path: /assets/img/blog/PXL_20210515_135129704-020c82e18f.jpg
   alt: "I Am Your Father - Part 20: Baby's First Soft Play"
 ---
 
-17th July 2020(Age: 1 year, 3 months)
+*17th July 2020  
+(Age: 1 year, 3 months)*
 
-So, it's been a few months since my last update. I considered stopping at [Baby's First Birthday](https://mdsimpson.co.uk/2021/04/i-am-your-father-part-19-babys-first-birthday/), as that felt like a natural end to the new parent story, and we were beginning to feel like we had a handle on things. I mean, I don't think our lives will ever be totally in our control again, but I thought we might have found some balance now that the worst of the pandemic is over.
+So, it's been a few months since my last update. I considered stopping at [Baby's First Birthday](/2021/04/i-am-your-father-part-19-babys-first-birthday/), as that felt like a natural end to the new parent story, and we were beginning to feel like we had a handle on things. I mean, I don't think our lives will ever be totally in our control again, but I thought we might have found some balance now that the worst of the pandemic is over.
 
 But I've kept my journal going - for the sake of my own mental health, if nothing else - so I thought I'd update you on how months 12-15 have been.
 
@@ -28,7 +27,7 @@ But I've kept my journal going - for the sake of my own mental health, if nothin
 
 We are feeling a lot better now, even though the aftereffects of the pandemic haven't completely faded. There are photos of us from the last month where we've still got our masks on, or sitting in cafes where they have half the usual number of tables, all very spaced out. But at least we are allowed to go out now, with much less fear and anxiety than ever before. And being able to make the most of the nice weather and spend more time out and about definitely makes a huge difference.
 
-![](/assets/img/blog/PXL_20210515_135129704-020c82e18f.jpg)
+![Photos of my son out in the sun and playing with our dog](/assets/img/blog/PXL_20210515_135129704-020c82e18f.jpg)
 
 It certainly beats being stuck inside, trying to entertain a tiny, drunk person. Not only that, but a MOBILE tiny drunk person, as he is well and truly walking (and experimenting with running) now, so he's even more determined to throw himself down the stairs or headbutt the corner of the table or put stuff in his mouth that he previously wasn't able to reach... So yeah, getting outside is a great improvement!
 
@@ -62,4 +61,4 @@ It feels like things are going well. Having a child is expensive and exhausting.
 
 *I'm not sure how long I'll continue with this blog. Now things are opening up again, there's a lot more to do and a lot less time to do this sort of thing. But it's good for me to reflect on our journey and, who knows, maybe someday someone will find some of this useful... We'll see!*
 
-*You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](https://mdsimpson.co.uk/i-am-your-father).*
+*You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](/i-am-your-father).*

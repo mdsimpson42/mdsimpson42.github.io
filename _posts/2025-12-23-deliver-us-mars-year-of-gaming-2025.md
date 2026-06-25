@@ -1,5 +1,5 @@
 ---
-title: "Deliver Us Mars - Year of Gaming 2025"
+title: Deliver Us Mars - Year of Gaming 2025
 date: 2025-12-23 10:00:48 +0000
 author: mike
 categories:
@@ -12,13 +12,13 @@ image:
 
 And so we reach month 12 and game 12(ish) of my 2025 Year of Gaming challenge. This month, I decided to play another game that's been sitting in my library for a while; something a little different from what I've played recently.
 
-*Reminder: For the [Year of Gaming Challenge](https://mdsimpson.co.uk/category/video-games/year-of-gaming-2025/), I have to play one of the many games I've bought in Steam sales and never got around to playing. I must give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/category/i-am-your-father/) with a lot going on right now, it will be hard to fit in!)*
+*Reminder: For the [Year of Gaming Challenge](/categories/year-of-gaming-2025/), I have to play one of the many games I've bought in Steam sales and never got around to playing. I must give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](/i-am-your-father/) with a lot going on right now, it will be hard to fit in!)*
 
 The previous entry in the series, Deliver Us The Moon, has been on my wishlist for a while. It seems like the sort of thing that should be right up my street: an atmospheric, sci-fi, single-player story. So, I snapped up the sequel when it was available for free on the Epic Store and decided to give it a try.
 
 *Disclaimer: I haven't played the previous game, so I cannot comment on how the two experiences compare or whether the stories are connected.*
 
-# Deliver Us Mars
+## Deliver Us Mars
 
 This game is an action-adventure game by KeokeN Interactive, released in February 2023. And it's yet another example of the fact that "action-adventure" tells you absolutely nothing!
 
@@ -30,7 +30,7 @@ You play as Kathy Johansen. As a kid, your father stole a spaceship and buggered
 
 I will say that it felt oddly paced to me. There's a fairly lengthy prologue; I beat the game in nine hours, and it was three hours before we arrived on Mars. But they also skip over bits of the story, including one moment where Kathy escapes and steals a rover, where it felt like content had been cut out.
 
-[caption id="attachment_7966" align="aligncenter" width="1280"]![A screenshot from Deliver Us Mars. The main character is using a pair of ice picks to climb across the wreckage of a spaceship while her spherical robot companion watches.](/assets/img/blog/DuM_Nov_Screenshots_02894_1920-0f58ae65ec.jpg) A screenshot from Deliver Us Mars. The main character is using a pair of ice picks to climb across the wreckage of a spaceship while her spherical robot companion watches.[/caption]
+![A screenshot from Deliver Us Mars. The main character is using a pair of ice picks to climb across the wreckage of a spaceship while her spherical robot companion watches.](/assets/img/blog/DuM_Nov_Screenshots_02894_1920-0f58ae65ec.jpg)
 
 Also, as soon as we got to Mars, it became apparent that... Okay, I won't spoil the actual details, but it was pretty obvious how it was going to play out.
 
@@ -42,7 +42,7 @@ That doesn't make it bad, however. It's a very well-written and voice-acted game
 
 ## Gameplay
 
-It's a sometimes first-person, sometimes third-person game. There is a range of activities, which elevates it above a walking simulator, but they're mostly contextual, i.e. you've got a cutting laser, but you can only use it when there is something nearby that you can cut. Occasionally, you'll do a zero-g space walk. These sequences look amazing, but they suffer from the same issue as [Hardspace Shipbreaker](https://mdsimpson.co.uk/2025/08/hardspace-shipbreaker-year-of-gaming-2025/), in that you feel like a decapitated head, floating around in space without a body. There's a pretty great launch sequence, where you have to press various buttons and levers to configure and fire up various systems to get the ship into space, and the transition from Earth to space is gorgeous. But you mostly explore abandoned bases, looking for a button to press to advance the story.
+It's a sometimes first-person, sometimes third-person game. There is a range of activities, which elevates it above a walking simulator, but they're mostly contextual, i.e. you've got a cutting laser, but you can only use it when there is something nearby that you can cut. Occasionally, you'll do a zero-g space walk. These sequences look amazing, but they suffer from the same issue as [Hardspace Shipbreaker](/2025/08/hardspace-shipbreaker-year-of-gaming-2025/), in that you feel like a decapitated head, floating around in space without a body. There's a pretty great launch sequence, where you have to press various buttons and levers to configure and fire up various systems to get the ship into space, and the transition from Earth to space is gorgeous. But you mostly explore abandoned bases, looking for a button to press to advance the story.
 
 There also didn't seem to be much reason to explore off the beaten track. I did look around, exploring areas that felt like they should have secrets in, but I learned pretty quickly that the game didn't seem to want to reward me for it. There are some chat logs I didn't find and objects I didn't scan, but also a lot of empty dead ends.
 
@@ -60,11 +60,11 @@ None of this was game-breaking, just a little immersion-breaking. And breaking i
 
 ## Stats
 
- - I got the game for free on the Epic Store. Its full price is £24.99, and I'd recommend it at that price, though it is currently on sale for £6.24 (75% off).
+- I got the game for free on the Epic Store. Its full price is £24.99, and I'd recommend it at that price, though it is currently on sale for £6.24 (75% off).
 
- - I played it for just over 9 hours and have completed the story.
+- I played it for just over 9 hours and have completed the story.
 
- - There were a few collectables and logs that I didn't find, but I currently don't feel motivated to replay it to find them.
+- There were a few collectables and logs that I didn't find, but I currently don't feel motivated to replay it to find them.
 
 ## Final Thoughts
 
@@ -72,5 +72,6 @@ Deliver Us Mars was a good little game, which I enjoyed despite not having playe
 
 It manages to feel both like sections of the story are missing and a little padded out at times. And it is clear that it was produced on a limited budget. But it was a mostly enjoyable experience, with a good, well-written story and interesting characters. The upcoming sequel, Deliver Us Home, is now on my Wishlist, and overall, it's an easy recommendation for anyone wanting an absorbing, atmospheric sci-fi story.
 
-*
-A**nd that brings me to the end of my Year of Gaming challenges. 12 games (sort of!) in 12 months, done! I've had mixed feelings about many of the games I've played, but on the whole, I'm glad I did it. I'll write a full reflection post that will be out sometime over the next few weeks, possibly in the new year. *
+---
+
+And that brings me to the end of my Year of Gaming challenges. 12 games (sort of!) in 12 months, done! I've had mixed feelings about many of the games I've played, but on the whole, I'm glad I did it. I'll write a full reflection post that will be out sometime over the next few weeks, possibly in the new year. *

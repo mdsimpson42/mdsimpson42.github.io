@@ -14,15 +14,16 @@ tags:
   - mental_health
   - short_story
   - writing
+hidden: true
 ---
 
-*Continued from [here](https://mdsimpson.co.uk/2020/05/the-journey/).*
+*Continued from [Part 1](/2020/05/the-journey/).*
 
-- - - - - - - - - -
+---
 
 Instead of heading north towards the city, David headed east. The crater's edge was lower here and above it, he could see the top of the white tower. It felt like he was going in the wrong direction, and he knew it would be a difficult journey, but if there was any hope that the Oracle could help him...
 
-[https://mdsimpson.co.uk/wp-content/uploads/journey_white_tower-15.jpg](https://mdsimpson.co.uk/wp-content/uploads/journey_white_tower-15.jpg)
+![Journey - Tower](/assets/img/blog/journey-tower.jpg)
 
 The tower sat at the heart of a small settlement. The desert surrounded it, but within the walls were lush green gardens. In a room at the base of the tower, David found the Oracle. She was a short, stout woman with greying hair and a kindly face.
 
@@ -48,7 +49,7 @@ The tower sat at the heart of a small settlement. The desert surrounded it, but 
 
 "You are stronger than you know," said the Oracle, placing a hand on his shoulder. He looked into her warm, friendly face and felt some of the ice melt in his chest.
 
-[https://mdsimpson.co.uk/wp-content/uploads/oracle-12.jpg](https://mdsimpson.co.uk/wp-content/uploads/oracle-12.jpg)
+![Journey - Oracle](/assets/img/blog/journey-oracle.jpg)
 
 She led him to another room, where books lay on a series of pedestals. "I can teach you how to fight," she said. "But only you can wield the sword."
 
@@ -66,7 +67,7 @@ After several days of hard study, the Oracle came to see him.
 
 David picked up the sword and his attention was drawn to a number of slots along its blade. They looked like they were designed to hold something, but they were empty.
 
-[https://mdsimpson.co.uk/wp-content/uploads/sword-9.jpg](https://mdsimpson.co.uk/wp-content/uploads/sword-9.jpg)
+![Journey - Sword](/assets/img/blog/journey-sword.jpg)
 
 "What are these?" David asked.
 
@@ -84,6 +85,6 @@ As the city grew nearer, the fiery-eyed demon appeared again. An effigy of David
 
 Where the creature had been standing, a fiery orange gemstone landed in the sand. The gem was a perfect fit for one of the slots on the blade. David slid the gem into place and it began to glow softly. Bolstered by this little victory, he continued on his journey.
 
-- - - - - - - - - -
+---
 
-***> > > > > > The story continues [here](https://mdsimpson.co.uk/2020/05/the-journey-part-3/).***
+***> > > > The story concludes in [Part 3](/2020/05/the-journey-part-3/).***

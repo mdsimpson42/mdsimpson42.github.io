@@ -11,7 +11,7 @@ categories:
 
 Now seems like as good a time as any to discuss a key realisation that has helped me to make sense of the world. I've noticed that people don't always seem to distinguish between 'The General' and 'The Specific'. So what? Well, it can be an important distinction. Let me try to explain.
 
-### Travel
+## Travel
 
 I sometimes take issue with certain campaigns because they tend to make a lot of sweeping statements that are not always easy to apply in reality. Take the recent environmental arguments about air travel, for example.
 
@@ -23,7 +23,7 @@ The reality is, there are other factors to consider. First, I am using public mo
 
 So yes, IN GENERAL, aviation is bad, but on this SPECIFIC trip...?
 
-### Healthcare
+## Healthcare
 
 This is where it becomes relevant to our [current predicament](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic), but let me give you another example first.
 
@@ -33,6 +33,6 @@ According to [the NHS](https://assets.nhs.uk/prod/documents/IOL-leaflet-40plus-w
 
 Something similar applies to the coronavirus. As a 30-something-year-old man, I am not at great risk. Even if I catch the virus, it is unlikely to be life-threatening for me SPECIFICALLY, so I might be tempted to ignore government advice. The risk of death for the under-40s is around 0.2% (or 1 in 500). But the government has to look at the GENERAL situation, the big picture. They have to consider the risk across the population and the chance of infecting others, including the over-70s who have an 8% (nearly 1 in 12) chance of dying if they catch it. The risk changes dramatically based on your perspective.
 
-### Final Thoughts
+## Final Thoughts
 
 I know that these are complicated issues and that people don't like grey areas, but the real world is rarely black and white. Just be aware that you only see the world from a certain point of view. Try to have a sense of perspective, follow government instructions to help slow the spread of this virus and let's all be calm, patient and considerate of one another during this difficult time.

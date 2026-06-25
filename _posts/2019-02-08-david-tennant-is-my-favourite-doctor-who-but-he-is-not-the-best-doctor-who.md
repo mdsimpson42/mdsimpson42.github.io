@@ -13,7 +13,7 @@ This may seem like a pretty frivolous thing to say, but I actually have a point 
 
 If I say "David Tennant is my favourite Doctor Who" that is a statement that no-one can argue with. You could point out that Matt Smith is *your* favourite, and that is an equally valid and accurate statement, and I couldn't argue with that either. Sure, we could debate the quality of the writing during the Matt Smith era or how cheesy David Tennant's stories were at times, but that doesn't change which one is our respective favourite. And, most importantly, we can still be friends!
 
-![](/assets/img/blog/Doctorwho_50th-anniversary_thumbnail_02-8cc1a5fd7e.jpg)
+![Dr Who 50th Anniversary](/assets/img/blog/Doctorwho_50th-anniversary_thumbnail_02-8cc1a5fd7e.jpg)
 
 However, if I said "David Tennant is THE BEST Doctor Who"… well, then we have a problem. Immediately, I am saying that my favourite is best and that yours is somehow worse. This immediately makes you defensive and increases the likelihood that any debate about their relative merits will devolve into an argument. You would probably try to argue that Matt Smith is best, and its an argument that - as well as being, ultimately, pointless - cannot actually be resolved, as neither of us is likely to convince the other to change their mind about who their favourite is.
 

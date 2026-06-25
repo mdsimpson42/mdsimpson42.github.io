@@ -1,6 +1,6 @@
 ---
 short_name: mental_health
-title: "mental health"
+title: "Mental Health"
 menu: blog
 ---
 

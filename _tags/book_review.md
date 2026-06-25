@@ -1,6 +1,6 @@
 ---
 short_name: book_review
-title: "book review"
+title: "Book Review"
 menu: blog
 ---
 

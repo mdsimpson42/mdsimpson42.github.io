@@ -26,7 +26,7 @@ But some games feature achievements that seem to do the opposite, and these anno
 
 The offending game behind this rant is the mobile game Sonic Jump. This is a great little game based on the popular Doodle Jump but featuring characters from the Sonic the Hedgehog series.
 
-[caption id="attachment_1280" align="aligncenter" width="600"]![Sonic Jump (c) Hardlight Games](/assets/img/blog/sonic_jump_1020.0_standard_1500.0-600x399-bb1afd600f.jpg) Sonic Jump (c) Hardlight Games[/caption]
+![Sonic Jump (c) Hardlight Games](/assets/img/blog/sonic_jump_1020.0_standard_1500.0-600x399-bb1afd600f.jpg)
 
 The game has some questionable design decisions in it already (such as Sonic being wounded if he attacks an enemy from above, as he normally would, instead of only being able to attack from below). These decisions don't really make sense in the content of Sonic, but I can at least understand why they made those choices for this game. What I don't understand are some of the game's missions. The game always has a series of active missions for you to complete, such as 'collect X number of rings' or 'kill X number of baddies in a single level', which are all well and good. Completing these missions is what enables you to level up, unlocking new characters, power-ups and content.
 

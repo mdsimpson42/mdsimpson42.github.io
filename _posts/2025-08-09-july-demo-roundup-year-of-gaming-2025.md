@@ -12,7 +12,7 @@ image:
 
 This month, I've done something a little different... I didn't really get into the game that I was trying out, so I took some time to try out a few demos instead.
 
-*Reminder: For the [Year of Gaming Challenge](https://mdsimpson.co.uk/category/video-games/year-of-gaming-2025/), I'm supposed to play one of the many games I’ve bought in Steam sales and never got around to playing, give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/category/i-am-your-father/) with a lot going on right now, it will be hard to fit it in!)*
+*Reminder: For the [Year of Gaming Challenge](/categories/year-of-gaming-2025/), I'm supposed to play one of the many games I’ve bought in Steam sales and never got around to playing, give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](/categories/i-am-your-father/) with a lot going on right now, it will be hard to fit it in!)*
 
 ## The Ascent
 
@@ -22,9 +22,9 @@ I should say that I've never really liked Diablo or any other such games. The on
 
 It's a good-looking game. But I found myself mainly slogging from one side of a massive and overly complicated map to the other. A slog that was only broken up by mediocre combat that went on a bit too long, or by dialogue filled with inaccessible cyberpunk terminology.
 
- - I spent about three play sessions getting just over three hours into the game before giving up.
+- I spent about three play sessions getting just over three hours into the game before giving up.
 
- - The game is £24.99 full price, currently on sale for £6.24
+- The game is £24.99 full price, currently on sale for £6.24
 
 I don't think it's a bad game; it just isn't for me. And hell, I'm not a professional games journalist. I have a life and I don't want to waste it.
 
@@ -40,9 +40,9 @@ The first was Absolum, a rogue-lite fantasy beat-em-up developed by Dotemu. I'd 
 
 You move from left to right, battling a range of colourful enemies, occasionally riding giant lizards, using a combination of weapons and magic spells (which pleasantly reminded me of Golden Axe). After each encounter, you get to choose from a number of different upgrades, which you lose when you die (and you will die! A lot!). You also collect some materials that can be used to upgrade your heroes (which is where I felt the influence of Hades). Combat was basic, which could be because it was a demo, but it was functional and fun. The game has a beautiful cartoony art style, with a world and characters that are brimming with personality.
 
- - I played a few sessions, again spending about 2-3 hours.
+- I played a few sessions, again spending about 2-3 hours.
 
- - The full game is not out yet and is currently listed as "Coming soon" on Steam.
+- The full game is not out yet and is currently listed as "Coming soon" on Steam.
 
 Once I realised I was enjoying it, and that my progress wasn't going to carry over to the main game, I decided that I was convinced and decided not to spoil any more of the experience of myself.
 
@@ -54,11 +54,11 @@ It seems to be drawing inspiration from the likes of Invincible and The Boys. It
 
 The actual gameplay is set on a map of the city. Calls will come in about different problems, from cats getting stuck in trees to an armed heist at an art gallery. You have to decide which of your z-list heroes to send, based on their availability and skills. There's also a weird hacking minigame you have to play from time to time, which I was less keen on (though it did employ key combos, which allowed me to use the skills I've developed by calling down stratagems in Helldivers 2!).
 
-It features some obvious rip-offs of Marvel characters, in particular. One has a magic sword and can open portals (which would have been less conspicuous had I not played [Marvel's Midnight Suns](https://mdsimpson.co.uk/2025/05/marvels-midnight-suns-year-of-gaming-2025/)a few months ago!). The main protagonist is also called Robert and has the alter-ego "Mecha man". Up all night coming up with that one, were you devs?
+It features some obvious rip-offs of Marvel characters, in particular. One has a magic sword and can open portals (which would have been less conspicuous had I not played [Marvel's Midnight Suns](/2025/05/marvels-midnight-suns-year-of-gaming-2025/)a few months ago!). The main protagonist is also called Robert and has the alter-ego "Mecha man". Up all night coming up with that one, were you devs?
 
- - I played for around 30 minutes before I hit the end of the demo.
+- I played for around 30 minutes before I hit the end of the demo.
 
- - The full game is not out yet and is currently listed as "Planned release date: 2025".
+- The full game is not out yet and is currently listed as "Planned release date: 2025".
 
 I would have liked to have seen more, but I'm convinced. It's on my wishlist and I'll probably end up buying it at some point, probably when it's on sale.
 
@@ -70,9 +70,9 @@ Again, there's some beautiful artwork and animation, and I was drawn into the st
 
 The game features a turn-based overworld, followed by relatively simple auto-battles, with a (*sigh!*) deck-building element. You have no direct control over the real-time battles, other than setting up formations ahead of time and playing cards to influence things. It feels closer to Civilisation than to games like Starcraft, which I am more comfortable with. I felt strangely detached from the action. I also struggled, as some enemies are hard to defeat without the right army makeup, but I'm not sure how to tell what the right makeup is before you ride into battle.
 
- - I spent about 4 hours playing all of the campaign missions that were available in the demo.
+- I spent about 4 hours playing all of the campaign missions that were available in the demo.
 
- - The full game is currently full price at £23.99.
+- The full game is currently full price at £23.99.
 
 It's different from the strategy games that I'm used to, but I enjoyed my time with the campaign and would like to see more.
 

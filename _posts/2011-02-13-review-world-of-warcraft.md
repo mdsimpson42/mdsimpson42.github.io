@@ -12,15 +12,14 @@ tags:
   - video-games
 ---
 
-Yes, ashamed as I am to admit it, I am guilty of effectively pissing away three years of my life playing Blizzard's hugely successful online role-playing game 
-*World of Warcraft*
+Yes, ashamed as I am to admit it, I am guilty of effectively pissing away three years of my life playing Blizzard's hugely successful online role-playing game *World of Warcraft*
 .
 
 Now, I have never really been a fan of Massively Multi-player Online (MMO) games. I play games online from time to time, but I usually prefer the single player, story- and character- driven experience. *EVE*, *Star Wars Galaxies* and others never managed to suck me in, but for some reason *WoW* kept me interested. This week I wanted to try and work out what it was that made *WoW* different.
 
 Obviously this is a huge game and I can't cover everything, so I'm going to focus on a few of the key good and bad points of my experience. I should probably point out that I wasn't in it from the beginning. I only joined shortly before the *'Burning Crusade'* expansion was launched and played until left about a year after the following expansion: *'Wrath of the Lich King'*.
 
-### My Play Experience
+## My Play Experience
 
 I ended up playing *WoW* mostly on my own or with small groups of real-life friends. You might well say that this defeats the point, but it was just how I wanted to play most of the time.
 
@@ -42,6 +41,6 @@ Basically, you don't get to go in groups with hardcore folk if you don't have a 
 
 Audio is something that I pay particular attention to, and which disappoints me in most games, but *WoW* deserves a special mention, as most of the in-game audio is great. The music, particularly in the recent expansions has been excellent. I've played it on numerous occasions with my headphones on and the mixture of music, environment sounds, the crunching of snow underfoot etc., is amazing.
 
-I still have a problem with all of the quest info being displayed through text boxes, the equivalent to the characters holding up a sheet of card with instructions written on it. There were many times where I found myself ignoring this text and just focusing on the important lines: "Kill X of Y" or "Steal whats-it from whats-his-face". However it should be pointed out that the amount of voice work has increased recently, which is a definite step in the right direction and a big boost to the games immersion.
+I still have a problem with all of the quest info being displayed through text boxes, the equivalent to the characters holding up a sheet of card with instructions written on it. There were many times where I found myself ignoring this text and just focusing on the important lines: "Kill X of Y" or "Steal what's-it from what's-his-face". However it should be pointed out that the amount of voice work has increased recently, which is a definite step in the right direction and a big boost to the games immersion.
 
-[continues [here](http://mdsimpson.co.uk/blog/?p=27)]
+[continues in [Part 2](/2011/02/review-world-of-warcraft-part-2/)]

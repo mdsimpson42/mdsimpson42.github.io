@@ -12,14 +12,17 @@ image:
 
 Anyone who follows me on a semi-regular basis might have noticed that I've been on something of a *Discworld* binge recently. I'm a massive fan of *Terry Pratchett*'s universe and have been through all of the audiobooks in the series in the last year-or-so (which is why there are so many Pratchett quotes on my [Tumblr](https://twitter.com/codemonkey_mike) and [Twitter](https://twitter.com/codemonkey_mike) feeds).
 
-Following on from all that, I recently decided to sit down and have a go at getting the classic *Discworld* games working, but have so far only managed it with one: *Discworld Noir. *This was a game that I remember enjoying at the time, but how does it stand up today?
+Following on from all that, I recently decided to sit down and have a go at getting the classic *Discworld* games working, but have so far only managed it with one: *Discworld Noir.* This was a game that I remember enjoying at the time, but how does it stand up today?
 
-### Discworld Noir
+## Discworld Noir
 
-![](/assets/img/blog/Discworld_Noir_PC_cover_art-b7c7fd3581.jpg)Whereas the first two games were based heavily on the plots of existing *Discworld* novels, *Discworld Noir* is an entirely original story, inspired by (and a parody of) Noir movies. Released in 1999, the game is a classic point-and-click adventure game, where you take on the role of *Lewton,* the Discworld's first Private Detective. Lewton is hired by a mysterious and buxom stranger to investigate a series of bizarre murders and uncover a dangerous conspiracy on the streets of *Ankh-Morpork*, a city full of Trolls, Dwarves, Vampires and Werewolves.
+Whereas the first two games were based heavily on the plots of existing *Discworld* novels, *Discworld Noir* is an entirely original story, inspired by (and a parody of) Noir movies.
 
-The game features voice work from Rob Brydon, Robert Llewelyn and Nigel Planer (names that should be familiar to any connoisseur of the British sitcom) and, though he wasn't directly involved, lines from the books are oft quoted and Sir Terry was involved in some of the writing (and is credited as being a source of 
-"far too much interference").
+![Discworld Noir](/assets/img/blog/Discworld_Noir_PC_cover_art-b7c7fd3581.jpg)
+
+Released in 1999, the game is a classic point-and-click adventure game, where you take on the role of *Lewton,* the Discworld's first Private Detective. Lewton is hired by a mysterious and buxom stranger to investigate a series of bizarre murders and uncover a dangerous conspiracy on the streets of *Ankh-Morpork*, a city full of Trolls, Dwarves, Vampires and Werewolves.
+
+The game features voice work from Rob Brydon, Robert Llewelyn and Nigel Planer (names that should be familiar to any connoisseur of the British sitcom) and, though he wasn't directly involved, lines from the books are oft quoted and Sir Terry was involved in some of the writing (and is credited as being a source of "far too much interference").
 
 Unfortunately, it seems that the developer and publisher went bust pretty soon after the games released, and so it was never patched and still contains some fairly major bugs. It is also considered difficult to get to run on modern machines, but I actually found it surprisingly easy, after following a few online guides.
 

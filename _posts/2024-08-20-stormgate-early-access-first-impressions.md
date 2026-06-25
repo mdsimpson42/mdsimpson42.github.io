@@ -23,7 +23,7 @@ So, what is it like? And will it be able to shine in the long shadow of its line
 
 "Stormgate is a free-to-play, next-gen RTS [real-time strategy] set in a new science fantasy universe," boasts the Steam Store page. It makes no boast about being developed by former Blizzard staff, but the studio's pedigree is well-documented. IGN describe Frost Giant as a studio where "many veterans of Blizzard's now-defunct RTS team have banded together". Plus, apparently, there are some Command and Conquer: Red Alert 2 developers thrown in there for good measure! They announced the game a couple of years ago, and it went on to earn over 2 million dollars on Kickstarter.
 
-![](/assets/img/blog/20240815134700_1-1024x386-b73ce6a27b.jpg)
+![Stormgate Banner](/assets/img/blog/20240815134700_1-1024x386-b73ce6a27b.jpg)
 
 Normally, all this would be a bit of a red flag for me, but it is clear that things have gone dramatically downhill at Blizzard in the last decade, and the prospect of some of those talented developers breaking free from all that and starting out on their own... I couldn't help but get excited! All you have to do is take a look at [screenshots of the game](https://store.steampowered.com/app/2012510/Stormgate/), and you will immediately be reminded of Blizzard classics, particularly Warcraft 3 and Starcraft 2. My initial suspicions were overridden, and it conjured up fantasies of a long-awaited sequel to some of my favourite games of all time.
 
@@ -33,7 +33,7 @@ And I'm delighted to say that, in a world where we are starved of decent, high-b
 
 Having said that, there are some things that may feel a little TOO familiar. The story - from what is available in Early Access, at any rate - is one of these areas. Blizzard has a reputation for only being able to tell one story (but at least being able to tell it well!), personified by the story of Arthas and the cursed blade Frostmourne. The game opens with a cinematic showing a mad scientist opening a mysterious portal, through which swarms a horde of demonic creatures. One man tries to shut it down, after a quick call with his daughter, Amara, but is ultimately unsuccessful. When the first level starts, it's 20 years later, and you are playing as Amara, part of the Human Vanguard, a resistance force against the invading Infernals, who have conquered most of the planet.
 
-![](/assets/img/blog/20240817223553_1-1024x576-55dddfa610.jpg)
+![Stormgate Screenshot](/assets/img/blog/20240817223553_1-1024x576-55dddfa610.jpg)
 
 And, that's all you really get in Early Access, which is to be expected. And yes, they may be deliberately treading familiar ground to welcome players into the game and could be planning to throw some wild curveballs later on. For now, without wanting to spoil too much, my eyes rolled so hard it nearly broke my neck when a character, who looked a lot like Sarah Kerrigan, announced that she was going to spend some time studying a magic sword that looked a lot like they had just changed the colour of the LEDs in Frostmourne from blue to red!
 

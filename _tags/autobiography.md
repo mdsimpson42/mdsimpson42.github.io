@@ -1,6 +1,6 @@
 ---
 short_name: autobiography
-title: "autobiography"
+title: "Autobiography"
 menu: blog
 ---
 

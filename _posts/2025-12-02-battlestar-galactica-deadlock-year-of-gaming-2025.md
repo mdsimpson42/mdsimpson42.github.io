@@ -14,9 +14,9 @@ I had a few things lined up on my to-do list, but I wanted to try something a bi
 
 And now I think I might be cursed!
 
-*Reminder: For the [Year of Gaming Challenge](https://mdsimpson.co.uk/category/video-games/year-of-gaming-2025/), I have to play one of the many games I've bought in Steam sales and never got around to playing. I must give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/category/i-am-your-father/) with a lot going on right now, it will be hard to fit in!)*
+*Reminder: For the [Year of Gaming Challenge](/categories/year-of-gaming-2025/), I have to play one of the many games I've bought in Steam sales and never got around to playing. I must give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](/categories/i-am-your-father/) with a lot going on right now, it will be hard to fit in!)*
 
-# Battlestar Galactica: Deadlock
+## Battlestar Galactica: Deadlock
 
 Battlestar Galactica: Deadlock is a turn-based strategy game developed by Black Lab Games and published by Slitherine Software back in 2017.
 
@@ -62,11 +62,11 @@ Oh, and the game crashed at the end of a mission, about 8 hours in. On one hand,
 
 ## Stats
 
- - I got the game for free on Steam in July 2025. It is no longer available on any platform.
+- I got the game for free on Steam in July 2025. It is no longer available on any platform.
 
- - I played it for just over 13 hours and have completed Chapter 9 of the story.
+- I played it for just over 13 hours and have completed Chapter 9 of the story.
 
- - I probably won't go back, because by that point, the battles were starting to feel repetitive and I'd lost my immersion in the story.
+- I probably won't go back, because by that point, the battles were starting to feel repetitive and I'd lost my immersion in the story.
 
 ## Final Thoughts
 

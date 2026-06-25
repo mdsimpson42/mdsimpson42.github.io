@@ -14,7 +14,7 @@ As a massive fan of the rebooted XCOM games, you'd think I would have bought *Mi
 
 So, what's it like? Was I right to be cautious?
 
-*Reminder: For the [Year of Gaming Challenge](https://mdsimpson.co.uk/category/video-games/year-of-gaming-2025/), I have to play a game I’ve never played before (one of the many games I've bought in Steam sales and never got around to playing), give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/category/i-am-your-father/) with a lot going on right now, it will be hard to fit it in!)*
+*Reminder: For the [Year of Gaming Challenge](/categories/year-of-gaming-2025/), I have to play a game I’ve never played before (one of the many games I've bought in Steam sales and never got around to playing), give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](/categories/i-am-your-father/) with a lot going on right now, it will be hard to fit it in!)*
 
 I've clocked up nearly 800 hours in XCOM: Enemy Unknown and XCOM 2 (not to mention hundreds more hours across several Civilisation games). So, when Firaxis announced they were making a Marvel game, it should have been a no-brainer. But I'd heard mixed things from the original reviews, plus, I have a thing about deck-building games... If I wanted to play a card game, I'd play one in real life. Card-based systems in video games just never seem to click with me.
 
@@ -24,7 +24,7 @@ Well, this was a chance for one of my favourite studios to prove me wrong!
 
 Midnight Suns is a turn-based tactics and role-playing game, developed by Firaxis and released in 2022. You play as a legendary hero who has been resurrected to battle an evil demon by assembling a Scooby gang of characters from across the Marvel Universe, including the X-Men, Avengers and Spider-Man.
 
-[caption id="attachment_7800" align="aligncenter" width="1024"]![The Midnight Suns Logo on a white background. Beneath the logo is a line-up of characters, including Wolverine, Spider-Man, Iron Man, The Hunter, Blade, Scarlet Witch and Night Rider.](/assets/img/blog/LNbHEfP0e1ugSlfmfYGHFi3a-e1748034953978-7bc586600e.jpg) The Midnight Suns Logo above a lineup of characters. From left to right: Wolverine, Spider-Man, Iron Man, The Hunter, Blade, Scarlet Witch and Night Rider.[/caption]
+![The Midnight Suns Logo above a lineup of characters. From left to right: Wolverine, Spider-Man, Iron Man, The Hunter, Blade, Scarlet Witch and Night Rider.](/assets/img/blog/LNbHEfP0e1ugSlfmfYGHFi3a-e1748034953978-7bc586600e.jpg)
 
 ## Story/Writing
 
@@ -60,11 +60,11 @@ All in all, it's a compelling loop of activities, and I enjoyed pretty much all 
 
 ## The Stats
 
- - I got the game free on the Epic store. It's £49.99 full price, currently reduced to £7.49. Once I knew I was enjoying it, I paid £9.99 for the Season Pass (normally £39.99) to get the four DLC characters too.
+- I got the game free on the Epic store. It's £49.99 full price, currently reduced to £7.49. Once I knew I was enjoying it, I paid £9.99 for the Season Pass (normally £39.99) to get the four DLC characters too.
 
- - I have played it for around 35 hours and passed the end of Act 1. But I wasn't rushing, I spent a lot of time exploring the grounds and doing optional missions to level up my team.
+- I have played it for around 35 hours and passed the end of Act 1. But I wasn't rushing, I spent a lot of time exploring the grounds and doing optional missions to level up my team.
 
- - I fully intend to keep playing it after this blog goes out, as I feel like I'm less than halfway through the story, and I'm sure there is more to see, even if I have already found most of the Abbey's secrets.
+- I fully intend to keep playing it after this blog goes out, as I feel like I'm less than halfway through the story, and I'm sure there is more to see, even if I have already found most of the Abbey's secrets.
 
 ## Final Thoughts
 
@@ -72,5 +72,5 @@ I've enjoyed Midnight Suns a lot more than I thought I would. I've been pleasant
 
 I wouldn't pay the full £90 for the Legendary Edition, but I'd definitely get it if it were on sale for under £40, as it currently is! I can understand why elements of the game would turn some people off, but my initial instinct was right: this game feels like it was made for me!
 
-For more, check out my other [Year of Gaming 2025 reviews](https://mdsimpson.co.uk/category/video-games/year-of-gaming-2025/),
-as well as my [other Game-related posts](https://mdsimpson.co.uk/category/video-games/).
+For more, check out my other [Year of Gaming 2025 reviews](/categories/year-of-gaming-2025/),
+as well as my [other Game-related posts](/categories/video-games/).

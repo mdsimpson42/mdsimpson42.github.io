@@ -1,6 +1,6 @@
 ---
 short_name: pregnancy
-title: "pregnancy"
+title: "Pregnancy"
 menu: blog
 ---
 

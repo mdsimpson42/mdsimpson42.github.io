@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+      "mdsimpson",
+      "wellbeing"
+    ],
+    "markdownlint.config": {
+      "MD026": {
+        "punctuation": ",;:"
+      },
+      "MD036": false
+    }
+}

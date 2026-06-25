@@ -10,7 +10,6 @@ categories:
 tags:
   - game_design
   - reviews
-  - mass_effect
   - video_games
 ---
 
@@ -18,11 +17,11 @@ Bioware's controversial Mass Effect sequel released a few months ago. They got a
 
 But now, four months on, someone got me the game as a present and have finally decided to give it a chance. So, now they've had time to actually finish the game properly, is it any good?
 
-### Statement of Intent
+## Statement of Intent
 
 I was a huge fan of the original Mass Effect trilogy, but even I have to admit that they were far from flawless games. I'm trying to go into Andromeda with an open mind, trying to see past the issues to the experience underneath and trying to judge it on its own merits. I'm playing the game on PS4, at a point when numerous patches have been released (the game is currently version 1.10, at time of writing). I am approximately 9 hours in. I've created a custom character, played the opening act of the game and completed the majority of the quests on Eos, the first of the major planets. I have recruited most of the party members and explored the Nexus - the player's base of operations - and the Tempest - the player's ship. So, how has my experience been so far?
 
-### Graphics/Animation Issues
+## Graphics/Animation Issues
 
 First, let's address the game's biggest criticism. There have been several patches, but the game still has A LOT of issues. Right from the moment you boot up the game, in fact. The 'Press Start' screen features a ringed planet, but part of the rings incorrectly appear to be in-front of the planet when they should be behind it. The camera then zooms in on this flaw when you start the game, making it even more obvious... A glaring bug on the very first screen? Not a promising start!
 
@@ -52,13 +51,13 @@ Fights can be described as 'more dynamic' than in previous games, but this comes
 
 Most of my other problems with the game so far are mostly quality-of-life things which I won't go into them at length, but I'll summarise them below:
 
- - I was on a mission and, despite having defeated all of the enemies in the area, I could not save the game. I played on for a bit longer, checking several times whether the game would let me save, but it did not. Eventually, I turned off the game, figuring that there must have been a checkpoint fairly recently, but I found myself having to replay nearly an hour of the mission. In the previous games, you could save almost anywhere when you were out of combat, so this is another area of the game that feels like a step backwards. Also, apparently, completing a trio of objectives, clearing out the room and killing a boss didn't justify a checkpoint?
+- I was on a mission and, despite having defeated all of the enemies in the area, I could not save the game. I played on for a bit longer, checking several times whether the game would let me save, but it did not. Eventually, I turned off the game, figuring that there must have been a checkpoint fairly recently, but I found myself having to replay nearly an hour of the mission. In the previous games, you could save almost anywhere when you were out of combat, so this is another area of the game that feels like a step backwards. Also, apparently, completing a trio of objectives, clearing out the room and killing a boss didn't justify a checkpoint?
 
- - A major issue for me is that lack of a proper Pause function. Yes, you can bring up the menu during normal combat/gameplay, but even pressing the PS button does not reliably pause the game during cutscenes or dialogue. In every other modern game I've played, you can pause at any time, and this felt conspicuously absent.
+- A major issue for me is that lack of a proper Pause function. Yes, you can bring up the menu during normal combat/gameplay, but even pressing the PS button does not reliably pause the game during cutscenes or dialogue. In every other modern game I've played, you can pause at any time, and this felt conspicuously absent.
 
- - The menus can be very slow. When you go to the Skills menu to level up your characters, for example, it takes a LONG time to load the 3D models before you can do anything. I would have preferred simpler character models if this meant the menus were more responsive.
+- The menus can be very slow. When you go to the Skills menu to level up your characters, for example, it takes a LONG time to load the 3D models before you can do anything. I would have preferred simpler character models if this meant the menus were more responsive.
 
- - Load times, in general, are poor, which I guess is the price you pay for increased graphical fidelity, but it's still annoying! And, even after a long load screen, you still get scenery, characters and textures 'popping in' late. This, coupled with long, unskippable transitions (not only during space exploration but when landing on/taking off from a planet too) are very frustrating in a game that involves so much exploration and travelling back and forth across the galaxy.
+- Load times, in general, are poor, which I guess is the price you pay for increased graphical fidelity, but it's still annoying! And, even after a long load screen, you still get scenery, characters and textures 'popping in' late. This, coupled with long, unskippable transitions (not only during space exploration but when landing on/taking off from a planet too) are very frustrating in a game that involves so much exploration and travelling back and forth across the galaxy.
 
 ### Writing/Voice Acting
 

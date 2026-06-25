@@ -1,6 +1,6 @@
 ---
 short_name: baby
-title: "baby"
+title: "Baby"
 menu: blog
 ---
 

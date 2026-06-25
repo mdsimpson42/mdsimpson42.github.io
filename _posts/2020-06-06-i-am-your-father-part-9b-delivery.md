@@ -8,10 +8,8 @@ tags:
   - baby
   - birth
   - family
-  - father
   - fatherhood
   - labour
-  - parenthood
   - parenting
   - pregnancy
 image:
@@ -22,7 +20,7 @@ image:
 *19th April 2020*
 *(Age: 0 Days)*
 
-So, a quick recap. 10 Days overdue and knowing we had a chunky baby on the way, we finally found ourselves in a delivery room at the hospital. [Labour was pretty intense](https://mdsimpson.co.uk/2020/06/i-am-your-father-part-9a-labour/), and after dealing with unbearably painful contractions brought on by the hormone drip for what felt like an eternity (and that was just how *I* felt!), an epidural was administered, and when it finally kicked in, we both got a little bit of rest.
+So, a quick recap. 10 Days overdue and knowing we had a chunky baby on the way, we finally found ourselves in a delivery room at the hospital. [Labour was pretty intense](/2020/06/i-am-your-father-part-9a-labour/), and after dealing with unbearably painful contractions brought on by the hormone drip for what felt like an eternity (and that was just how *I* felt!), an epidural was administered, and when it finally kicked in, we both got a little bit of rest.
 
 This blog was initially written shortly after I got home from the hospital. It's taken me a while to get around to actually posting it, but hey, I've had a bit on!
 
@@ -68,5 +66,4 @@ So here I am, sitting in the bath with a cup of tea and some chocolate biscuits,
 
 *I Am Your Father - Season 2 will return... at some point... if I have time!*
 
-*
-You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](https://mdsimpson.co.uk/i-am-your-father).*
+*You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](/i-am-your-father).*

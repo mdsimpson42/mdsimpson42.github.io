@@ -9,7 +9,6 @@ categories:
   - retrospectives
 tags:
   - reviews
-  - mass_effect
   - video_games
 ---
 

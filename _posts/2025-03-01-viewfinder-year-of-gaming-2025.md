@@ -14,7 +14,7 @@ The next game from my Steam backlog that I decided to try was *Viewfinder*, a fi
 
 This is another game that seems right up my street on paper, but does it live up to the hype? Let's dive in!
 
-*Reminder: For the [Year of Gaming Challenge](https://mdsimpson.co.uk/category/video-games/year-of-gaming-2025/), I have to play a game I've never played before (one of the many games I bought in Steam sales and never got around to playing), give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/category/i-am-your-father/) with a lot going on right now, it will be hard to fit it in!)*
+*Reminder: For the [Year of Gaming Challenge](/categories/year-of-gaming-2025/), I have to play a game I've never played before (one of the many games I bought in Steam sales and never got around to playing), give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](/categories/i-am-your-father/) with a lot going on right now, it will be hard to fit it in!)*
 
 ## Viewfinder
 
@@ -22,7 +22,7 @@ Viewfinder is a first-person puzzle game developed by Sad Owl Studios, released 
 
 I remember hearing a lot of good things about the game from critics and my friends at the time. However, for whatever reason, it sat unplayed on my Steam wishlist for ages, and I thought it was finally time to fix that!
 
-![](/assets/img/blog/viewfinder-preview-header_feature-216b0ed199.jpg)
+![Viewfinder Banner](/assets/img/blog/viewfinder-preview-header_feature-216b0ed199.jpg)
 
 ## Story
 
@@ -40,7 +40,7 @@ s
 
 The scene transitions are also *chef's kiss*. When you go to a teleporter and the scene erupts from the screen, or when you place a picture and then walk into it, the way they handle the shifts in perspective is incredible. Personally, I like how everything is viewed through a camera, including the options menu and the rest of the interface. It made me miss the days when I used to carry my DSLR with me wherever I went.
 
-I could keep gushing, but it just feels like such a polished and well-made game (particularly compared to the wonderfully janky [Star Trek: Resurgence](https://mdsimpson.co.uk/2025/01/star-trek-resurgence-year-of-gaming-2025/), which I reviewed last month!).
+I could keep gushing, but it just feels like such a polished and well-made game (particularly compared to the wonderfully janky [Star Trek: Resurgence](/2025/01/star-trek-resurgence-year-of-gaming-2025/), which I reviewed last month!).
 
 ## Gameplay
 
@@ -58,11 +58,11 @@ But those are nitpicks in an otherwise excellent experience. A lot of it was not
 
 (I may not have time to finish a game within the month, so I will always let you know how far through a game I got, and whether I'm willing to continue playing).
 
- - The game was bought for me from my Steam wishlist as a gift. It costs £19.99 (currently discounted to £9.99).
+- The game was bought for me from my Steam wishlist as a gift. It costs £19.99 (currently discounted to £9.99).
 
- - I finished it in 5.5 hours, completing all the main and optional levels, but didn't find all the secret items.
+- I finished it in 5.5 hours, completing all the main and optional levels, but didn't find all the secret items.
 
- - I probably won't replay it or go looking for the secrets I missed; I feel like I've seen all there is to see.
+- I probably won't replay it or go looking for the secrets I missed; I feel like I've seen all there is to see.
 
 ## Final thoughts
 

@@ -7,9 +7,7 @@ categories:
 tags:
   - baby
   - family
-  - father
   - fatherhood
-  - parenthood
   - parenting
 image:
   path: /assets/img/blog/IMG_20200906_142956X-1024x538-29233a1270.jpg
@@ -29,7 +27,7 @@ Not a lot has changed, to be honest. We're still struggling with an inconsistent
 
 There's so much advice out there on how to create a routine and we're basically just trying out various tips until we find something that works. Ultimately, there's probably not much you can do other than just accept that it's going to be a disruptive and chaotic time.
 
-[caption id="attachment_7125" align="aligncenter" width="712"]![](/assets/img/blog/IMG_20200906_142956X-1024x538-29233a1270.jpg) M'boy playing on the floor with the dog. They're definitely getting used to each other, though Marvin is still adapting to not being the centre of attention![/caption]
+![M'boy playing on the floor with the dog. They're definitely getting used to each other, though Marvin is still adapting to not being the centre of attention!](/assets/img/blog/IMG_20200906_142956X-1024x538-29233a1270.jpg)
 
 He's definitely getting cuter as he gets more interactive. Not that we didn't already think he was cute, of course, but looking back at the early photos, it really hits home how much (and how quickly) he is changing. He's spending more and more time awake, alert and not crying. Plus, he's reacting to us, laughing more... usually at the most random things, but his little laugh is always a source of pure joy.
 
@@ -53,5 +51,4 @@ Getting him to sleep (and, particularly, to nap during the day) is often a battl
 
 It's been a rough few months, and to be honest, I'm still not sure how much of it is "normal" for new parents and how much of it is just 2020. He's getting bigger and more interactive, but there's not really a lot of real change happening in our day-to-day lives. I'd say things are settling down, but every time we think that, the universe throws us another curveball! So, let's see what the next few weeks bring...
 
-*
-You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](https://mdsimpson.co.uk/i-am-your-father).*
+*You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](/i-am-your-father).*

@@ -12,7 +12,7 @@ image:
 
 My 'new' game for June is the indie smash hit Hi-Fi Rush. It's been a rocky few years for the studio, but I'd heard nothing but good things about the game itself. So, does it live up to the hype?
 
-*Reminder: For the [Year of Gaming Challenge](https://mdsimpson.co.uk/category/video-games/year-of-gaming-2025/), I have to play one of the many games I've bought in Steam sales and never got around to playing. I give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/category/i-am-your-father/) with a lot going on right now, it will be hard to fit it in!)*
+*Reminder: For the [Year of Gaming Challenge](/categories/year-of-gaming-2025/), I have to play one of the many games I've bought in Steam sales and never got around to playing. I give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](/categories/i-am-your-father/) with a lot going on right now, it will be hard to fit it in!)*
 
 This game had been on my wishlist for a while. I remember its popularity and glowing reception when it was released, but then the controversy started. The studio was shut down, despite the game's success, in another terrible decision by the souless, asinine corporate morons that run the games industry. I wasn't sure whether to buy it, if not even a penny would go to the actual people who made it.
 
@@ -46,11 +46,11 @@ It's just such a rarity these days to play a game that is fun, so full of person
 
 ## Stats
 
- - I received the game as a gift on Steam. It’s currently £26.99 full price.
+- I received the game as a gift on Steam. It’s currently £26.99 full price.
 
- - I have played it for around 8.5 hours and have beaten level 9.
+- I have played it for around 8.5 hours and have beaten level 9.
 
- - I intend to keep playing it through to the end of the story at least.
+- I intend to keep playing it through to the end of the story at least.
 
 ## Final Thoughts
 
@@ -58,5 +58,5 @@ I've really enjoyed playing this game, and wish I'd been able to find more time 
 
 This game deserves every ounce of praise it received. This is the sort of thing the industry needs: more original ideas and creative creations from little studios, rather than the bland, bloated slop that the AAA studios are churning out. I'm so glad the studio was saved from the whole Microsoft debacle, and I'm excited to see what they come up with next!
 
-For more, check out my other [Year of Gaming 2025 reviews](https://mdsimpson.co.uk/category/video-games/year-of-gaming-2025/),
-as well as my [other Game-related posts](https://mdsimpson.co.uk/category/video-games/).
+For more, check out my other [Year of Gaming 2025 reviews](/categories/year-of-gaming-2025/),
+as well as my [other Game-related posts](/categories/video-games/).

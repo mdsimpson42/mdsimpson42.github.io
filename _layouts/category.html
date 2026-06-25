@@ -20,7 +20,7 @@ layout: no_title
 <p>The following posts are in the "{{page.title}}" category:</p>
 {% assign filtered_posts = site.posts
   | where: 'categories', page.short_name
-  | where_exp: "post", "post.draft != true" %}
+  | where_exp: "post", "post.draft != true and post.hidden != true" %}
 {% for post in filtered_posts %}
   {% include post-preview.html %}
 {% endfor %}

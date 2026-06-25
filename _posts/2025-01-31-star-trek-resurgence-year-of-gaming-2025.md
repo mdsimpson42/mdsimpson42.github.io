@@ -10,11 +10,11 @@ image:
   alt: "Star Trek: Resurgence - Year of Gaming 2025"
 ---
 
-The first game I've been playing for my [Year of Gaming](https://mdsimpson.co.uk/2025/01/year-of-gaming-2025/) challenge is *Star Trek: Resurgence*, an adventure game developed by former Telltale Games employees. On paper, this game seems tailor-made for someone like me (i.e. someone who loves single-player, story-driven games and is also a massive nerd!).
+The first game I've been playing for my [Year of Gaming](/2025/01/year-of-gaming-2025/) challenge is *Star Trek: Resurgence*, an adventure game developed by former Telltale Games employees. On paper, this game seems tailor-made for someone like me (i.e. someone who loves single-player, story-driven games and is also a massive nerd!).
 
 So, how does the Telltale formula work in the Final Frontier? And does this new company have what it takes to compete with their former studio? Let's find out!
 
-*Reminder: For the Year of Gaming Challenge, I have to play a brand new game (one of the many games I bought in Steam sales and never got around to playing), give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/category/i-am-your-father/) with a lot going on right now, it will be hard to fit it in!)*
+*Reminder: For the Year of Gaming Challenge, I have to play a brand new game (one of the many games I bought in Steam sales and never got around to playing), give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](/categories/i-am-your-father/) with a lot going on right now, it will be hard to fit it in!)*
 
 ## Star Trek: Resurgence
 
@@ -40,7 +40,7 @@ They say the best sound design is the kind that you don't notice. I noticed A LO
 
 Then there's the graphics. I like the art style, in general. The characters (the main cast, anyway) look great; their faces are well-animated with good lip-synching. Most of the environments look great too, but then there'd be some metal with a distracting reflective material, with ghosting and jittering, which looked horrible and ruined the scene for me. There was also some janky animation, low-quality textures and one sequence where there was no lighting in a key scene.
 
-There were a few moments of truly great cinematography, but then some transitions didn't make it clear whether it was continuing immediately or whether time had passed, making it feel confusing, jumpy and detached. I also have a complaint similar to the one I had with [Star Wars: Outlaws](https://mdsimpson.co.uk/2024/11/star-wars-outlaws/). You'd walk up to someone, then the characters would be standing in a completely different location or awkwardly shuffle into place before delivering their lines.
+There were a few moments of truly great cinematography, but then some transitions didn't make it clear whether it was continuing immediately or whether time had passed, making it feel confusing, jumpy and detached. I also have a complaint similar to the one I had with [Star Wars: Outlaws](/2024/11/star-wars-outlaws/). You'd walk up to someone, then the characters would be standing in a completely different location or awkwardly shuffle into place before delivering their lines.
 
 It wasn't bad for the most part, certainly not enough to spoil the whole experience for me, but it was definitely janky during certain sequences.
 

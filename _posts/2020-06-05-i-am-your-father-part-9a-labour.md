@@ -8,10 +8,8 @@ tags:
   - baby
   - birth
   - family
-  - father
   - fatherhood
   - labour
-  - parenthood
   - parenting
   - pregnancy
 image:
@@ -84,7 +82,6 @@ Anyway, the hard part seemed to be over. We both settled down and even managed t
 
 So, that was it. The live blogging didn't last the night, and the birth plan was out the window almost immediately. It had been the most difficult couple of hours of our lives, but the drugs gave us a brief respite before the next stage of the proceedings.
 
-*[Part two](https://mdsimpson.co.uk/2020/06/i-am-your-father-part-9b-delivery/) begins - very suddenly - in the (very) early hours of Sunday morning...*
+*[Part two](/2020/06/i-am-your-father-part-9b-delivery/) begins - very suddenly - in the (very) early hours of Sunday morning...*
 
-*
-You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](https://mdsimpson.co.uk/i-am-your-father).*
+*You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](/i-am-your-father).*

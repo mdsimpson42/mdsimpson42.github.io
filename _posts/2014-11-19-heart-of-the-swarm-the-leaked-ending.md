@@ -14,9 +14,9 @@ image:
 
 I have an issue with the ending of *Starcraft 2: Heart of the Swarm*. It's apparently not as controversial as [the ending to Mass Effect](http://mdsimpson.co.uk/mass-effect-3-the-ending/), but the thing that bothers me is the same: it just doesn't quite make sense! Part of the problem is that I've seen an alternative ending that is actually much better...
 
-### Background
+## Background
 
-[caption id="" align="alignright" width="300"]![](/assets/img/blog/SarahKerrigan_SC2_Head2-26f9ac804c.jpg) Sarah Kerrigan in a flashback to the events of the original Starcraft[/caption]
+![Sarah Kerrigan in a flashback to the events of the original Starcraft](/assets/img/blog/SarahKerrigan_SC2_Head2-26f9ac804c.jpg)
 
 *Warning: Spoilers for the storylines of Starcraft and Starcraft 2 follow!*
 
@@ -24,9 +24,9 @@ I have an issue with the ending of *Starcraft 2: Heart of the Swarm*. It's appar
 
 The cutscene in question takes place several years later (at the end of *Starcraft 2: Heart of the Swarm*). Raynor is leading a human resistance against Mengsk and Kerrigan has been resurrected and is now the Queen of the Zerg. Raynor tried to rescue Kerrigan by using a powerful alien artefact to destroy her forces and return her to human (at the end of *Starcraft 2: Wings of Liberty*), but she ultimately returned to the Zerg swarm to get her revenge on Mengsk. Together, they lay siege to Mengsk's Palace before finally breaking through his defences and confronting him in his office...
 
-### The Finale
+## The Finale
 
-[caption id="" align="alignright" width="300"]![](/assets/img/blog/1430886-queen_of_blades-4708e50ed2.jpg) The Queen of Blades[/caption]
+![The Queen of Blades](/assets/img/blog/1430886-queen_of_blades-4708e50ed2.jpg)
 
 Kerrigan walks into the office to find Mengsk relaxing in his seat. He opens a box, pulling out a cigar and what looks like a lighter. They converse, then Mengsk reveals that the lighter is actually a control for the artefact (which conveniently went missing at the start of game). The artefact rises out of the floor and zaps Kerrigan with its energy.
 
@@ -34,9 +34,9 @@ Kerrigan walks into the office to find Mengsk relaxing in his seat. He opens a b
 
 So, what's the problem? Well, I think the main problem is that there is another, better version of this ending. A few months before the game was released, a video was leaked online that claimed to be the HOTS ending. I was curious and checked it out - it was an early version, low quality, lacking textures and animation and so I assumed it was fake. However, *Blizzard* later had the video taken down, a sure sign that it was real (and, subsequently, we now know that this was the case).
 
-### The Alternative
+## The Alternative
 
-[caption id="" align="alignright" width="300"]![](/assets/img/blog/maxresdefault-5383c5bf69.jpg) Mengsk uses the device...[/caption]
+![Mengsk uses the device...](/assets/img/blog/maxresdefault-5383c5bf69.jpg)
 
 In the leaked version, events play out in much the same way, except that the artefact doesn't conveniently rise, Deus ex Machina, from the floor but instead Kerrigan is shocked by electricity that is apparently coming from the back of her neck. During a flashback we see Kerrigan, who is floating unconscious in a tank or undergoing a medical procedure of some sort (I can't quite remember the details), and discover that Mengsk had had a chip implanted in her spine years ago when she was working for him and that this is what he is now using against her.
 
@@ -44,7 +44,7 @@ In the leaked version, events play out in much the same way, except that the art
 
 Now, to their credit, on a second play-through I realised that the official ending was as 'pulled out of their arse' as it first seemed - there is one cutscene earlier in the game that gives the subtlest of hints that Mengsk has the artefact, but, for me, it still doesn't make as much sense.
 
-### Final Thoughts
+## Final Thoughts
 
 I just don't follow the logic behind the decision to change the ending. It makes a lot less sense now and I can't help wondering whether it was changed for artistic reasons (in which case, why not change the dialogue), whether it was dumbed down for some reason (which it definitely shouldn't have been) or whether it was a rush-job change purely because of the leak (which is what it feels like).
 

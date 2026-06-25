@@ -7,9 +7,7 @@ categories:
 tags:
   - baby
   - family
-  - father
   - fatherhood
-  - parenthood
   - parenting
 image:
   path: /assets/img/blog/IMG_20200606_103455-0cd09a3776.jpg
@@ -27,7 +25,7 @@ We are now five weeks in and, despite the happy title, this has been one of our 
 
 M'boy is now a whopping 12lbs, still in the 91st percentile, which is bloody miraculous given everything that's happened in the past few weeks. I think the novelty is starting to wear off and the adrenaline reserves are running low...
 
-[caption id="attachment_7095" align="aligncenter" width="1200"]![](/assets/img/blog/IMG_20200606_103455-0cd09a3776.jpg) The smile that (almost) makes it all worthwhile [left] and it looks like I'm not going anywhere for a while... [right][/caption]
+![The smile that (almost) makes it all worthwhile [left] and it looks like I'm not going anywhere for a while... [right]](/assets/img/blog/IMG_20200606_103455-0cd09a3776.jpg)
 
 ### Back to Work
 
@@ -79,5 +77,4 @@ Things are getting a lot harder. I think we could probably have coped with every
 
 Hopefully, things will start to improve in the coming weeks, particularly now that smiles are happening.
 
-*
-You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](https://mdsimpson.co.uk/i-am-your-father).*
+*You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](/i-am-your-father).*

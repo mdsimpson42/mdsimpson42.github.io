@@ -15,15 +15,17 @@ tags:
   - mental_health
   - short_story
   - writing
+hidden: true
 ---
 
-*Continued from [here](https://mdsimpson.co.uk/2020/05/the-journey-part-2/). (The story begins [here](https://mdsimpson.co.uk/2020/05/the-journey/).)*
+*Continued from [Part 2](/2020/05/the-journey-part-2/).  
+(The story begins in [Part 1](/2020/05/the-journey/).)*
 
 - - - - - - - - - -
 
 Sometime later, David crested a hill and found himself at an oasis, where a group of adventurers sat around a campfire. Their leader, a pale young man with short, black curly hair, wearing the leather armour of a rogue, greeted him and invited him to join them. They ate and drank, chatted and joked, and David found his morale boosted.
 
-[https://mdsimpson.co.uk/wp-content/uploads/journey_oasis-15.jpg](https://mdsimpson.co.uk/wp-content/uploads/journey_oasis-15.jpg)
+![Journey Oasis](/assets/img/blog/journey-oasis.jpg)
 
 He journeyed with the adventurers for a while, fighting alongside them against the lesser monsters that roamed the desert. Eventually, they reached the gates of the city and their leader turned to David.
 
@@ -51,7 +53,7 @@ David stared at the photo for several seconds. He felt the familiar icy sharpnes
 
 Behind where the demon had been standing was a young woman in the armour of a knight. She wore glasses and had long brown hair. Her armour was unusually practical for a fantasy heroine, with its share of dents and scratches, and her hair was a mess, but David still thought she was beautiful. She picked up the violet gemstone that had fallen to the ground and handed it to David.
 
-[https://mdsimpson.co.uk/wp-content/uploads/knight-16.jpg](https://mdsimpson.co.uk/wp-content/uploads/knight-16.jpg)
+![The Knight](/assets/img/blog/journey-knight.jpg)
 
 The swarm was still pouring into the city, but David and the Knight fought their way through, doing their best to repair the walls and defences as they went.
 
@@ -79,7 +81,7 @@ Finally, they reached the top of the stairs and made their way out onto the roof
 
 The human-form demons were standing together around the central dais. As David approached, they each dissolved into smoke and coalesced to form a single entity. A crown of black spikes circled the new demon's head and several smoky black tendrils extended from its back, like snakes ready to strike.
 
-[https://mdsimpson.co.uk/wp-content/uploads/journey_demonking-20.jpg](https://mdsimpson.co.uk/wp-content/uploads/journey_demonking-20.jpg)
+![The Demon King](/assets/img/blog/journey-demonking.jpg)
 
 David raised his sword and stepped forward to face the demon king, but it stretched out his hand towards him and the dark tendrils speared through the air, burying themselves into David's chest. All the warmth and happiness began to drain away. The ascent up the tower had clearly taken more of a toll than he had realised. He fell to his knees and the sword clattered to the ground, the light in the gems beginning to fade.
 
@@ -95,7 +97,7 @@ They turned and watched as the sun rose over the horizon. Beyond the bubble, lif
 
 The Rogue shook David's hand and departed, returning to his own quest once again. Cleansing rain began to fall as the Knight leaned in and kissed David on the cheek. Then, hand in hand, they descended the tower together.
 
-- - - - -
+---
 
 David woke to find himself in his familiar, warm, comfy bed. He rolled over to see his wife lying beside him. She had fallen asleep with her glasses on, and her long, brown hair was a mess, but she still looked beautiful to him.
 
@@ -105,15 +107,14 @@ David stared at the picture for a while. He was surrounded by friends and family
 
 He smiled, put down the phone, rolled over, and went back to sleep.
 
-- - - - -
+---
 
 THE END
 
-- - - - - - - - - -
+---
 
-*
-For more about how and why I wrote the story, [click here](http://mdsimpson.co.uk/2019/06/writing-the-journey/). *
+*Learn more about how and why I wrote the story in [this blog post](http://mdsimpson.co.uk/2019/06/writing-the-journey/).*
 
-*For more posts on mental health, click [here](https://mdsimpson.co.uk/category/mental-health/) or, check out my [Muggle's Guide to Dementor Defence](https://mdsimpson.co.uk/category/a-muggles-guide-to-dementor-defence/).*
+*More posts on [mental health](/categories/mental-health/).*
 
 **As always, if you need more information or support I can recommend [Mind, the mental health charity](https://www.mind.org.uk/) and the NHS campaign [Every Mind Matters](https://www.nhs.uk/oneyou/every-mind-matters/), or talk to your GP.**

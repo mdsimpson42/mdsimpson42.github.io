@@ -7,9 +7,7 @@ categories:
 tags:
   - baby
   - family
-  - father
   - fatherhood
-  - parenthood
   - parenting
 image:
   path: /assets/img/blog/blog15-ea2e8a9046.jpg
@@ -33,7 +31,7 @@ So, in line with the current advice from the experts, m'boy has been sleeping in
 
 Anyway, this was the week that we finally decided to move the cot out of our room and finally start using the fucking nursery!
 
-[caption id="attachment_7269" align="aligncenter" width="768"]![](/assets/img/blog/blog15-ea2e8a9046.jpg) We're going to miss having him squeezed into our room (left) and The Nappy Bin and Nappy Caddy (right) - more info below[/caption]
+![We're going to miss having him squeezed into our room (left) and The Nappy Bin and Nappy Caddy (right) - more info below](/assets/img/blog/blog15-ea2e8a9046.jpg)
 
 It was a little bit weird to spend our first night without him. We're now relying on the baby monitor to relay the screaming and crying, plus we have the added excitement of navigating the tricky landing in the middle of the night to get to him now. But we were pleasantly surprised that at least he didn't sleep any worse in his new room than he did with us.
 
@@ -61,5 +59,4 @@ Anyway, these things make managing the whole thing much easier and help control 
 
 So, a big day with the baby finally moving out. I'd like to think that this is the start of things starting to return to some sort of normal, and we might start to get some more actual sleep, but at this point, I'm not exactly optimistic. Let's see how the next few weeks go...
 
-*
-You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](https://mdsimpson.co.uk/i-am-your-father).*
+*You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](/i-am-your-father).*

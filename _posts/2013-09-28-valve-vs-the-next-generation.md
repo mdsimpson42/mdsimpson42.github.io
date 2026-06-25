@@ -12,11 +12,11 @@ image:
 
 This week saw Valve (the developers behind games like the Half-life series and the Steam network) announce their new set of technologies that aim to bring the Steam gaming experience into the living room. Whether their intention was to simply expand their empire or to throw the gauntlet into the "Next Generation" of the console war, for me they've pretty much already won against the PS4 and the Xbox One. All without any fancy launch events and without announcing any new games or pointless motion-control gimmicks! Here's why...
 
-### Steam in the Living Room
+## Steam in the Living Room
 
 More details can be found on Valve's [Announcements Page](http://store.steampowered.com/livingroom/), but let me summarise the news briefly. Valve announced a new operating system ('SteamOS'), which will be available on 'a number of devices' (or 'Steam Machines'). They also said that they were developing their own console in-house that would ship with a very funky looking and advanced controller. The controller is allegedly compatible with every game on Steam, including old PC games that weren't designed for controller support. The SteamOS is Linux based, but even if games aren't compatible with Linux, you will be able to stream games from your PC, again meaning that you have access to every game in your Steam Library and Steam's Extensive catalogue of modern, classic, retro and indie titles.
 
-[caption id="" align="aligncenter" width="464"]![](/assets/img/blog/_70162122_70156176-c710f105cd.jpg) The Steam Machines Controller[/caption]
+![The Steam Machines Controller](/assets/img/blog/_70162122_70156176-c710f105cd.jpg)
 
 But what does all this mean? I think the best way to explain my excitement about this news is to compare Steam Machines to their next-gen rivals: the PS4 and the Xbox One. [Note, I'm not mentioning the Wii U as, though it is regularly mistaken for being the first next-gen console, it is barely Last Gen; it was just incredibly late to the party!]
 
@@ -50,4 +50,4 @@ The key difference here is that Microsoft and Sony and publishers who are only i
 
 The net result of all this is that I am now eagerly awaiting further news of the Steam Machines and my already limited interest in the 'Next Gen' consoles has all but completely fizzled out.
 
-As Yahtzee said *"At this point, I personally would only buy a next-gen console if it had an exclusive game that I really wanted to play. But it would not be a healthy consumer-product relationship; it would not be a console providing access to something I want, it would be a console holding something I want hostage." *
+As Yahtzee said *"At this point, I personally would only buy a next-gen console if it had an exclusive game that I really wanted to play. But it would not be a healthy consumer-product relationship; it would not be a console providing access to something I want, it would be a console holding something I want hostage."*

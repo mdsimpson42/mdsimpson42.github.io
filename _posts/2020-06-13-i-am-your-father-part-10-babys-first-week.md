@@ -7,9 +7,7 @@ categories:
 tags:
   - baby
   - family
-  - father
   - fatherhood
-  - parenthood
   - parenting
 image:
   path: /assets/img/blog/bbyblog-1-9c8c18c072.jpg
@@ -19,7 +17,7 @@ image:
 *Originally written: 27th April 2020*
 *(Age: 2 weeks)*
 
-So, after [what turned out to be a fairly traumatic birth under difficult circumstances](https://mdsimpson.co.uk/2020/06/i-am-your-father-part-9a-labour/), I had a few days to recover, and then we finally brought my son home.
+So, after [what turned out to be a fairly traumatic birth under difficult circumstances](/2020/06/i-am-your-father-part-9a-labour/), I had a few days to recover, and then we finally brought my son home.
 
 I will now attempt to summarise what those first few days were like.
 
@@ -39,7 +37,7 @@ It's kind of insane how they just let you walk out of there with this new life; 
 
 It has been a few days, and I'm feeling a bit useless, to be honest. Don't get me wrong, I'm doing my bit, cooking and cleaning and looking after m'wife, but I don't seem to be much help with the actual baby. Sometimes I can cuddle him or walk around with him, and he'll settle for me, but if he's crying for food, which seems to be most of the time he's awake, then there's nothing I can do.
 
-[caption id="attachment_6999" align="aligncenter" width="1080"]![](/assets/img/blog/bbyblog-1-9c8c18c072.jpg) Baby grabs my finger and Marvin guards the Moses basket.[/caption]
+![Baby grabs my finger and Marvin guards the Moses basket.](/assets/img/blog/bbyblog-1-9c8c18c072.jpg)
 
 Crying, sleeping, feeding and... 'needing to be changed' are pretty much all he does at this stage. I had been warned that the first few weeks were the hardest, but nothing anyone says can prepare you for the reality. I'm not sure how much of the crying and unsettledness is because of the birth and how much of it is just him being a 'typical' newborn, but I feel like this is similar to what most new parents have to go through.
 
@@ -92,5 +90,4 @@ So, this first week has been all kinds of crazy, not helped by the lockdown. How
 
 It'll be interesting to see what happens when the novelty (and the adrenaline) starts to wear off...
 
-*
-You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](https://mdsimpson.co.uk/i-am-your-father).*
+*You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](/i-am-your-father).*

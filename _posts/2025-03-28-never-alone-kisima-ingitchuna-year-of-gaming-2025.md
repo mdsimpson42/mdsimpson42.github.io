@@ -10,9 +10,9 @@ image:
   alt: "Never Alone (Kisima Ingitchuna) - Year of Gaming 2025"
 ---
 
-The game I've been playing for March is an atmospheric puzzle platformer based on a traditional native Alaskan story. It's called *Never Alone (Kisima Ingitchuna), *and I remember that it immediately intrigued me, but - for no good reason - it's been on my Steam backlog for years. So, I thought it was time to finally give it a go. 
+The game I've been playing for March is an atmospheric puzzle platformer based on a traditional native Alaskan story. It's called *Never Alone (Kisima Ingitchuna),* and I remember that it immediately intrigued me, but - for no good reason - it's been on my Steam backlog for years. So, I thought it was time to finally give it a go.
 
-*Reminder: For the [Year of Gaming Challenge](https://mdsimpson.co.uk/category/video-games/year-of-gaming-2025/), I have to play a game I’ve never played before (one of the many games I've bought in Steam sales and never got around to playing), give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](https://mdsimpson.co.uk/category/i-am-your-father/) with a lot going on right now, it will be hard to fit it in!)*
+*Reminder: For the [Year of Gaming Challenge](/categories/year-of-gaming-2025/), I have to play a game I’ve never played before (one of the many games I've bought in Steam sales and never got around to playing), give it a fair chance and write up my thoughts by the end of each month. (That may not sound like much of a challenge, but as [a father](/categories/i-am-your-father/) with a lot going on right now, it will be hard to fit it in!)*
 
 ## Never Alone (Kisima Ingitchuna)
 
@@ -22,7 +22,7 @@ The game I've been playing for March is an atmospheric puzzle platformer based o
 
 You play as Nuna, a young girl whose village is being ravaged by a never-ending blizzard. Nuna, with the help of her companion - an arctic fox - must face many dangers to find the source of the storm and bring everything back into balance. It is apparently based on a traditional story called 'Kunuuksaayuka'.
 
-![](/assets/img/blog/Never_Alone_Kisima_Ingitchuna-Main-Indie_Game-f8ed481703.png)
+![Never Alone Banner](/assets/img/blog/Never_Alone_Kisima_Ingitchuna-Main-Indie_Game-f8ed481703.png)
 
 The story is mostly told by a narrator (in the native Iñupiat language) and in 2D animated cutscenes between levels. It's a relatively light story, but then it's a relatively short game. What is there is well told, works well with the audio, visuals and general atmosphere of the game, and is more than enough to motivate you to help Nuna get to the end of each level.
 
@@ -50,11 +50,11 @@ But these are minor annoyances in an otherwise great experience. I never threw m
 
 (I may not have time to finish a game within the month, so I will always let you know how far through the game I got and whether I plan to continue playing if I didn't finish.)
 
- - The game was bought for me from my Steam wishlist as a gift. It currently costs £11.99.
+- The game was bought for me from my Steam wishlist as a gift. It currently costs £11.99.
 
- - I finished it in 3 roughly 1-hour sessions, completing all the main levels and finding all but 2 of the cultural insights.
+- I finished it in 3 roughly 1-hour sessions, completing all the main levels and finding all but 2 of the cultural insights.
 
- - I don't feel particularly motivated to go back and look for the secrets I missed; I feel like I’ve seen most of what there is to see.
+- I don't feel particularly motivated to go back and look for the secrets I missed; I feel like I’ve seen most of what there is to see.
 
 ## Final Thoughts
 

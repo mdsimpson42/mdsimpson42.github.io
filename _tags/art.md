@@ -1,6 +1,6 @@
 ---
 short_name: art
-title: "art"
+title: "Art"
 menu: blog
 ---
 

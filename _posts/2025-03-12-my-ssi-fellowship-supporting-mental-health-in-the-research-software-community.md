@@ -20,7 +20,7 @@ I've just posted [a blog post on the SSI website](https://www.software.ac.uk/blo
 
 Every year, they award fellowships to *"passionate individuals in research and software, empowering them as ambassadors of good practice to shape the future of research software"*. I was lucky enough to be one of the 27 Fellows selected as part of the 2025 Cohort.
 
-![](/assets/img/blog/BlogThumbs-1-36d5753d58.jpg)
+![Supporting Mental Health in the Research Software Community - Mike Simpson, SSI Fellow](/assets/img/blog/BlogThumbs-1-36d5753d58.jpg)
 
 ## My Plans
 
@@ -28,17 +28,17 @@ I will be continuing the conversation around mental health in our community and 
 
 My plans include three main activities:
 
- - Telling my story - to help break the stigma around mental health.
+- Telling my story - to help break the stigma around mental health.
 
- - Sharing tips and resources to help people support their mental health.
+- Sharing tips and resources to help people support their mental health.
 
- - Creating and supporting initiatives to improve mental health in our community.
+- Creating and supporting initiatives to improve mental health in our community.
 
 I hope that by doing this, I will inspire others to be more open about their mental health, provide information to help people find support, and help create/promote communities and initiatives that aim to improve mental health among research software engineers and other related professions.
 
 ## Why am I doing this?
 
-I've often spoken on this blog about my experiences with mental health, not least in the blog series [I Am Your Father](https://mdsimpson.co.uk/category/i-am-your-father/), where I chronicle my experiences of becoming a new parent during lockdown. During this time, I experienced a range of mental health issues, including burnout and an anxiety attack.
+I've often spoken on this blog about my experiences with mental health, not least in the blog series [I Am Your Father](/categories/i-am-your-father/), where I chronicle my experiences of becoming a new parent during lockdown. During this time, I experienced a range of mental health issues, including burnout and an anxiety attack.
 
 Despite this, I think I handled the situation remarkably well, and that is a key point I want to make. Admitting to mental health problems is often seen as a sign of weakness. But I'm not weak. I'm actually incredibly resilient, BECAUSE of my previous experiences with mental health problems. And it's better to admit that you're struggling BEFORE things become overwhelming and there's nothing anyone can do about it.
 

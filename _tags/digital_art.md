@@ -1,6 +1,6 @@
 ---
 short_name: digital_art
-title: "digital art"
+title: "Digital Art"
 menu: blog
 ---
 

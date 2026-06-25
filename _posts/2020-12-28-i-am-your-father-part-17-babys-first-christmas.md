@@ -7,9 +7,7 @@ categories:
 tags:
   - baby
   - family
-  - father
   - fatherhood
-  - parenthood
   - parenting
 image:
   path: /assets/img/blog/PXL_20211120_152731685-2ce0e6f9b8.jpg
@@ -23,11 +21,11 @@ We are currently in the no-man's-land between Christmas and New Year, having sur
 
 *Reminder: This blog is the work of a sleep-deprived, first-time parent, trying to talk frankly and honestly about his experience. I make no apologies for the language used.*
 
-### General Update
+## General Update
 
 We're at 8 months now, and he can just about stand up. He will pull himself upright on the bars of the cot or drag himself along the sofa like a drunk man trying to get to the end of the bar. He can also support his weight on some of his walking toys, but is still struggling to take more than one or two steps without falling down. He's also taken to rolling sideways across the floor, but he's still refusing to actually crawl. Perhaps he just doesn't want to waste time learning to crawl when he can just skip straight to walking.
 
-![](/assets/img/blog/PXL_20211120_152731685-2ce0e6f9b8.jpg)
+![A baby looking at a Christmas display](/assets/img/blog/PXL_20211120_152731685-2ce0e6f9b8.jpg)
 
 And yes, we know that this is early. Most babies don't start walking for a few more months, according to the literature and our limited experience. So, if your baby isn't walking at this point, there almost certainly isn't anything to be concerned about. I have to admit, we were slightly worried that he was falling behind, as some babies we know around the same age are crawling already, and he isn't. But you just have to be a little laid back about it and assume that everything will work out in the end.
 
@@ -49,7 +47,7 @@ Overall, I'm not sure how much he actually enjoyed it. And I'm perfectly aware t
 
 So, we bought a baby monitor back before m'boy was born, which I realise I still haven't reviewed. It's a *BT Video Baby Monitor 5000* - that being the mid-priced option available in our local branch of Smyths when we were buying other baby crap. In hindsight, we probably should have done some more research!
 
-![](/assets/img/blog/400px-GLaDOS_P2-6d4606b28c.jpg)
+![Baby Monitor (left) GlaDOS (right)](/assets/img/blog/400px-GLaDOS_P2-6d4606b28c.jpg)
 
 The camera looks like GLaDOS, the evil AI from Portal, and isn't great, to be honest, but I suppose it does the job. It isn't very poseable, so we had to rig up a contraption to get it to point at the fucking cot so we actually could see what was going on! The handset is equally "meh!" The battery life is atrocious, even with the screen turned off. So, you basically have to keep it plugged in (which defeats the point of a portable handset!). And, of course, it isn't the same type of USB connector as our phones because why would it be! Plus, you don't get a very clear or high-quality image even in full daylight. Basically, there have to be better options out and my advice would be to shop around (we certainly won't be keeping this piece of crap in our attic, if we have another baby, we'll shell out for a better one!).
 
@@ -63,5 +61,4 @@ It was nice and quiet and peaceful.
 
 And, I suspect, it was the last time it will be so for many years to come!
 
-*
-You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](https://mdsimpson.co.uk/i-am-your-father).*
+*You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](/i-am-your-father).*

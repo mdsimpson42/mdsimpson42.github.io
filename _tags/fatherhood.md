@@ -1,6 +1,6 @@
 ---
 short_name: fatherhood
-title: "fatherhood"
+title: "Fatherhood"
 menu: blog
 ---
 

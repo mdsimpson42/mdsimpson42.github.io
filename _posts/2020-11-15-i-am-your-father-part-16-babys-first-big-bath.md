@@ -7,9 +7,7 @@ categories:
 tags:
   - baby
   - family
-  - father
   - fatherhood
-  - parenthood
   - parenting
 image:
   path: /assets/img/blog/blog16-a2b9b6f93e.jpg
@@ -39,7 +37,7 @@ Not only has he outgrown all of his clothes, but he has also outgrown the little
 
 As I think I've mentioned before, bathtime is Daddy's Domain, so this is something I can actually talk about as an active participant, rather than just an observer!
 
-[caption id="attachment_7271" align="aligncenter" width="768"]![](/assets/img/blog/blog16-a2b9b6f93e.jpg) The Bath Dam and Bath Seat (more on these below)[/caption]
+![The Bath Dam and Bath Seat (more on these below)](/assets/img/blog/blog16-a2b9b6f93e.jpg)
 
 So, the transition to the big bath was far from trivial. First, we had to buy a little seat, so he could sit safely in the bath without us being paranoid about him sliding or toppling over and disappearing under the bubbles. It works really well, and he's sat in it quite happily every time we've put him in it so far.
 
@@ -65,5 +63,4 @@ Not really a huge amount to report this time. He is mainly just getting bigger, 
 
 Oh shit, it's November. I should probably start getting things ready for Baby's First Christmas...
 
-*
-You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](https://mdsimpson.co.uk/i-am-your-father).*
+*You can keep up with our adventures here: [mdsimpson.co.uk/i-am-your-father](/i-am-your-father).*

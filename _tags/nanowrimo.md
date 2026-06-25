@@ -1,6 +1,6 @@
 ---
 short_name: nanowrimo
-title: "nanowrimo"
+title: "NaNoWriMo"
 menu: blog
 ---
 

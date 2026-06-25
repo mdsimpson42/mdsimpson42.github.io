@@ -11,11 +11,11 @@ image:
 
 I won't be going to watch the remake of *The Little Mermaid*, but not for the reason you might think.
 
-*The Little Mermaid* is the latest in a long line of live-action remakes of Disney's classic animated movies. And they are showing no signs of slowing down, with *Lilo & Stich* coming out next year and *Moana *on the horizon. And that only came out in... wow, 2016! I feel old. But still!
+*The Little Mermaid* is the latest in a long line of live-action remakes of Disney's classic animated movies. And they are showing no signs of slowing down, with *Lilo & Stich* coming out next year and *Moana* on the horizon. And that only came out in... wow, 2016! I feel old. But still!
 
 My problem is not that the movies exist. And it's not that I personally didn't enjoy them, because that's fine too (someday, I hope to be proven wrong and be blown away by one of these things). My problem is... well, it's a lot more complicated than that!
 
-![](/assets/img/blog/ab67616d0000b27391eee92ba7620a88de647ade-41ff1b7ef2.jpg)
+![The Little Mermaid Poster](/assets/img/blog/ab67616d0000b27391eee92ba7620a88de647ade-41ff1b7ef2.jpg)
 
 ## Background
 
@@ -37,7 +37,7 @@ And if they are going to make them, I understand that change is necessary, and n
 
 There just seems to be a certain 'magic' that is lost when you're trying to tell these stories with realistic characters. The *Jungle Book* and *The Lion King* are better than they have any right to be. If they were new releases, they would be pretty great. But as someone who grew up watching the animated classics, I can't help but compare. And they don't compare well. *The Lion King*, in particular, loses most of its charm and character by having 'realistic' animals that can't sing or emote properly. Aladdin was the same; by making Abu and Iago 'realistic', they stripped away what made their 2D counterparts so great.
 
-It's not just the animal sidekicks that suffer. The entire film becomes less colourful and fun as a result. And that's without adding things that drag the tone down. Yeah, what beloved fairytale *Beauty and the Beast *really needed was an additional scene starring Belle's mother and The Black Death!
+It's not just the animal sidekicks that suffer. The entire film becomes less colourful and fun as a result. And that's without adding things that drag the tone down. Yeah, what beloved fairytale *Beauty and the Beast* really needed was an additional scene starring Belle's mother and The Black Death!
 
 Mulan didn't have this problem. They've removed the animal sidekicks completely, but at least they tried to make it truer to the legend it was based on. However, it rubbed me up the wrong way because it fundamentally changed the story. In the animated film, she succeeds because she is strong, determined and hard-working. In the remake, she succeeds because 'she has magic'. They basically turned it into a superhero story, and, as such, they lost some of what made it great.
 
@@ -49,7 +49,7 @@ When I was a kid - the age you're "supposed" to watch Disney films - I had no in
 
 I can only assume they make Disney a buttload of cash, but none of them are in the top-grossing films list. And it's a pretty damning indictment of us as an audience that we pay to see these things when other new, original movies that could become classics get ignored. It is also an indictment of the lack of creativity, imagination and willingness to take risks in Hollywood!
 
-So, if they're not for kids, and they're not for the adults who grew up with the originals, who are they for? And *why *are they making them? It feels like they shouldn't be making them until someone can give a satisfying answer to that question. And we, as an audience, should stop enabling them by going to see them!
+So, if they're not for kids, and they're not for the adults who grew up with the originals, who are they for? And *why* are they making them? It feels like they shouldn't be making them until someone can give a satisfying answer to that question. And we, as an audience, should stop enabling them by going to see them!
 
 ## Final Thoughts
 
