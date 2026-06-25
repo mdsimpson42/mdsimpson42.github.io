@@ -47,7 +47,7 @@ However, while I do like the space exploration mode (Gone is the annoying little
 
 Fights can be described as 'more dynamic' than in previous games, but this comes at the lack of a feeling that the experience was designed and crafted. You often you find yourself in a position with no proper cover, or with enemies appearing behind you. Speaking of cover, the system is a bit different; you also don't press 'a' to enter cover and find yourself stuck to it, which means - in theory - that you aren't as restricted with your options and can take cover behind any object. However, the game seems a bit picky about what actually counts as cover and whether or not it actually protects you from enemy fire! There are a lot more hovering enemies, and more chances for enemies to gain the height advantage, so cover is a bit less safe than in the previous games, for better or for worse!
 
-#### Other Problems
+### Other Problems
 
 Most of my other problems with the game so far are mostly quality-of-life things which I won't go into them at length, but I'll summarise them below:
 
