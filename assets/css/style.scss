@@ -1,89 +1,14 @@
 ---
 ---
 
-/*! normalize.css v3.0.2 | MIT License | git.io/normalize */
-/**
- * 1. Set default font family to sans-serif.
- * 2. Prevent iOS text size adjust after orientation change, without disabling
- *    user zoom.
- */
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap");
-html {
-  font-family: sans-serif; /* 1 */
-  -ms-text-size-adjust: 100%; /* 2 */
-  -webkit-text-size-adjust: 100%; /* 2 */
-}
+$font-colour: #222;
+$link-colour: #1e6bb8;
+$selected-colour: #154899;
 
-/**
- * Remove default margin.
- */
-body {
-  margin: 0;
-}
-
-/* HTML5 display definitions
-   ========================================================================== */
-/**
- * Correct `block` display not defined for any HTML5 element in IE 8/9.
- * Correct `block` display not defined for `details` or `summary` in IE 10/11
- * and Firefox.
- * Correct `block` display not defined for `main` in IE 11.
- */
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-main,
-menu,
-nav,
-section,
-summary {
-  display: block;
-}
-
-/**
- * 1. Correct `inline-block` display not defined in IE 8/9.
- * 2. Normalize vertical alignment of `progress` in Chrome, Firefox, and Opera.
- */
-audio,
-canvas,
-progress,
-video {
-  display: inline-block; /* 1 */
-  vertical-align: baseline; /* 2 */
-}
-
-/**
- * Prevent modern browsers from displaying `audio` without controls.
- * Remove excess height in iOS 5 devices.
- */
-audio:not([controls]) {
-  display: none;
-  height: 0;
-}
-
-/**
- * Address `[hidden]` styling not present in IE 8/9/10.
- * Hide the `template` element in IE 8/9/11, Safari, and Firefox < 22.
- */
-[hidden],
-template {
-  display: none;
-}
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,500,600,700,800&display=swap");
 
 /* Links
    ========================================================================== */
-/**
- * Remove the gray background color from active links in IE 10.
- */
-a {
-  background-color: transparent;
-}
-
 /**
  * Improve readability when focused and also mouse hovered in all browsers.
  */
@@ -116,13 +41,40 @@ dfn {
   font-style: italic;
 }
 
-/**
- * Address variable `h1` font-size and margin within `section` and `article`
- * contexts in Firefox 4+, Safari, and Chrome.
- */
+* {
+  box-sizing: border-box;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  color: $font-colour;
+  font-size: large;
+  font-weight: 400;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+}
+
 h1 {
-  font-size: 2em;
+  font-size: 1.8rem !important;
+  font-weight: 700 !important;
+  color: $selected-colour !important;
   margin: 0.67em 0;
+}
+
+h2 {
+    font-size: 1.6rem !important;
+    margin-top: 1.5rem !important;
+    font-weight: 600 !important;
+    color: $selected-colour !important;
+}
+
+h3 {
+    font-size: 1.4rem !important;
+    margin-top: 1.4rem !important;
+    margin-bottom: 0rem !important;
+    font-weight: 500 !important;
 }
 
 /**
@@ -657,19 +609,6 @@ th {
   background-color: #f8f8f8;
 }
 
-* {
-  box-sizing: border-box;
-}
-
-body {
-  padding: 0;
-  margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
-  color: #606c71;
-}
-
 #skip-to-content {
   height: 1px;
   width: 1px;
@@ -688,8 +627,10 @@ body {
 }
 
 a {
+  background-color: transparent;
   color: #1e6bb8;
   text-decoration: none;
+  font-weight: 500 !important;
 }
 a:hover {
   text-decoration: underline;
@@ -697,18 +638,24 @@ a:hover {
 
 .page-header {
   color: #fff;
-  text-align: center;
+  text-align: left;
   background-color: #020a12;
   background-image: linear-gradient(120deg, #020a12, #0c0b19);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 12rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 5rem 6rem;
+    padding: 2rem 6rem;
   }
 }
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
-    padding: 3rem 4rem;
+    padding: 2rem 4rem;
   }
 }
 @media screen and (max-width: 42em) {
@@ -720,6 +667,10 @@ a:hover {
 
 .main-content {
   word-wrap: break-word;
+  display: grid;
+  gap: 0rem;
+  align-items: start;
+  padding: 2rem 0rem;
 }
 .main-content :first-child {
   margin-top: 0;
@@ -727,20 +678,20 @@ a:hover {
 @media screen and (min-width: 64em) {
   .main-content {
     max-width: 65rem;
-    padding: 2rem 6rem;
+    padding: 2rem 0rem;
     margin: 0 auto;
     font-size: 1.1rem;
   }
 }
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .main-content {
-    padding: 2rem 4rem;
+    padding: 2rem 0rem;
     font-size: 1.1rem;
   }
 }
 @media screen and (max-width: 42em) {
   .main-content {
-    padding: 2rem 1rem;
+    padding: 2rem 0rem;
     font-size: 1rem;
   }
 }
@@ -762,10 +713,7 @@ a:hover {
 }
 .main-content h1,
 .main-content h2,
-.main-content h3,
-.main-content h4,
-.main-content h5,
-.main-content h6 {
+.main-content h3 {
   margin-top: 2rem;
   margin-bottom: 0.5rem;
   font-weight: normal;
@@ -897,6 +845,7 @@ a:hover {
   margin-top: 2rem;
   border-top: solid 1px #eff0f1;
 }
+
 @media screen and (min-width: 64em) {
   .site-footer {
     font-size: 1rem;
@@ -915,47 +864,6 @@ a:hover {
 
 /* Merged from customisations.scss */
 
-$font-colour: #222;
-$link-colour: #1e6bb8;
-$selected-colour: #154899;
-
-* {
-    font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
-    color: $font-colour;
-    font-size: large;
-    font-weight: 400;
-}
-
-h1 {
-    font-size: 1.8rem !important;
-    font-weight: 600 !important;
-    color: $selected-colour !important;
-}
-
-h2 {
-    font-size: 1.6rem !important;
-    margin-top: 1.5rem !important;
-    font-weight: 500 !important;
-    color: $selected-colour !important;
-}
-
-h3 {
-    font-size: 1.4rem !important;
-    margin-top: 1.4rem !important;
-    font-weight: 500 !important;
-}
-
-h4 {
-    font-size: 1.2rem !important;
-    margin-top: 1.3rem !important;
-    font-weight: 500 !important;
-    color: $selected-colour !important;
-}
-
-a {
-    font-weight: 500 !important;
-}
-
 h3 a {
     font-size: 1.4rem !important;
     font-weight: 500 !important;
@@ -970,18 +878,6 @@ h3 a {
     padding-bottom: 15px !important;
     border-bottom: 5px solid $selected-colour;
     font-weight: 600 !important;
-}
-
-.page-header {
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    height: 12rem;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: left;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
 }
 
 .header-content {
@@ -2014,13 +1910,6 @@ button:hover {
     }
 }
 
-.main-content {
-    display: grid;
-    gap: 1rem;
-    align-items: start;
-    padding: 2rem 0rem;
-}
-
 .page-sidebar {
     display: grid;
     gap: 1rem;
@@ -2131,6 +2020,3 @@ button:hover {
         display: none;
     }
 }
-
-/*# sourceMappingURL=style.css.map */
-
