@@ -46,7 +46,7 @@ I just hate the idea of not getting to properly meet my son, or help care for hi
 
 Once the baby is born, I am expected to leave. Visitors (including partners) are no longer allowed on the recovery ward, which means that, even if all goes well, m'wife is facing the prospect of multiple nights in hospital without any visitors. I'm less concerned with that as, on the bright side, I would be able to rest and get stuff ready in the house before they come home (assuming I can get any sleep at all when my wife and newborn son are still in hospital!). As long as I can be there for labour, the birth and a few hours of aftercare, I think we'll be happy.
 
-#### In Isolation
+### In Isolation
 
 Then, when they do return home, we will be raising the baby alone, without any visitors or support from our friends and family for several weeks (or more), on top of the prospect of an even tighter lockdown in the near future. Looking after a newborn is widely regarded as one of the most difficult things you can do, and that's with assorted grandparents, cousins and mad 'aunts' coming round to help. And, as if that wasn't bad enough, health visitors and midwives are minimising physical contact too.
 

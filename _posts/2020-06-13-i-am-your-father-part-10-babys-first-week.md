@@ -71,7 +71,7 @@ On the bright side, at least we haven't had a constant stream of people coming r
 
 I wrote down a few "Quotes of the Day" that exemplify what life's been like. Here are a few highlights from that first week:
 
-#### Day 5
+### Day 5
 
 M'wife: "He's just eaten for two hours straight."
 Me: "That's my boy!"
@@ -80,7 +80,7 @@ Me: "That's my boy!"
 
 *[He grizzles for a bit, then finally seems to be drifting off. But then, just when he seems to be finally asleep, he stirs again.]* "It's the hope that kills you," she says.
 
-#### Day 7
+### Day 7
 
 "For the first time since I've known her, my wife has failed to finish a cup of tea." *[Apparently, hot meals/drinks are not really a thing anymore, especially for the mother!]*
 
