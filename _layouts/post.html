@@ -48,7 +48,7 @@ layout: default
   {{ content }}
 </div>
 
-{% assign visible_posts = site.posts | where_exp: "post", "post.draft != true" %}
+{% assign visible_posts = site.posts | where_exp: "post", "post.draft != true and post.hidden != true" %}
 {% for post in visible_posts %}
   {% if post.url == page.url %}
   	{% assign pOffset = forloop.index0 | minus: 1 %}
