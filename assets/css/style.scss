@@ -1044,6 +1044,19 @@ iframe {
     aspect-ratio: 16 / 9;
 }
 
+  /* Google Forms are long documents, not videos: disable the global 16:9 sizing. */
+  .google-form-embed {
+    width: min(100%, 760px);
+    height: 1400px;
+    aspect-ratio: auto;
+  }
+
+  @media only screen and (max-width: 640px) {
+    .google-form-embed {
+      height: 1600px;
+    }
+  }
+
 .post-preview {
     margin-top: 30px !important;
     margin-bottom: 0px;
@@ -2019,4 +2032,8 @@ button:hover {
     .page-sidebar {
         display: none;
     }
+}
+
+.sidebar-ad {
+  margin-top: 1rem;
 }
