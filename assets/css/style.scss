@@ -1047,13 +1047,13 @@ iframe {
   /* Google Forms are long documents, not videos: disable the global 16:9 sizing. */
   .google-form-embed {
     width: min(100%, 760px);
-    height: 1400px;
+    height: 1100px;
     aspect-ratio: auto;
   }
 
   @media only screen and (max-width: 640px) {
     .google-form-embed {
-      height: 1600px;
+      height: 1200px;
     }
   }
 
@@ -1082,7 +1082,7 @@ iframe {
     margin-right: auto;
     border: 2px solid lightblue;
   width: 35%;
-  height: 200px;
+  aspect-ratio: 7 / 4;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1115,22 +1115,33 @@ iframe {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 160px;
+    width: 180px;
     height: 50px;
     border-radius: 8px;
-    border: 1px solid transparent;
-    background-color: #d8eef5;
+    border: 1px solid #c9e4ee;
+    background: linear-gradient(180deg, #f7fbfd 0%, #e6f3f7 100%);
+    box-shadow: 0 12px 30px rgba(20, 60, 80, 0.08);
     color: $font-colour;
     text-decoration: none !important;
     font-size: 1rem;
-    font-weight: 700;
     line-height: 1;
     vertical-align: middle;
     padding: 0;
 }
 
+.fa-chevron-left {
+  margin-left: 0px;
+  margin-right: 10px;
+}
+
+.fa-chevron-right {
+  margin-left: 10px;
+  margin-right: 0px;
+}
+
 .pagination-control:hover {
-    background-color: rgb(142, 201, 221);
+  background: linear-gradient(180deg, #eff8fb 0%, #dceef5 100%);
+  box-shadow: 0 14px 32px rgba(20, 60, 80, 0.12);
     text-decoration: none !important;
 }
 
@@ -1140,11 +1151,15 @@ iframe {
 }
 
 .pagination-control.is-disabled {
-    border: none;
+  border: 1px solid #c9e4ee;
     background-color: #f6f8fa;
     color: #9aa6b2;
     cursor: not-allowed;
 }
+
+  .pagination-control.is-disabled i {
+    color: inherit;
+  }
 
 .blog-preview-image {
     object-fit: cover;
@@ -1201,7 +1216,6 @@ iframe {
 
     .blog-image{
         width: 100%;
-        height: auto;
     }
 
     .blog-excerpt {
@@ -1212,12 +1226,11 @@ iframe {
     }
 
     .blog-excerpt-content {
-        padding-bottom: 40px;
+        padding-bottom: 0px;
     }
 }
 
 .post-title {
-    float: left;
     font-size: larger;
     margin-top: 0px !important;
     margin-bottom: 0px !important;
@@ -1225,11 +1238,9 @@ iframe {
 }
 
 .post-date-wide {
-    float: right;
     margin-top: 0px !important;
     margin-bottom: 0px !important;
     padding-top: 7px;
-    height: 38px;
 }
 
 .post-date-mobile {
@@ -1242,8 +1253,20 @@ iframe {
 }
 
 .post-preview-header {
-    overflow: hidden;
+  display: grid;
+  grid-template-columns: minmax(0, 85%) minmax(104px, 15%);
+  column-gap: 16px;
     padding-bottom: 5px;
+}
+
+.post-preview-title-column,
+.post-preview-meta-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.post-preview-meta-column {
+  align-items: flex-end;
 }
 
 .author-card {
@@ -1267,7 +1290,7 @@ iframe {
 .author-name {
     margin-top: 10px;
     margin-bottom: 15px;
-    display: flex;
+    display: block;
 }
 
 .author-description {
@@ -1280,7 +1303,7 @@ iframe {
 }
 
 .word-count {
-    margin-left: auto;
+    margin-top: 10px;
 }
 
 .post-word-count {
@@ -1331,7 +1354,12 @@ iframe {
     }
 
     .post-preview-header {
+      grid-template-columns: minmax(0, 1fr);
         padding-bottom: 10px;
+    }
+
+    .post-preview-meta-column {
+      display: none !important;
     }
 
     .post-preview-image {
@@ -1348,10 +1376,6 @@ iframe {
 
     .post-details {
         display: block !important;
-    }
-
-    .date-icon {
-        margin-left: 20px;
     }
 
     .centered-image{
@@ -1782,6 +1806,43 @@ body.is-lightbox-open {
     font-weight: 600 !important;
 }
 
+.accordion {
+    margin-bottom: 15px;
+}
+
+.accordion-item {
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    padding: 10px 15px;
+}
+
+.accordion-item summary {
+    cursor: pointer;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: $link-colour;
+    list-style: none;
+}
+
+.accordion-item summary::-webkit-details-marker {
+    display: none;
+}
+
+.accordion-item summary::before {
+    content: "+ ";
+    font-weight: bold;
+}
+
+.accordion-item[open] summary::before {
+    content: "- ";
+}
+
+.accordion-item p {
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
 .button-container {
     text-align: center;
     width: 100%
@@ -1944,6 +2005,10 @@ button:hover {
     background: linear-gradient(180deg, #f7fbfd 0%, #e6f3f7 100%);
     border: 1px solid #c9e4ee;
     box-shadow: 0 12px 30px rgba(20, 60, 80, 0.08);
+}
+
+.sidebar-profile-image {
+  border-radius: 10px;
 }
 
 .sidebar-card h2 {

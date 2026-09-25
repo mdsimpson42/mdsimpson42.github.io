@@ -17,11 +17,13 @@ pagination:
   video games to mental health to fatherhood.
 </p>
 <p>
-  <em>These thoughts are my own and not all content is 100% safe for work!</em>
+  Check out the categories, listed in the sidebar, or view the latest posts below.
 </p>
-<hr>
+<p>
+  <em>Please note: My thoughts are my own and not all content is 100% safe for work!</em>
+</p>
+<hr />
 <h2>Latest Posts</h2>
-<p>View the latest posts below. Click on a category or tag to filter the results.</p>
 {% assign visible_posts = paginator.posts | where_exp: "post", "post.draft != true and post.hidden != true" %}
 {% for post in visible_posts %}
   {% include post-preview.html %}
@@ -30,17 +32,17 @@ pagination:
 {% if paginator.total_pages > 1 %}
 <nav class="pagination" aria-label="Blog pagination">
   {% if paginator.next_page_path %}
-    <a class="pagination-control" href="{{ paginator.next_page_path | prepend: site.baseurl }}" aria-label="Older posts" title="Older posts">&larr; Older Posts</a>
+    <a class="pagination-control" href="{{ paginator.next_page_path | prepend: site.baseurl }}" aria-label="Older posts" title="Older posts"><i class="fas fa-chevron-left"></i>Older Posts</a>
   {% else %}
-    <span class="pagination-control is-disabled" aria-disabled="true" title="Older posts">&larr; Older Posts</span>
+    <span class="pagination-control is-disabled" aria-disabled="true" title="Older posts"><i class="fas fa-chevron-left"></i>Older Posts</span>
   {% endif %}
 
   <span class="pagination-status"></span>
 
   {% if paginator.previous_page_path %}
-    <a class="pagination-control" href="{{ paginator.previous_page_path | prepend: site.baseurl }}" aria-label="Newer posts" title="Newer posts">Newer Posts &rarr;</a>
+    <a class="pagination-control" href="{{ paginator.previous_page_path | prepend: site.baseurl }}" aria-label="Newer posts" title="Newer posts">Newer Posts<i class="fas fa-chevron-right"></i></a>
   {% else %}
-    <span class="pagination-control is-disabled" aria-disabled="true" title="Newer posts">Newer Posts &rarr;</span>
+    <span class="pagination-control is-disabled" aria-disabled="true" title="Newer posts">Newer Posts<i class="fas fa-chevron-right"></i></span>
   {% endif %}
 </nav>
 {% endif %}
