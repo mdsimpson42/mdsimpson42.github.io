@@ -35,6 +35,11 @@ defaults:
       path: ""
     values:
       layout: "default"
+  - scope:
+      path: "i-am-your-father.html"
+      type: "pages"
+    values:
+      layout: null
 plugins:
   - jekyll-feed
   - jekyll-sitemap
