@@ -1782,6 +1782,43 @@ body.is-lightbox-open {
     font-weight: 600 !important;
 }
 
+.accordion {
+    margin-bottom: 15px;
+}
+
+.accordion-item {
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    padding: 10px 15px;
+}
+
+.accordion-item summary {
+    cursor: pointer;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: $link-colour;
+    list-style: none;
+}
+
+.accordion-item summary::-webkit-details-marker {
+    display: none;
+}
+
+.accordion-item summary::before {
+    content: "+ ";
+    font-weight: bold;
+}
+
+.accordion-item[open] summary::before {
+    content: "- ";
+}
+
+.accordion-item p {
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
 .button-container {
     text-align: center;
     width: 100%
@@ -1944,6 +1981,10 @@ button:hover {
     background: linear-gradient(180deg, #f7fbfd 0%, #e6f3f7 100%);
     border: 1px solid #c9e4ee;
     box-shadow: 0 12px 30px rgba(20, 60, 80, 0.08);
+}
+
+.sidebar-profile-image {
+  border-radius: 10px;
 }
 
 .sidebar-card h2 {
