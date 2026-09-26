@@ -5,7 +5,7 @@
   <a href="https://linktr.ee/mdsimpson" target="_blank" rel="noopener noreferrer">My Linktree</a>
 </div>
 
-{% if page.collection == "posts" or page.url == "/blog" or page.url == "/blog/" or paginator %}
+{% if page.collection == "posts" or page.url == "/blog" or page.url == "/blog/" or page.url contains "/categories/" or paginator %}
 <div class="sidebar-card">
   <p class="sidebar-card-label">Categories</p>
   <ul class="sidebar-link-list">
