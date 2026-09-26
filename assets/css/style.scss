@@ -1115,7 +1115,6 @@ iframe {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 180px;
     height: 50px;
     border-radius: 8px;
     border: 1px solid #c9e4ee;
@@ -1126,7 +1125,7 @@ iframe {
     font-size: 1rem;
     line-height: 1;
     vertical-align: middle;
-    padding: 0;
+    padding: 0px 20px;
 }
 
 .fa-chevron-left {
@@ -1228,6 +1227,12 @@ iframe {
     .blog-excerpt-content {
         padding-bottom: 0px;
     }
+
+    .pagination-control,
+    .pagination-control i {
+      font-size: small;
+    }
+
 }
 
 .post-title {
