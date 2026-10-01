@@ -14,6 +14,7 @@ tags:
   - fatherhood
   - parenting
   - pregnancy
+menu: blog
 ---
 
 *22nd January 2020*

@@ -12,6 +12,7 @@ tags:
 image:
   path: /assets/img/blog/bbyblog-1-9c8c18c072.jpg
   alt: "I Am Your Father - Part 10: Baby's First Week"
+menu: blog
 ---
 
 *Originally written: 27th April 2020*

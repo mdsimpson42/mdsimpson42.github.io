@@ -10,6 +10,7 @@ categories:
 tags:
   - retrospective
   - video_games
+menu: blog
 ---
 
 I used to really enjoy playing the Worms games when I was younger, but I feel that the franchise has become somewhat stale in recent years. Last year they brought out a new instalment: *Worms Revolution*, that finally tried out some new ideas, but it didn't quite manage to renew my enthusiasm. I thought I would look back the series and see what it was that I liked and didn't like, and perhaps suggest where there series could go from here...

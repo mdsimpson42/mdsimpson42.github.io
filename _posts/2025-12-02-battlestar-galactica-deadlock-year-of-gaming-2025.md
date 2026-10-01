@@ -8,6 +8,7 @@ categories:
 image:
   path: /assets/img/blog/Clipboard_11-09-2025_01-9b0809b2de.jpg
   alt: "Battlestar Galactica: Deadlock - Year of Gaming 2025"
+menu: blog
 ---
 
 I had a few things lined up on my to-do list, but I wanted to try something a bit different from the other games I've been playing recently. And so, I started playing *Battlestar Galactica: Deadlock.*

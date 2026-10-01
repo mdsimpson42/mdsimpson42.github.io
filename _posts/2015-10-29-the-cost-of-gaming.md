@@ -8,6 +8,7 @@ image:
 categories:
   - video-games
 tags:
+menu: blog
 ---
 
 So, apparently Assassin's Creed Syndicate "isn't that bad" - which is a great improvement over recent entries in the franchise at least, but that's a rant for another time - and I have to admit that the idea of climbing around the rooftops of Victorian London has a certain appeal.

@@ -12,6 +12,7 @@ tags:
 image:
   path: /assets/img/blog/PXL_20211120_152731685-2ce0e6f9b8.jpg
   alt: "I Am Your Father - Part 17: Baby's First Christmas"
+menu: blog
 ---
 
 *December 28th 2020*

@@ -8,6 +8,7 @@ categories:
 image:
   path: /assets/img/blog/Never_Alone_Kisima_Ingitchuna-Main-Indie_Game-f8ed481703.png
   alt: "Never Alone (Kisima Ingitchuna) - Year of Gaming 2025"
+menu: blog
 ---
 
 The game I've been playing for March is an atmospheric puzzle platformer based on a traditional native Alaskan story. It's called *Never Alone (Kisima Ingitchuna),* and I remember that it immediately intrigued me, but - for no good reason - it's been on my Steam backlog for years. So, I thought it was time to finally give it a go.

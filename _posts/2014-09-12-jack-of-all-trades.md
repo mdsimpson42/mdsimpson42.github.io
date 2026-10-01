@@ -7,6 +7,7 @@ categories:
 image:
   path: /assets/img/blog/Cc_kane_shot-90d7fb8e68.jpg
   alt: "Jack of all Trades"
+menu: blog
 ---
 
 So, *Destiny* is out and I'm hearing a lot of buzz saying that it has elements from *Halo*, *Borderlands*, *World of Warcraft* and many other different game genres all rolled into one, and that it is not necessarily succeeding at emulating all of them. As someone who wasn't a fan of the *Halo* series, I am not particularly interested in *Destiny*, but all this talk of all-in-one games has got me thinking...

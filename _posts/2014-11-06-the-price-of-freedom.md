@@ -7,6 +7,7 @@ categories:
 image:
   path: /assets/img/blog/Anti-Villain_League-d9e7b14d46.jpg
   alt: "The Price of Freedom"
+menu: blog
 ---
 
 I occasionally delve in to the world of Free-to-Play games (and have ranted on the subject before), but here's a question: how much are you prepared to spend on a 'free' game?

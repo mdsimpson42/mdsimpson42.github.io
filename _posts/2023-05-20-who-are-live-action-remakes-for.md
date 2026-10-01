@@ -7,6 +7,7 @@ categories:
 image:
   path: /assets/img/blog/ab67616d0000b27391eee92ba7620a88de647ade-41ff1b7ef2.jpg
   alt: "Who are Live Action Remakes for?"
+menu: blog
 ---
 
 I won't be going to watch the remake of *The Little Mermaid*, but not for the reason you might think.

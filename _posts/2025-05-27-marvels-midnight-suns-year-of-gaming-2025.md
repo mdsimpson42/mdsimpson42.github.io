@@ -8,6 +8,7 @@ categories:
 image:
   path: /assets/img/blog/LNbHEfP0e1ugSlfmfYGHFi3a-e1748034953978-7bc586600e.jpg
   alt: "Marvel's Midnight Suns - Year of Gaming 2025"
+menu: blog
 ---
 
 As a massive fan of the rebooted XCOM games, you'd think I would have bought *Midnight Suns* as soon as it was released. But, mainly due to its deck-building elements, I was hesitant. I eventually acquired it last year, and now, as part of my Year of Gaming, I finally got round to playing it.

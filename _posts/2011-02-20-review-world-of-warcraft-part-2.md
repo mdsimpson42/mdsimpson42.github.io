@@ -11,6 +11,7 @@ tags:
   - reviews
   - video-games
 hidden: true
+menu: blog
 ---
 
 What follows is part 2 of my review of Blizzard's online phenomenon

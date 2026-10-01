@@ -9,6 +9,7 @@ categories:
   - video-games
 tags:
   - video_games
+menu: blog
 ---
 
 I have spent a lot of the last few weeks trying out some of the 'free-to-play' games that are now available on Steam. I'd like to share some of my ideas and opinions about these....

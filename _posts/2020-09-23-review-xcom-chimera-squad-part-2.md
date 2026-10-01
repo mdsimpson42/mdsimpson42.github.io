@@ -11,6 +11,7 @@ image:
   path: /assets/img/blog/20200810132104_1-5868a066ef.jpg
   alt: "Review - XCOM: Chimera Squad (Part 2)"
 hidden: true
+menu: blog
 ---
 
 In [part 1 of my review of XCOM: Chimera Squad](/2020/09/review-xcom-chimera-squad-part-1/), I talked about my experience of playing the game to completion for the first time and looked at the general strokes of how the game was different to its predecessors. In this version, I want to focus more on the actual mechanics of the game.

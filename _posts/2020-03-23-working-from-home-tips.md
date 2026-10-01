@@ -9,6 +9,7 @@ image:
 categories:
   - mental-health
   - miscellaneous
+menu: blog
 ---
 
 A lot of you will have started working from home as the coronavirus pandemic continues and many of you won't have had to do this before and may not be used to it. It takes some time to adapt and to find a balance of happiness and productivity, but it can be done.

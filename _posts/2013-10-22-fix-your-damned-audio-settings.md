@@ -10,6 +10,7 @@ categories:
 tags:
   - game_design
   - video_games
+menu: blog
 ---
 
 This is a rant about something that has been getting on my nerves a lot recently; the fact that that developers (and not just indies, but big 'triple-A' studios too) seem to be happy to release a game without seemingly any effort going into the game's sound design and/or without proper audio settings. Good sound design can tell you a lot about the game world and improve immersion for the player, but not everyone gets this right.

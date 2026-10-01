@@ -7,6 +7,7 @@ image:
   alt: "From a certain point of view..."
 categories:
   - video-games
+menu: blog
 ---
 
 I've talked a lot recently about personal taste and opinion. In '[Can't we all just get along](http://mdsimpson.co.uk/cant-we-all-just-get-along/)', for example, I talk about how people seem to confuse personal preference with quality. Thinking along similar lines, I've also been wondering whether traditional video game reviews are actually a good idea...

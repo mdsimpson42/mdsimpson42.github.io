@@ -9,6 +9,7 @@ categories:
   - video-games
 tags:
   - video_games
+menu: blog
 ---
 
 This week marks E3 2013, one of the year's biggest gaming conferences, which included more information about what we can expect to see from the industry in the next year-or-so. With all of this going on, I thought I would sound off about some of these announcements and ask quite an important question: do we really want or need a new console generation?

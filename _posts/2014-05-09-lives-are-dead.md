@@ -7,6 +7,7 @@ image:
   alt: "Lives are Dead!"
 categories:
   - video-games
+menu: blog
 ---
 
 Remember lives in games? Of course you do! Remember how they stopped using them when arcades stopped being popular and we no longer had to insert coins to play games? No, neither do I, and I cannot understand why...

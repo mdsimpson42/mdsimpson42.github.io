@@ -7,6 +7,7 @@ image:
   alt: "A New Direction..."
 categories:
   - miscellaneous
+menu: blog
 ---
 
 I haven't posted on here for a while now. I used to write a lot about gaming, as that was my main hobby and chosen profession, but now I have a new job (and have left the games industry), which means I can't keep up with the latest titles and write full reviews (not that I was ever much good at doing that anyway!).

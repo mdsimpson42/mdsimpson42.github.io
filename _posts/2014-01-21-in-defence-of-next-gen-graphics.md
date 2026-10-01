@@ -11,6 +11,7 @@ categories:
 tags:
   - game_design
   - video_games
+menu: blog
 ---
 
 Quite a lot of people are attacking the next-gen gaming consoles because 'the only tangible improvements that they will make to games is to the graphics'. I have said before that the launch of these new consoles is badly timed and I do not own either because I don't feel it is a justified expense, but I also think that people are being a bit harsh about how little improvements in graphics (and processing power) will matter...

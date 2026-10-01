@@ -9,6 +9,7 @@ categories:
   - video-games
 tags:
   - video_games
+menu: blog
 ---
 
 One of the things that really annoys me about working in the games industry is the stupid questions people keep asking me, and all the media nonsense that accompanies the release of many games. Whenever a new game that includes any amount of sex or violence, people go out all over the media and they always scream 'think of the kids'

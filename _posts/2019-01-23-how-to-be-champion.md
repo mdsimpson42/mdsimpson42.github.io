@@ -15,6 +15,7 @@ tags:
 image:
   path: /assets/img/blog/sarah-millican-da1a8510ba.jpg
   alt: "How to be Champion"
+menu: blog
 ---
 
 One of the things that I wanted to talk about on this blog is mental health. Specifically, I want to share my own experiences and some of the things that helped me with my recovery and continue to help me to be in my day-to-day life. In this post, I want to talk about one handy piece of advice from British comedian Sarah Millican...

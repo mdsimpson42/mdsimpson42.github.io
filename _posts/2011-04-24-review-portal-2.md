@@ -10,6 +10,7 @@ categories:
 tags:
   - reviews
   - video_games
+menu: blog
 ---
 
 The original Portal was basically a tech demo, included as a bonus alongside other titles in the Orange Box. And that was all it needed to be. However, it turned out to be full of dark humour and featured a computer that is one of the greatest villains/characters in any video game... ever!

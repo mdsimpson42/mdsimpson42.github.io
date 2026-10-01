@@ -7,6 +7,7 @@ categories:
 image:
   path: /assets/img/blog/c4t-1dcd9dceb6.jpg
   alt: "ByteSized RSE: Project Management with GitHub"
+menu: blog
 ---
 
 I recently appeared on an episode of Peter Schmidt's excellent *Code4Thought* podcast, where I was part of a conversation around GitHub tools to help manage a large research software project.

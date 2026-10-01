@@ -12,6 +12,7 @@ tags:
 image:
   path: /assets/img/blog/logo_name-4-fbaf05950e.jpg
   alt: "Writing 'The Journey'"
+menu: blog
 ---
 
 I recently submitted a story called 'The Journey' to an online competition. As it was Mental Health Awareness Week recently - and the competition was run by [Mind, the mental health charity](https://www.mind.org.uk/) - I wanted to talk a bit about the story and how I came to write it.

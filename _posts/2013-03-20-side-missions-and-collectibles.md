@@ -9,6 +9,7 @@ categories:
   - video-games
 tags:
   - video_games
+menu: blog
 ---
 
 Lots of video games these days feature some sort of open world, or at least places that you can explore for hidden rewards and the occasional side story. Only a few games, however, seem to integrate these mechanisms properly into the wider game. So, I thought that for my latest rant I would talk about these often arbitrary and pointless features and about one of the few games I can think of that makes good use of them.

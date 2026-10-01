@@ -10,6 +10,7 @@ categories:
 tags:
   - reviews
   - video_games
+menu: blog
 ---
 
 Just to be clear, I'm talking about the 2013 reboot/origin story 'Tomb Raider', not the 1996 game! I realise that doing this is something of a trend at the minute, but quite why they couldn't have called it 'Tomb Raider: Origins' or 'Tomb Raider: The Dragon's Triangle' or something is beyond me. Anyway, I have just completed the new game on the Xbox 360 and thought I would offer my opinions...

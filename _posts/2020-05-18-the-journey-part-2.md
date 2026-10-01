@@ -15,6 +15,7 @@ tags:
   - short_story
   - writing
 hidden: true
+menu: blog
 ---
 
 *Continued from [Part 1](/2020/05/the-journey).*

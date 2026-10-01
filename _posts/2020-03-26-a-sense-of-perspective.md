@@ -7,6 +7,7 @@ image:
   alt: "A Sense of Perspective"
 categories:
   - miscellaneous
+menu: blog
 ---
 
 Now seems like as good a time as any to discuss a key realisation that has helped me to make sense of the world. I've noticed that people don't always seem to distinguish between 'The General' and 'The Specific'. So what? Well, it can be an important distinction. Let me try to explain.

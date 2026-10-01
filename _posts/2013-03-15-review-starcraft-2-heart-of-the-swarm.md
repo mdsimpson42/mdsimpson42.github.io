@@ -10,6 +10,7 @@ categories:
 tags:
   - reviews
   - video_games
+menu: blog
 ---
 
 It's been nearly three years since *Starcraft 2 - Wings of Liberty* was finally released. It was the sequel to a game that is one of the best-selling and most critically-acclaimed strategy games of all time and a personal favourite of mine. It was also a sequel that, itself, was released a whole 12 years after the original game. Blizzard certainly like to take their sweet time with these things, but it is usually worth the wait. The first part of the Starcraft 2 trilogy more-or-less lived up to the hype for most, but does part 2 do the same?

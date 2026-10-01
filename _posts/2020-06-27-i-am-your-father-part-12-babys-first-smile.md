@@ -12,6 +12,7 @@ tags:
 image:
   path: /assets/img/blog/IMG_20200606_103455-0cd09a3776.jpg
   alt: "I Am Your Father - Part 12: Baby's First Smile"
+menu: blog
 ---
 
 *Originally written: 18th May 2020*

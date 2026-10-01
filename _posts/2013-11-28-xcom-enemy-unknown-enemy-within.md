@@ -10,6 +10,7 @@ tags:
 image:
   path: /assets/img/blog/XCOM-1-1024x576-f80f2fe729.jpg
   alt: "XCOM: Enemy Unknown & Enemy Within"
+menu: blog
 ---
 
 Last year saw the release of XCOM: Enemy Unknown, a sequel to a popular gaming franchise from the creators of Civilisation. I didn't expect to become a fan of this game, but (as with Civilisation) I ended up getting sucked in. This month sees the release of the game's expansion: Enemy Within, so I thought now was a good time to take a closer look at this game...

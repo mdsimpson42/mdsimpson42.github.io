@@ -15,6 +15,7 @@ tags:
 image:
   path: /assets/img/blog/insomnia-upload-0d49e4720c.jpg
   alt: "Let's Talk About... Sleep and Insomnia"
+menu: blog
 ---
 
 So, this is the first entry in what I'm calling ["Let's Talk About..."](/categories/mental-health/lets-talk-about/), which is based on my personal battle with mental health problems, my notes from therapy and my own research/experience of trying to live a happier life.

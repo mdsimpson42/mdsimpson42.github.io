@@ -12,6 +12,7 @@ tags:
 image:
   path: /assets/img/blog/blog16-a2b9b6f93e.jpg
   alt: "I Am Your Father - Part 16: Baby's First Big Bath"
+menu: blog
 ---
 
 *15th November 2020*

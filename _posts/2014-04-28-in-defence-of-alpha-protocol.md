@@ -9,6 +9,7 @@ categories:
   - game-reviews
   - in-defence-of
   - video-games
+menu: blog
 ---
 
 I want to talk about a game I've been playing recently, but which wasn't well-received at the time. This allows me to continue my recent 'In Defence of...' series and write a game review at the same time. Who ever said men can't multi-task!

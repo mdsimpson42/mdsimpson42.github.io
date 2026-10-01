@@ -8,6 +8,7 @@ categories:
 image:
   path: /assets/img/blog/d43c37531eebd656aba2bbf4ce2b4af7aed4507bf9bb3a7c-14614d8819.jpg
   alt: "Hi-Fi Rush - Year of Gaming 2025"
+menu: blog
 ---
 
 My 'new' game for June is the indie smash hit Hi-Fi Rush. It's been a rocky few years for the studio, but I'd heard nothing but good things about the game itself. So, does it live up to the hype?

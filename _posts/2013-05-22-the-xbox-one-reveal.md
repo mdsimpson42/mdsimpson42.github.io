@@ -10,6 +10,7 @@ categories:
   - video-games
 tags:
   - video_games
+menu: blog
 ---
 
 Well, Microsoft has finally unveiled their next games console: the XBOX ONE (which has already earned various nicknames, perhaps the most flattering of which is the X-Bone). The pretentiously named console, which resembles the monolith from the movie 2001, was revealed at a Microsoft press conference yesterday. I thought I'd throw my opinions into the ring and comment on the general reaction of the internet so far.

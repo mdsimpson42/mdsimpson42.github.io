@@ -7,6 +7,7 @@ image:
   alt: "On the topic of game reviews..."
 categories:
   - video-games
+menu: blog
 ---
 
 In [my last blog](http://mdsimpson.co.uk/from-a-certain-point-of-view/) I talked a bit about game reviews and how they might be improved so that they don't just represent the opinions of one individual, with whom the reader may or may not agree. This time I wanted to continue to discuss how gaming journalism needs to evolve to reflect the modern video games industry...

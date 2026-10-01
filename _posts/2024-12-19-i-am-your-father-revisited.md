@@ -12,6 +12,7 @@ tags:
 image:
   path: /assets/img/blog/I-Am-Your-Father-1024x576-49a2823080.jpg
   alt: "I Am Your Father - Revisited"
+menu: blog
 ---
 
 A quick update on the '[I Am Your Father](/categories/i-am-your-father/)' blog - the story of how I became a father in lockdown - and some of my future plans...

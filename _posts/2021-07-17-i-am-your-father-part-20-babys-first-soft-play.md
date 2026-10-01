@@ -12,6 +12,7 @@ tags:
 image:
   path: /assets/img/blog/PXL_20210515_135129704-020c82e18f.jpg
   alt: "I Am Your Father - Part 20: Baby's First Soft Play"
+menu: blog
 ---
 
 *17th July 2020  

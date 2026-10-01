@@ -13,6 +13,7 @@ tags:
 image:
   path: /assets/img/blog/IMG_20200318_162841x-1024x313-bf2b958ba7.jpg
   alt: "I Am Your Father - Part 6: The Final Countdown"
+menu: blog
 ---
 
 *19th March 2020*

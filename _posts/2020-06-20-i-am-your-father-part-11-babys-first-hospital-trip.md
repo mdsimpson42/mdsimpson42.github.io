@@ -12,6 +12,7 @@ tags:
 image:
   path: /assets/img/blog/baby-blog-02-5ce33e9672.jpg
   alt: "I Am Your Father - Part 11: Baby's First Hospital Trip"
+menu: blog
 ---
 
 *Originally written: 6th May 2020*

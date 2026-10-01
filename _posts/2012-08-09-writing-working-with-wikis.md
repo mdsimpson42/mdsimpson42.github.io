@@ -10,6 +10,7 @@ categories:
 tags:
   - tips
   - writing
+menu: blog
 ---
 
 As part of the process of creating the world for my story, I was working on a mini-website called the Databank, which contained information about the characters and the world. This seemed like a good idea at the time, but it was difficult to maintain and ultimately fell by the wayside. However, I recently returned to the idea and explored a different solution that has been incredibly helpful to me, so I thought I would share it with you.

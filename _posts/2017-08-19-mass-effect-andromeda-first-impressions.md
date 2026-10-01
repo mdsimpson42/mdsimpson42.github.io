@@ -11,6 +11,7 @@ tags:
   - game_design
   - reviews
   - video_games
+menu: blog
 ---
 
 Bioware's controversial Mass Effect sequel released a few months ago. They got a serious - and possibly well-deserved - slating from critics and gamers alike for releasing an "unfinished" game, full of bugs and animation problems. I actually cancelled my pre-order as a result of the media sh*t-storm, which is something that I never thought I would do with a Bioware game!

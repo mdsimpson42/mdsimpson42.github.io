@@ -9,6 +9,7 @@ categories:
   - video-games
 tags:
   - video_games
+menu: blog
 ---
 
 As I've already discussed, I am quite happy with the Free-to-Play game concept - where you can create an account, download and play a game for free, but you can buy extra stuff via in-game purchases. The best free-to-play games give unrestricted access to all features, with the upgrades being mostly cosmetic or for convenience. But this week I want to look, not at the concept itself, but at how developers should be handling these so-called micro-transactions and how much they should be charging for these extra services. 
