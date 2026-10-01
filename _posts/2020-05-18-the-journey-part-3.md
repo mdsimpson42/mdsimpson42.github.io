@@ -19,7 +19,7 @@ hidden: true
 ---
 
 *Continued from [Part 2](/2020/05/the-journey-part-2/).  
-(The story begins in [Part 1](/2020/05/the-journey/).)*
+(The story begins in [Part 1](/2020/05/the-journey).)*
 
 - - - - - - - - - -
 
@@ -113,7 +113,7 @@ THE END
 
 ---
 
-*Learn more about how and why I wrote the story in [this blog post](http://mdsimpson.co.uk/2019/06/writing-the-journey/).*
+*Learn more about how and why I wrote the story in [this blog post](http://mdsimpson.co.uk/2019/06/writing-the-journey).*
 
 *More posts on [mental health](/categories/mental-health/).*
 

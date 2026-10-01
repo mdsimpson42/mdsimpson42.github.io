@@ -16,7 +16,7 @@ image:
 
 I recently submitted a story called 'The Journey' to an online competition. As it was Mental Health Awareness Week recently - and the competition was run by [Mind, the mental health charity](https://www.mind.org.uk/) - I wanted to talk a bit about the story and how I came to write it.
 
-EDIT: You can now read the story: [The Journey](/2020/05/the-journey/).
+EDIT: You can now read the story: [The Journey](/2020/05/the-journey).
 
 A couple of months ago, I got an email from Mind saying that they were running a short story competition on the subject of 'Journeys'. That was it; that was all the guidance we were given. Great creative freedom or a terrifying lack of direction, depending on your point of view!
 
@@ -26,7 +26,7 @@ I sat down and started to make some notes. I had some vague ideas about a charac
 
 ## The Journey
 
-[The Journey](/2020/05/the-journey/) is the story of David, who finds himself in a fantasy world that I'm sure people won't be surprised to discover is a dream (as well as a hopefully-not-too-clumsy metaphor!). His world comes crashing down around him and he finds himself lost in a desert, trying to get home. Along the way, he encounters several characters who give him advice and help him on his journey, as well as various demons that he must confront and defeat in order to complete his quest.
+[The Journey](/2020/05/the-journey) is the story of David, who finds himself in a fantasy world that I'm sure people won't be surprised to discover is a dream (as well as a hopefully-not-too-clumsy metaphor!). His world comes crashing down around him and he finds himself lost in a desert, trying to get home. Along the way, he encounters several characters who give him advice and help him on his journey, as well as various demons that he must confront and defeat in order to complete his quest.
 
 I will post a link to the full story once it is available, after the competition results have been announced.
 
@@ -50,6 +50,6 @@ Other elements are taken from common fantasy tropes/cliches. I wasn't able to 'w
 
 ## Final Thoughts
 
-So, that's the story behind '[The Journey](/2020/05/the-journey/)'. For obvious reasons, I am very anxious about putting this story out there. But, regardless of any success it may or may not have, I am glad that I've written it. It has been challenging, but it has also been therapeutic and has inspired me to write more about my experiences. I hope that some people will be able to empathise with at least some of it, but even if it only helps to draw a line under my experience - and maybe raise some awareness about mental health - then it will have been worth it.
+So, that's the story behind '[The Journey](/2020/05/the-journey)'. For obvious reasons, I am very anxious about putting this story out there. But, regardless of any success it may or may not have, I am glad that I've written it. It has been challenging, but it has also been therapeutic and has inspired me to write more about my experiences. I hope that some people will be able to empathise with at least some of it, but even if it only helps to draw a line under my experience - and maybe raise some awareness about mental health - then it will have been worth it.
 
 *If you are struggling with Mental Health Issues, then check out [Mind's website](https://www.mind.org.uk/). It was through them that I was pointed towards a CBT Therapist who helped me turn my life around, and for that, I am eternally grateful. What worked for me probably won't work for you, but there is a lot of information on there, as well as some good advice on where to get help and support.*
