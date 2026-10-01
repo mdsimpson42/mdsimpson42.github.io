@@ -17,7 +17,7 @@ tags:
 hidden: true
 ---
 
-*Continued from [Part 1](/2020/05/the-journey/).*
+*Continued from [Part 1](/2020/05/the-journey).*
 
 ---
 
