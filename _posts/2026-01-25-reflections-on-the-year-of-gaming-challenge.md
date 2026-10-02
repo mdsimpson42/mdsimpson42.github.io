@@ -8,6 +8,7 @@ categories:
 image:
   path: /assets/img/blog/yog25-d37eb3158a.jpg
   alt: "Reflections on the Year of Gaming Challenge"
+menu: blog
 ---
 
 Last year, I set myself a challenge: to play a game that I've never played before from my Steam Backlog every month. And I succeeded... sort of! I tried games and genres that I've never played before. But what did I learn from it? And would I recommend it?

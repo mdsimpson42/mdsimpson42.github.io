@@ -1,5 +1,4 @@
 ---
-
 title: "The Journey"
 date: 2020-05-18 21:52:23 +0000
 author: mike
@@ -15,6 +14,7 @@ tags:
   - mental_health
   - short_story
   - writing
+menu: blog
 ---
 
 Last year, I wrote a short story for a competition by [Mind](https://www.mind.org.uk/), the mental health charity. The story, 'The Journey', was shortlisted but didn't win any of the top prizes. Given that I wrote the story specifically for the competition, I didn't really know what else to do with it, so as it's currently Mental Health Awareness Week 2020, I thought I'd share it here. I've tweaked it only slightly and even had a go at illustrating some of it.

@@ -10,6 +10,7 @@ categories:
 tags:
   - reviews
   - video-games
+menu: blog
 ---
 
 Yes, ashamed as I am to admit it, I am guilty of effectively pissing away three years of my life playing Blizzard's hugely successful online role-playing game *World of Warcraft*

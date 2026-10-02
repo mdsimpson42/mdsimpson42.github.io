@@ -10,8 +10,9 @@ tags:
   - fatherhood
   - parenting
 image:
-  path: /assets/img/blog/I-Am-Your-Father-1024x576-49a2823080.jpg
+  path: /assets/img/blog/I-Am-Your-Father.jpg
   alt: "I Am Your Father - Revisited"
+menu: blog
 ---
 
 A quick update on the '[I Am Your Father](/categories/i-am-your-father/)' blog - the story of how I became a father in lockdown - and some of my future plans...
@@ -34,7 +35,7 @@ I've decided that I'm going to turn the blog into a book. It's actually an idea 
 
 The plan is to tell the story of how I became a father, starting from the night we found out that we were pregnant and going through to m'boy's first birthday. I'll talk about what it was like to look after a pregnant woman (in mostly normal circumstances), the buildup to - and aftermath of - the birth (and how the start of the pandemic affected it) and how we survived the first few months of learning to be new parents in lockdown.
 
-![Text reads: "I Am Your Father - My journey through pregnancy, parenthood and the pandemic" There are a series of photos, one is of a man holding his newborn son, another features a baby](/assets/img/blog/I-Am-Your-Father-1024x576-49a2823080.jpg)
+![Text reads: "I Am Your Father - My journey through pregnancy, parenthood and the pandemic" There are a series of photos, one is of a man holding his newborn son, another features a baby](/assets/img/blog/I-Am-Your-Father.jpg)
 
 As with the blog, I intend the book to be a frank, honest and light-hearted retelling of the story of how I became a dad, sprinkled with dark humour, the occasional word of wisdom and a whole lot of swearing. I will be including quotes from the blog, but it will mostly include new material, including untold stories and some hindsight that I've gained over the last four years. It will also include discussions of various mental health issues that many of us encounter in our everyday lives and that most of us encountered in one way or another during the pandemic. The tips and advice I share may not work for everyone, but if any of them can help even a single person not to have to go through what I went through, then it will be worth it.
 

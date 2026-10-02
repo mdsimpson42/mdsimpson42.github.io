@@ -12,6 +12,7 @@ categories:
 tags:
   - reviews
   - video_games
+menu: blog
 ---
 
 The Mass Effect Trilogy recently came to an end with, you guessed it, Mass Effect 3. It should be pointed out that it is one of my favourite game series of all time and that the final game was suitably epic and brilliant... but then there was the ending. Now, I'm going to try and avoid the same raging that most of the fans have been doing and offer a more constructive opinion. The free 'Extended Cut' DLC is now out and has improved the ending, but I would like to look at what exactly it was that was wrong with it in the first place.

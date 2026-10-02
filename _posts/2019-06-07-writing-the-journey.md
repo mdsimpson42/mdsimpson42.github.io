@@ -10,17 +10,20 @@ tags:
   - short_story
   - writing
 image:
-  path: /assets/img/blog/logo_name-4-fbaf05950e.jpg
+  path: /assets/img/blog/journey-logo.jpg
   alt: "Writing 'The Journey'"
+menu: blog
 ---
 
 I recently submitted a story called 'The Journey' to an online competition. As it was Mental Health Awareness Week recently - and the competition was run by [Mind, the mental health charity](https://www.mind.org.uk/) - I wanted to talk a bit about the story and how I came to write it.
 
-EDIT: You can now read the story: [The Journey](/2020/05/the-journey).
+---
+
+*EDIT: You can now read the story: [The Journey](/2020/05/the-journey).*
 
 A couple of months ago, I got an email from Mind saying that they were running a short story competition on the subject of 'Journeys'. That was it; that was all the guidance we were given. Great creative freedom or a terrifying lack of direction, depending on your point of view!
 
-![The Journey by M D Simpson](/assets/img/blog/logo_name-4-fbaf05950e.jpg)
+![The Journey by M D Simpson]({{page.image.path}})
 
 I sat down and started to make some notes. I had some vague ideas about a character going on a journey that in some way included (or was a metaphor for) a battle with mental health. It wasn't long before some of those ideas coalesced and once I started writing, the story just poured out. I wrote the whole thing in one weekend and had redrafted it to near-completion within a week.
 

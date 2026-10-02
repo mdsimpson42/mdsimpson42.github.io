@@ -7,6 +7,7 @@ categories:
 image:
   path: /assets/img/blog/image-fd38a14f2f.png
   alt: "Netflix and NO CHILL!"
+menu: blog
 ---
 
 My subscription will be expiring soon.

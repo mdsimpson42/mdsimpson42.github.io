@@ -10,6 +10,7 @@ tags:
 image:
   path: /assets/img/blog/SarahKerrigan_SC2_Head2-26f9ac804c.jpg
   alt: "Heart of the Swarm: The Leaked Ending"
+menu: blog
 ---
 
 I have an issue with the ending of *Starcraft 2: Heart of the Swarm*. It's apparently not as controversial as [the ending to Mass Effect](http://mdsimpson.co.uk/mass-effect-3-the-ending/), but the thing that bothers me is the same: it just doesn't quite make sense! Part of the problem is that I've seen an alternative ending that is actually much better...

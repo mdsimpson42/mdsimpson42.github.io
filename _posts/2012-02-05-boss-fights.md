@@ -9,6 +9,7 @@ categories:
   - video-games
 tags:
   - video_games
+menu: blog
 ---
 
 Boss fights are a common element of most games, but are something that I frequently find frustrating. I'd like to take a moment to look at some great (and truly terrible) boss fights to look at how they should be done.

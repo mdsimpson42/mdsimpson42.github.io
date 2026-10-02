@@ -4,11 +4,12 @@ title: "Working from Home: Tips"
 date: 2020-03-23 09:00:54 +0000
 author: mike
 image:
-  path: /assets/img/blog/mdsimpson.jpg
+  path: /assets/img/blog/wfh.jpg
   alt: "Working from Home: Tips"
 categories:
   - mental-health
   - miscellaneous
+menu: blog
 ---
 
 A lot of you will have started working from home as the coronavirus pandemic continues and many of you won't have had to do this before and may not be used to it. It takes some time to adapt and to find a balance of happiness and productivity, but it can be done.

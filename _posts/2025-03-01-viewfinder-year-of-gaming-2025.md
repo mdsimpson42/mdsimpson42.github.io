@@ -8,6 +8,7 @@ categories:
 image:
   path: /assets/img/blog/viewfinder-preview-header_feature-216b0ed199.jpg
   alt: "Viewfinder - Year of Gaming 2025"
+menu: blog
 ---
 
 The next game from my Steam backlog that I decided to try was *Viewfinder*, a first-person reality-bending puzzle game.

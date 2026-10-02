@@ -13,6 +13,7 @@ tags:
 image:
   path: /assets/img/blog/define-interesting-a99f88d49c.jpg
   alt: "I Am Your Father - Part 7: Well, F**k!"
+menu: blog
 ---
 
 *2nd April 2020*

@@ -11,15 +11,16 @@ tags:
   - mental_health
   - writing
 image:
-  path: /assets/img/blog/Presentation2-1024x427-0378d6f23e.jpg
+  path: /assets/img/blog/writing.jpg
   alt: "How Writing Saved My Life"
+menu: blog
 ---
 
 I’ve always been a big reader and have often dreamed about becoming a writer, but I never imagined that writing would one day save my life.
 
 Okay, perhaps that’s a little melodramatic, but it is definitely true that writing about my experiences enabled me to process what I’d been through and allowed me to finally recover after years of struggling with depression, anxiety and insomnia.
 
-![How Writing Saved My Life](/assets/img/blog/Presentation2-1024x427-0378d6f23e.jpg)
+![How Writing Saved My Life](/assets/img/blog/writing.jpg)
 
 *This blog was originally written for [Mind, the Mental Health Charity](https://www.mind.org.uk/). They never got back to me, but I'd already written it, so I thought I'd share it here.*
 

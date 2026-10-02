@@ -9,6 +9,7 @@ tags:
 image:
   path: /assets/img/blog/88-1-1401060296-72d905d201.jpg
   alt: "XCOM: The Long War - Review"
+menu: blog
 ---
 
 I am a huge fan of XCOM: Enemy Unknown and with XCOM 2 due to launch on February 5th, I wanted to play this modern classic again, but there's a problem; after multiple playthroughs, the replay value of the game has greatly diminished.

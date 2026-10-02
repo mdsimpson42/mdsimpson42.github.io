@@ -7,6 +7,7 @@ categories:
 image:
   path: /assets/img/blog/Doctorwho_50th-anniversary_thumbnail_02-8cc1a5fd7e.jpg
   alt: "David Tennant is my favourite Doctor Who, but he is not 'the best' Doctor Who."
+menu: blog
 ---
 
 This may seem like a pretty frivolous thing to say, but I actually have a point to make about the way that we use language and why it matters.

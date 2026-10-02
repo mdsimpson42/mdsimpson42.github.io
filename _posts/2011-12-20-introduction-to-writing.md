@@ -9,6 +9,7 @@ categories:
   - writing
 tags:
   - writing
+menu: blog
 ---
 
 OK, this blog entry is a bit different. I thought I would share some of my experience of attempting to write a series of novels and short stories. I will probably write a few entries on this subject every-so-often with updates on my progress, but for now I'd like to share some of my experiences, resources I've found useful and some of the key things I've learnt along the way.

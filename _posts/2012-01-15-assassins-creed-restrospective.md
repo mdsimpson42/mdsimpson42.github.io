@@ -9,6 +9,7 @@ categories:
   - retrospectives
 tags:
   - video_games
+menu: blog
 ---
 
 The Assassins Creed (should there be an apostrophe in there somewhere?) series, while doing nothing for the reputation of hoodies, has become one of the most popular series of the current generation and some of my favourite games... in some ways. I haven't reviewed any of the games yet, so I thought I would take a look back at the series and offer some opinions.

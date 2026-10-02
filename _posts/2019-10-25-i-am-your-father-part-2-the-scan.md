@@ -12,6 +12,7 @@ tags:
 image:
   path: /assets/img/blog/scan0002-2-302f5ce4fc.jpg
   alt: "I Am Your Father - Part 2: The Scan"
+menu: blog
 ---
 
 *25th October 2019*

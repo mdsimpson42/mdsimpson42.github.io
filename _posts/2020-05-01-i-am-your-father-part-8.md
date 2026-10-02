@@ -15,6 +15,7 @@ tags:
 image:
   path: /assets/img/blog/IMG_3010A-1024x1024-92f2f90b05.jpg
   alt: "I Am Your Father - Part 8: Season 1 Bonus Content, Bloopers and Deleted Scenes"
+menu: blog
 ---
 
 *18th April 2020*

@@ -10,6 +10,7 @@ tags:
 image:
   path: /assets/img/blog/achievement-a654507930.jpg
   alt: "Rewarding Bad Behaviour"
+menu: blog
 ---
 
 I like achievements. Achievements are a good way to add some challenge, variety and replayability to a game, as well as to make the player feel rewarded, encourage them to improve their skills and give them a sense of progress. So why do some games give you achievements for playing them badly?

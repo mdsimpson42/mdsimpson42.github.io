@@ -9,6 +9,7 @@ categories:
   - video-games
 tags:
   - video_games
+menu: blog
 ---
 
 Today, I would like to discuss one of my fundamental rules of gaming, primarily my view of the different gaming platforms and why certain types of games should only appear on the 'right' platform.

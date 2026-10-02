@@ -10,6 +10,7 @@ categories:
 tags:
   - reviews
   - video_games
+menu: blog
 ---
 
 The games of Mass Effect Trilogy have become some of my favourite games of all time, but (apart from my discussion about the [Mass Effect 3 Ending](http://mdsimpson.co.uk/?p=257)) I haven't actually reviewed any of them so far. So this week I thought I would take a quick look these games and discuss what made great, as well as some of the issues that have plagued the series.

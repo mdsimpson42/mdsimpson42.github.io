@@ -10,6 +10,7 @@ categories:
 tags:
   - reviews
   - video_games
+menu: blog
 ---
 
 I've already talked about Sonic recently in my [Retrospective](http://mdsimpson.co.uk/blog/?p=121), but that was before I had properly played either *Sonic 4 - Episode 1* or *Sonic Generations*. Both of these games seem to be trying to shed some of the stuff that has made the recent games so bad and trying to take Sonic back to his roots, but have either of them succeeded? Lets find out...

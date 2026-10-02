@@ -10,6 +10,7 @@ categories:
 tags:
   - retrospective
   - video_games
+menu: blog
 ---
 
 With the release of yet another attempt to take Sonic the Hedgehog back to his roots, I began to wonder if going back to the beginning is really all the Sonic can hope to achieve?

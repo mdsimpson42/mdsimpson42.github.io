@@ -8,6 +8,7 @@ image:
 categories:
   - in-defence-of
   - miscellaneous
+menu: blog
 ---
 
 This is going a bit off-topic for this blog, perhaps, but I want to talk about something that has been on my mind and that is the current popularity of 'hate culture'; all the people who think its OK to be deliberately offensive. I think this sort of behaviour is unacceptable, makes a lot of people unhappy and, quite frankly, I just don't understand it...

@@ -15,6 +15,7 @@ tags:
 image:
   path: /assets/img/blog/IMG_20200417_155420X-1024x538-fd60f3aac1.jpg
   alt: "I Am Your Father - Part 9a: Labour"
+menu: blog
 ---
 
 *18th April 2020*
