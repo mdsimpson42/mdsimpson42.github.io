@@ -4,7 +4,7 @@ title: "Working from Home: Tips"
 date: 2020-03-23 09:00:54 +0000
 author: mike
 image:
-  path: /assets/img/blog/mdsimpson.jpg
+  path: /assets/img/blog/wfh.jpg
   alt: "Working from Home: Tips"
 categories:
   - mental-health
