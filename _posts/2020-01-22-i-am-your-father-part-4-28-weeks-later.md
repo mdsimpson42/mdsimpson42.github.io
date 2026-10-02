@@ -4,7 +4,7 @@ title: "I Am Your Father - Part 4: 28 Weeks Later"
 date: 2020-01-22 20:49:17 +0000
 author: mike
 image:
-  path: /assets/img/blog/mdsimpson.jpg
+  path: /assets/img/blog/marv_bump.jpg
   alt: "I Am Your Father - Part 4: 28 Weeks Later"
 categories:
   - i-am-your-father
@@ -28,7 +28,7 @@ M'wife is really showing now. It's been remarkable how quickly she has grown fro
 
 Anyway, according to her app, the baby is the size of a butternut squash this week; over 1.2kg and 39cm long!
 
-[http://mdsimpson.co.uk/2020/01/i-am-your-father-part-4-28-weeks-later/img_20200125_164200/](http://mdsimpson.co.uk/2020/01/i-am-your-father-part-4-28-weeks-later/img_20200125_164200/)
+![Marvin and the Bump]({{page.image.path}})
 
 As for other updates, well, there have been a few midwife appointments, but I haven't been going as they are just simple checkups and she doesn't need me to be there. The only other thing to report is that m'wife has had to deal with some pain in her hips, which the midwife said she will "just have to live with until the baby comes". There are exercises and things that she can do, but she is discouraged from taking any medication, even 'everyday' stuff like paracetamol. Fortunately, for whatever reason, the pain has since subsided, but that was the first time that I've felt like I've really had to look after her during the pregnancy so far. Other than that, not a lot of news on the medical front.
 

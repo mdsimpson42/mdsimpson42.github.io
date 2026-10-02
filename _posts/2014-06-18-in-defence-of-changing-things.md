@@ -14,7 +14,7 @@ tags:
   - tv
   - writing
 image:
-  path: /assets/img/blog/Philostone-692x1024-a25a4cbfcd.jpg
+  path: /assets/img/blog/going-postal.jpg
   alt: "In Defence of... Changing Things"
 menu: blog
 ---
@@ -24,8 +24,6 @@ Given my interests and line of work (i.e. the fact that I am a massive nerd), yo
 But, what you might be surprised to learn is that I am not one of these people. Far from it, in fact...
 
 ## Different Media
-
-[Harry Potter and the Philosopher's Stone (c) Warner Bros.](/assets/img/blog/Philostone-692x1024-a25a4cbfcd.jpg) [/caption]
 
 You see, the thing is, books, TV, films and video games are all very different media. They employ different methods and tools to tell their stories and these techniques rarely transfer well from one medium to another.
 
@@ -45,9 +43,9 @@ Some of the biggest cross-medium success stories in recent years are the result 
 
 ### Adapting
 
-[Going Postal (c) Terry Pratchett/Mob Films](/assets/img/blog/postal-da84ef3ca0.jpg)
-
 Terry Pratchett commented on this when his books were adapted into TV movies, saying that the director and writers were often being TOO respectful of the original source material. Here is a man who was clearly very much aware of how storytelling in a book and in a mini-series differ, and SHOULD differ, and who even had his own ideas about how it should be done. "I love that scene too, but if I was writing it for TV, I would have done it like this instead..."
+
+![Going Postal (c) Terry Pratchett/Mob Films]({{page.image.path}})
 
 This, I think, is a good attitude for authors to have. If you accept that your story will have to be changed, and are willing to take the advice of people who are experienced at storytelling in the new medium, then you can help out yourself in the adaptation process. This, I believe, would result in much better adaptations, whatever format they are being adapted from/to. The alternative is to let someone take your work away from you and change things without your input, which, even if the adaptation is a success, might not be something that the author is happy to have their name attached to.
 

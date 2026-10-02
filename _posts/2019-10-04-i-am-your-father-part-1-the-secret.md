@@ -3,7 +3,7 @@ title: "I Am Your Father - Part 1: The Secret"
 date: 2019-10-04 17:41:49 +0000
 author: mike
 image:
-  path: /assets/img/blog/mdsimpson.jpg
+  path: /assets/img/blog/img_2725_x.jpg
   alt: "I Am Your Father - Part 1: The Secret"
 categories:
   - i-am-your-father
@@ -34,7 +34,7 @@ I want this to be a frank but light-hearted blog. I hope to share some interesti
 
 It is currently Week 12 (everything in our life is going to be measured in weeks for the foreseeable future), and we’ll be having our first scan soon. At this point, other than the fact that the baby is already the size of a lime, there is not a lot to report. So, here’s a bit of background information: my wife (30) and I (32) have been together for six years, and we got married in October last year (2018).
 
-[http://mdsimpson.co.uk/2019/10/i-am-your-father-part-1-the-secret/img_2725_x/](http://mdsimpson.co.uk/2019/10/i-am-your-father-part-1-the-secret/img_2725_x/)
+![Wait, we're having a what?]({{page.image.path}})
 
 In case you are wondering, this was all totally planned. We actually came off birth control in July last year, after learning that it can take up to a year for the effect of the pill to fully leave your system (there is your first ‘fact I didn’t know’!). We started trying for a baby around Christmas
 

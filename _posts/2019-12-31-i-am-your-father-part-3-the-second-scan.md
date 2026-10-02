@@ -3,7 +3,7 @@ title: "I Am Your Father - Part 3: The Second Scan"
 date: 2019-12-31 13:25:02 +0000
 author: mike
 image:
-  path: /assets/img/blog/mdsimpson.jpg
+  path: /assets/img/blog/scan0002.jpg
   alt: "I Am Your Father - Part 3: The Second Scan"
 categories:
   - i-am-your-father
@@ -38,7 +38,7 @@ Oh, and we got to find out the gender. I know some people don't want to know, bu
 
 Anyway, we're having a boy! And we got another set of pictures of the now-more-fully-formed baby.
 
-[http://mdsimpson.co.uk/2019/12/i-am-your-father-part-3-the-second-scan/scan0002-2/](http://mdsimpson.co.uk/2019/12/i-am-your-father-part-3-the-second-scan/scan0002-2/)
+![Second Scan]({{page.image.path}})
 
 Not that there is too drastic a difference between this and the picture in [the previous post](http://mdsimpson.co.uk/2019/10/i-am-your-father-part-2-the-scan/), but still. (In case you can't tell, that's his head on the right, with his little nose pointing upwards.)
 
